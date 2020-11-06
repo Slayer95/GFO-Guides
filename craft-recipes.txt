@@ -715,7 +715,7 @@
   + 10x Metal de Superaleación Opaco
 
 * Botas del Líder Nocturo [Prob: 100%]
-  + 1x Plano: Botas del Líder Nocturo
+  + 1x Plano: Botas del Líder Nocturno
   + 1x Botas de Gloria
   + 10x Metal de Superaleación Oxidado
 
@@ -1471,6 +1471,11 @@
   + 3x Barra de chocolate agridulce
   + 3x Especia de pasión
 
+* Ciclo de la Fortuna Taro Oscuro [Prob: 3%]
+  + 1x Plano: Ciclo de la Fortuna Taro Oscuro
+  + 3x Sueño del Rey Taro Fortuna
+  + 12x Vidrio de Fuerza Taro
+
 * Doble Navaja Militar Luz Roja Mortal [Prob: 100%]
   + 1x Fórmula Espada Militar Luz Roja Doble
   + 199x Trozos de Alquimia Mágica
@@ -1588,6 +1593,11 @@
 * Desprecio del Zodiaco del Taro Oscuro [Prob: 3%]
   + 1x Plano: Desprecio del Zodiaco del Taro Oscuro
   + 3x Pesadilla del Zodiaco del Rey Taro
+  + 12x Vidrio de Fuerza Taro
+
+* Declaración del Emperador Taro Oscuro [Prob: 3%]
+  + 1x Plano: Declaración del Emperador Taro Oscuro
+  + 3x Pesadilla Real del Rey Taro
   + 12x Vidrio de Fuerza Taro
 
 * Esmeralda Despertar de Pereza [Prob: 100%]
@@ -1816,6 +1826,16 @@
 * Fantasía de la Luna del Rey Taro [Prob: 3%]
   + 1x Plano: Fantasía de la Luna del Rey Taro
   + 3x Sueño de Luna Taro
+  + 12x Vidrio de Fuerza Taro
+
+* Fugacidad de la Fortuna Taro Oscuro [Prob: 3%]
+  + 1x Plano: Fugacidad de la Fortuna Taro Oscuro
+  + 3x Pesadilla del Rey Taro Fortuna
+  + 12x Vidrio de Fuerza Taro
+
+* Final de la Muerte Taro Oscuro [Prob: 3%]
+  + 1x Plano: Final de la Muerte Taro Oscuro
+  + 3x Sueño del Rey Taro Muerte
   + 12x Vidrio de Fuerza Taro
 
 * Gema Prismática Brillante de Sprite [Prob: 100%]
@@ -3212,6 +3232,11 @@
   + 100x Cubo del Devorador
   + 100x Ojo Infernal de Ewan
 
+* Muñeca Autopulverizadora [Prob: 100%]
+  + 1x Poción Transformadora
+  + 1x Dispositivo Superespray
+  + 1x Muñeca Especial
+
 * Noche sin Estrellas [Prob: 100%]
   + 1x Plano: Noche sin Estrellas
   + 1x Espada Corazón de León
@@ -3327,6 +3352,31 @@
 * Navaja Militar Luz Roja Mortal [Prob: 100%]
   + 1x Fórmula Navaja Militar Luz Roja Mortal
   + 199x Trozos de Alquimia Mágica
+
+* Núcleo de Ilusión Chispeante de Fuerza [Prob: 50%]
+  + 1x Fórmula: Núcleo de Ilusión Chispeante de Fuerza
+  + 1x Chispeante Núcleo de Fuerza
+  + 50x Trozos de Alquimia Mágica
+
+* Núcleo de Ilusión Chispeante de Vitalidad [Prob: 50%]
+  + 1x Fórmula: Núcleo de Ilusión Chispeante de Vitalidad
+  + 1x Chispeante Núcleo de Vitalidad
+  + 50x Trozos de Alquimia Mágica
+
+* Núcleo de Ilusión Chispeante de Inteligencia [Prob: 50%]
+  + 1x Fórmula: Núcleo de Ilusión Chispeante de Inteligencia
+  + 1x Chispeante Núcleo de Inteligencia
+  + 50x Trozos de Alquimia Mágica
+
+* Núcleo de Ilusión Chispeante de Voluntad [Prob: 50%]
+  + 1x Fórmula: Núcleo de Ilusión Chispeante de Voluntad
+  + 1x Chispeante Núcleo de Voluntad
+  + 50x Trozos de Alquimia Mágica
+
+* Núcleo de Ilusión Chispeante de Agilidad [Prob: 50%]
+  + 1x Fórmula: Núcleo de Ilusión Chispeante de Agilidad
+  + 1x Chispeante Núcleo de Agilidad
+  + 50x Trozos de Alquimia Mágica
 
 * Ojo del Destino [Prob: 100%]
   + 1x Plano: Ojo del Destino
@@ -5314,6 +5364,59 @@
   + 1x Planos de las Piedras Runas de los Reyes Antiguos
   + 10x Restos Mágicos de los Templarios
   + 10x Cristal de Sangre Real
+
+* Piedra Arcoíris Fantasmal de Ilania [Prob: 100%]
+  + 1x Fórmula: Piedra Arcoíris Fantasmal de Ilania
+  + 10x Fragmento de Piedra Arcoíris Fantasmal de Ilania
+
+* Piedra Arcoíris de Metamorfosis de Ilania [Prob: 100%]
+  + 1x Fórmula: Piedra Arcoíris de Metamorfosis de Ilania
+  + 10x Fragmento de Piedra Arcoíris de Metamorfosis de Ilania
+
+* Piedra Runa del Silencio Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa del Silencio Astral
+  + 300x Aire Fresco
+  + 300x Aire Húmedo
+
+* Piedra Runa de Pánico Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa de Pánico Astral
+  + 300x Pigmento Oxidado
+  + 300x Pigmento Descolorido
+
+* Piedra Runa de Golpe Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa de Golpe Astral
+  + 300x Aire Húmedo
+  + 300x Aire Seco
+
+* Piedra Runa de Armadura Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa de Armadura Astral
+  + 300x Pigmento Descolorido
+  + 300x Pigmento Sobreexpuesto
+
+* Piedra Runa de Forma Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa de Forma Astral
+  + 300x Aire Seco
+  + 300x Aire Fresco
+
+* Piedra Runa de Fuerza Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa de Fuerza Astral
+  + 300x Pigmento Sobreexpuesto
+  + 300x Pigmento Oxidado
+
+* Piedra Runa de Divinidad Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa de Divinidad Astral
+  + 300x Aire Seco
+  + 300x Pigmento Descolorido
+
+* Piedra Runa de Bloqueo Astral [Prob: 10%]
+  + 1x Fórmula: Piedra Runa de Bloqueo Astral
+  + 300x Pigmento Sobreexpuesto
+  + 300x Aire Húmedo
+
+* Pócima de Efecto Sorpresa [Prob: 100%]
+  + 1x Fórmula del Remedio Adelgazante
+  + 1x Jarra Oscura Ardiente
+  + 5x Concha con Forma de Huevo
 
 * Rosario Arrepentimiento de Gula [Prob: 100%]
   + 1x Planos-Rosario Arrepentimiento de Gula
@@ -10888,6 +10991,16 @@
 * Tortuga Salvaje de Montaña Dos Leones [Prob: 100%]
   + 1x Fórmula: Tortuga Salvaje de Montaña Dos Leones
   + 5x Fragmentos de Coraza de Tortuga
+
+* Tiranía del Emperador Taro Oscuro [Prob: 3%]
+  + 1x Plano: Tiranía del Emperador Taro Oscuro
+  + 3x Sueño Real del Rey Taro
+  + 12x Vidrio de Fuerza Taro
+
+* Travesura de la Muerte Taro Oscuro [Prob: 3%]
+  + 1x Plano: Travesura de la Muerte Taro Oscuro
+  + 3x Pesadilla del Rey Taro Muerte
+  + 12x Vidrio de Fuerza Taro
 
 * Vengador Espina Nocturna [Prob: 100%]
   + 1x Plano: Vengador Espina Nocturna
