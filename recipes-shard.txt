@@ -1,0 +1,90 @@
+* Fragmento Forestal de Temple [Prob: 40%]
+  + 10x Meteoro Forestal de Temple
+  + 75x Gas Refrigerante del Bosque
+  + 300x Aire Fresco
+
+* Fragmento Forestal de Temple [Prob: 40%]
+  + 10x Meteoro Forestal de Temple
+  + 75x Gas Refrigerante del Desierto
+  + 300x Aire Fresco
+
+* Fragmento Forestal de Destreza [Prob: 40%]
+  + 10x Meteoro Forestal de Destreza
+  + 75x Gas Abrasante del Bosque
+  + 300x Aire Fresco
+
+* Fragmento Forestal de Destreza [Prob: 40%]
+  + 10x Meteoro Forestal de Destreza
+  + 75x Gas Abrasante del Desierto
+  + 300x Aire Fresco
+
+* Fragmento Forestal Ardiente [Prob: 40%]
+  + 10x Meteoro Forestal Ardiente
+  + 75x Gas Tibio del Bosque
+  + 300x Aire Fresco
+
+* Fragmento Forestal Ardiente [Prob: 40%]
+  + 10x Meteoro Forestal Ardiente
+  + 75x Gas Tibio del Desierto
+  + 300x Aire Fresco
+
+* Fragmento Forestal Poderoso [Prob: 40%]
+  + 10x Meteoro Forestal Poderoso
+  + 50x Gas Corrosivo del Bosque
+  + 240x Aire Húmedo
+
+* Fragmento Forestal Poderoso [Prob: 40%]
+  + 10x Meteoro Forestal Poderoso
+  + 50x Gas Corrosivo del Desierto
+  + 240x Aire Húmedo
+
+* Fragmento Forestal Arcano [Prob: 40%]
+  + 10x Meteoro Forestal Arcano
+  + 50x Gas Oxidante del Bosque
+  + 240x Aire Húmedo
+
+* Fragmento Forestal Arcano [Prob: 40%]
+  + 10x Meteoro Forestal Arcano
+  + 50x Gas Oxidante del Desierto
+  + 240x Aire Húmedo
+
+* Fragmento Forestal de Caza [Prob: 40%]
+  + 10x Meteoro Forestal de Caza
+  + 50x Gas Rojo Erosivo del Bosque
+  + 240x Aire Húmedo
+
+* Fragmento Forestal de Caza [Prob: 40%]
+  + 10x Meteoro Forestal de Caza
+  + 50x Gas Rojo Erosivo del Desierto
+  + 240x Aire Húmedo
+
+* Fragmento Forestal de Asalto [Prob: 40%]
+  + 10x Meteoro Forestal de Asalto
+  + 30x Gas Licuado del Bosque
+  + 180x Aire Seco
+
+* Fragmento Forestal de Asalto [Prob: 40%]
+  + 10x Meteoro Forestal de Asalto
+  + 30x Gas Licuado del Desierto
+  + 180x Aire Seco
+
+* Fragmento Forestal de Perforación [Prob: 40%]
+  + 10x Meteoro Forestal de Perforación
+  + 30x Gas Experimental del Bosque
+  + 180x Aire Seco
+
+* Fragmento Forestal de Perforación [Prob: 40%]
+  + 10x Meteoro Forestal de Perforación
+  + 30x Gas Experimental del Desierto
+  + 180x Aire Seco
+
+* Fragmento Forestal Guardián [Prob: 40%]
+  + 10x Meteoro Forestal Guardián
+  + 30x Gas Sulfurado del Bosque
+  + 180x Aire Seco
+
+* Fragmento Forestal Guardián [Prob: 40%]
+  + 10x Meteoro Forestal Guardián
+  + 30x Gas Sulfurado del Desierto
+  + 180x Aire Seco
+

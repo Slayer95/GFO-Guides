@@ -1,0 +1,5253 @@
+* Ala de Dragón Dorado [Prob: 40%]
+  + 1x Hacha Maravillosa de Guerra de Sprite
+  + 1x Esencia Misteriosa
+  + 4x Huesos Rey de Bestias
+
+* Asilo [Prob: 40%]
+  + 1x Mazo Especial Pesado de Sprite
+  + 1x Esencia Misteriosa
+  + 2x Cáscara Fruta Mithril
+
+* ArcoCorto del Cazador [Prob: 40%]
+  + 8x Mineral de Bronce
+  + 17x Rama Seca
+
+* ArcoCorto de Cazador de Sprite [Prob: 40%]
+  + 1x ArcoCorto del Cazador
+  + 5x Rama Seca
+  + 3x Fósil Raíz Árbol
+
+* ArcoLargo de Guerra [Prob: 40%]
+  + 15x Mineral de Bronce
+  + 35x Rama Seca
+
+* ArcoLargo de Guerra de Sprite [Prob: 40%]
+  + 1x ArcoLargo de Guerra
+  + 30x Rama Seca
+  + 3x Bulbo de Azucena
+
+* Arco del Cazador [Prob: 40%]
+  + 25x Mineral Férreo
+  + 45x Rama Barba Férrea
+
+* Arco del Cazador de Sprite [Prob: 40%]
+  + 1x Arco del Cazador
+  + 30x Rama Barba Férrea
+  + 4x Raíces Luz de Luna
+
+* Arco Ojo del Corazón [Prob: 40%]
+  + 1x Arco del Cazador de Sprite
+  + 1x Esencia Misteriosa
+  + 4x Huesos Rey de Bestias
+
+* Arco Batalla Antigua [Prob: 40%]
+  + 40x Mineral Acero de Aleación
+  + 80x Rama Hoja de Plata
+
+* Arco Batalla Antigua de Sprite [Prob: 40%]
+  + 1x Arco Batalla Antigua
+  + 1x Astas de Cristal
+  + 3x Coral Verde de Humedal
+
+* Arco Milagro [Prob: 40%]
+  + 1x Arco Batalla Antigua de Sprite
+  + 3x Cristal Mágico
+  + 6x Pétalo Cien Capas
+
+* Arco del Vigilante [Prob: 40%]
+  + 1x Arco Batalla Antigua de Sprite
+  + 1x Esencia Ensueño
+  + 6x Grama Lengua de Dragón
+
+* ArcoLargo ColmilloVentoso [Prob: 40%]
+  + 50x Mineral de Medianoche
+  + 90x Rama Ámbar
+
+* ArcoLargo ColmilloVentoso de Sprite [Prob: 40%]
+  + 1x ArcoLargo ColmilloVentoso
+  + 1x Cristal Sangriento
+  + 3x Piedra Cubierta de Líquenes
+
+* Arco Filo Cortante [Prob: 40%]
+  + 1x ArcoLargo ColmilloVentoso de Sprite
+  + 4x Cristal Mágico
+  + 8x Hongo Transformador Azul
+
+* Arco de Uso Diario [Prob: 40%]
+  + 60x Mineral de Platino
+  + 100x Rama Anciana
+  + 2x Esmeralda Verde
+
+* Arco de UsoDiario de Sprite [Prob: 40%]
+  + 1x Arco de Uso Diario
+  + 1x Plata Blanca Mágica
+  + 2x Vid Sangre de Dragón
+
+* Arco Sello Bestial de Quill [Prob: 40%]
+  + 1x Arco de UsoDiario de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Pluma Ave del Paraíso
+
+* Abrazo del Creador [Prob: 40%]
+  + 1x Escudo Sigiloso Celeste de Sprite
+  + 5x Cristal Radiante
+  + 8x Orquídea de Cristal
+
+* Almádena Negra para Hielo de Ronto [Prob: 40%]
+  + 1x Mazo Mágico de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Almádena para Hielo de Ronto [Prob: 40%]
+  + 1x Mazo Quimérico de Sprite
+  + 5x Cristal Dimensión Aliento de Vida
+  + 2x Garra Fuego Ng
+
+* Arco Jerarca Dragón de Quill [Prob: 40%]
+  + 1x ArcoLargo ColmilloVentoso de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Arco Rey Dragón de Quill [Prob: 40%]
+  + 1x Arco de UsoDiario de Sprite
+  + 5x Cristal Dimensión Aliento de Vida
+  + 2x Pluma Ave del Paraíso
+
+* Arco Esquelético de Sprite [Prob: 40%]
+  + 90x Mineral Cristal Ilusorio
+  + 90x Rama Cristalizada
+  + 8x Restos Insecto Maligno
+
+* Asesina-Dioses [Prob: 65%]
+  + 1x Crepúsculo de Dioses
+  + 1x Emblema Krudit Mutante
+  + 7x Núcleo Mutante
+
+* Arco Sigiloso Dragón Ng [Prob: 65%]
+  + 1x Emblema del Dragón Negro
+  + 1x Emblema Ohmudo Mutante
+  + 7x Núcleo Mutante
+
+* Arco Bestia Celeste de Quill [Prob: 60%]
+  + 1x Arco Sello Bestial de Quill
+  + 1x Emblema GBX-989 Mutante
+  + 15x Polvorín Luz de Safael
+
+* Arma de Fuego Conteo Sacro [Prob: 65%]
+  + 1x Nobleza Divina
+  + 1x Emblema Antoraya Mutante
+  + 7x Polvo Luz de Safael
+
+* Arco Largo Furioso de Sprite [Prob: 40%]
+  + 90x Gema Aurora
+  + 90x Antigua Corteza Gigante
+  + 3x Hongo del Cielo
+
+* Alas de Hombres Divinos [Prob: 40%]
+  + 1x Arco Largo Furioso de Sprite
+  + 4x Alma Celeste de Safael
+  + 8x Alas de Vidrio
+
+* Arco Mágico-Furia del Rey Dragón [Prob: 40%]
+  + 1x Arco Largo Furioso de Sprite
+  + 2x Esencia de Poder Mágico
+  + 8x Viñas Copo de Nieve
+
+* Arma de Caza de Francotirador [Prob: 40%]
+  + 1x Pistola Explosiva de Sprite
+  + 4x Alma Terrestre de Safael
+  + 8x Vainilla Aurora
+
+* Arco Maquinario Preciso de Quill [Prob: 40%]
+  + 1x Arco Esquelético de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Fósil Cristal Bestia Helada
+
+* Aniquilador - Cero [Prob: 55%]
+  + 1x Mano del Exterminador
+  + 1x Emblema de Yanna Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Alas de un Hombre Divino [Prob: 55%]
+  + 1x Alas de Hombres Divinos
+  + 1x Emblema de Yatta Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Atado en Hielo, El Tirano Invencible [Prob: 40%]
+  + 1x Espada Filo Púrpura de Sprite
+  + 1x Hoja de Laurel Dorada
+  + 6x Alma Terrestre de Safael
+
+* Arrogancia - Colmillo Sangriento [Prob: 40%]
+  + 1x Hacha Luna Azul de Sprite
+  + 1x Diente de Leche del Sabueso Infernal
+  + 6x Alma Terrestre de Safael
+
+* Alfa, El Francotirador Absoluto [Prob: 40%]
+  + 1x Pistola Explosiva de Sprite
+  + 1x Diente de Leche del Sabueso Infernal
+  + 6x Alma Celeste de Safael
+
+* Alas de Sabiduría - Águila [Prob: 40%]
+  + 1x Báculo Cruz de Sprite
+  + 3x Cristal de Entendimiento
+  + 6x Alma Terrestre de Safael
+
+* Armadura Sacra Luna Plateada [Prob: 40%]
+  + 1x Escudo Aracne de Sprite
+  + 3x Cristal de Entendimiento
+  + 6x Alma Terrestre de Safael
+
+* Arco del Espíritu Sprite [Prob: 40%]
+  + 100x Gema Extraña
+  + 110x Corteza Dorada
+  + 5x Hierba de Agua Purificante
+
+* Ataque Furtivo de Halcón [Prob: 55%]
+  + 1x Tirador Divino Magnifico
+  + 1x Emblema de Mogma Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Arco Largo Veloz de Sprite [Prob: 40%]
+  + 110x Gema Brillante
+  + 130x Raíz de Árbol Antigua
+  + 7x Vid Tóxico
+
+* Ala Sacra - Perforadora [Prob: 40%]
+  + 1x Arco Largo Veloz de Sprite
+  + 1x Beso de Opio Amapola
+  + 12x Poder del Cielo Profundo
+
+* Alma Divina - Fuente de Espada [Prob: 40%]
+  + 1x Báculo Eternidad de Sprite
+  + 3x Beso de Opio Amapola
+  + 12x Poder de la Tierra Profunda
+
+* Alma Divina - Cicatriz de Espíritu [Prob: 40%]
+  + 1x Báculo de Meteoro de Sprite
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Alma: Corte [Prob: 55%]
+  + 1x Divine Blade - Ala Dorada
+  + 1x Emblema de Falconio Mutado
+  + 35x Semilla de Luz de Safael
+
+* Arcoíris Parpadeo [Prob: 55%]
+  + 1x Alma Divina - Fuente de Espada
+  + 1x Emblema de Falconio Mutado
+  + 35x Semilla de Luz de Safael
+
+* Arcoíris Saltar [Prob: 55%]
+  + 1x Alma Divina - Cicatriz de Espíritu
+  + 1x Emblema de Dídelo Mutado
+  + 35x Semilla de Luz de Safael
+
+* Avalancha: Defensa [Prob: 55%]
+  + 1x Dominio Absoluto - Linne
+  + 1x Emblema de Magnita Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Aura Parpadeo [Prob: 55%]
+  + 1x Tabla Sacra Dañada
+  + 1x Emblema de Dídelo Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Arco Virtud Divina [Prob: 40%]
+  + 1x Alas de un Hombre Divino
+  + 1x Alas de Hombres Divinos
+  + 44x Raíz de Flor Demoníaca Sanguinaria
+
+* Agujero Negro de Magia Impecable [Prob: 40%]
+  + 1x Otromundo - Adelanto
+  + 1x Dimensión - Halo de Trascendencia
+  + 44x Vides Antiguas
+
+* Alma Maestro Mago Magatama [Prob: 40%]
+  + 1x Libro de las Ofrendas de Sacrificio
+  + 1x Libro Dedicado con Aprecio
+  + 44x Vides Antiguas
+
+* Alma de Cristal Diseminada [Prob: 40%]
+  + 1x Insignia de Martillo Cristalino Fantasmático
+  + 1x Martillo de Cristal Interespacial
+  + 40x Alga Parásita
+
+* Alas Llameantes Sobrenaturales [Prob: 40%]
+  + 1x Herejía Condenadora
+  + 1x Súper Alados Ojos Malvados
+  + 44x Alga Parásita
+
+* Alma de Maestro Mago Luz de Estrella [Prob: 40%]
+  + 1x Aura Parpadeo
+  + 1x Tabla Sacra Dañada
+  + 44x Nido de Flores de Imo
+
+* Ataque de Pulso de Rendimiento Superior [Prob: 50%]
+  + 1x Ascensión al Trono
+  + 1x Soldado Pionero Tirano
+  + 44x Gema Ígnea Impura
+
+* Alma Tóxica del Terror [Prob: 50%]
+  + 1x Rugido del Rey León
+  + 1x Relámpago Canal
+  + 44x Flor Cadavérica Dimensional
+
+* Asalto de Huracán Sacrificial [Prob: 50%]
+  + 1x Equipo: Cañón Infalible
+  + 1x Radiación: Guía
+  + 44x Gema Ígnea Impura
+
+* Arco de Cazador Sprite [Prob: 40%]
+  + 110x Cristal Fantasmal
+  + 120x Raíces Fantasmales Arácnidas
+  + 9x Cabello Soñado de Sprite
+
+* Arco Hada Etérea [Prob: 40%]
+  + 1x Arco de Cazador Sprite
+  + 1x Narciso de Jade
+  + 14x Alma Celeste del Otro Mundo
+
+* Arco Asesino Solar Sprite [Prob: 40%]
+  + 115x Mineral de Lágrimas Soñadas
+  + 125x Hierba Helada
+  + 11x Fruta del Tiempo
+
+* Arco Vista de Halcón [Prob: 40%]
+  + 1x Arco Asesino Solar Sprite
+  + 1x Rosa Sangrienta Demoníaca
+  + 17x Alma Celeste del Otro Mundo
+
+* Aliento de Dragón [Prob: 55%]
+  + 1x Báculo Escama Cobalto
+  + 1x Emblema de la Luz
+  + 35x Alma de Honor de Safael
+
+* Amuleto Nocturno Sprite [Prob: 40%]
+  + 2x Cristal de Obsidiana
+  + 260x Hierba Helada
+  + 7x Diamante de Sangre
+
+* Astas Invernales de Renos [Prob: 40%]
+  + 1x Código de Honor Sprite
+  + 1x Rosa Sangrienta Demoníaca
+  + 17x Alma Celeste del Otro Mundo
+
+* Aplasta Colinas [Prob: 55%]
+  + 1x Maza Quebrantahuesos
+  + 1x Emblema de Tespin Mutante
+  + 35x Núcleo Ardiente Mutado
+
+* Arco Divino Pluma de Azor [Prob: 40%]
+  + 1x Colmillo de Devorador
+  + 1x Arco Vista de Halcón
+  + 44x Algas Marea Ilusoria
+
+* Avatar de Dimensión Alterna [Prob: 60%]
+  + 1x Espada de Trascendencia
+  + 1x Emblema Randorak Mutante
+  + 15x Polvorín Luz de Safael
+
+* Alas Férreas del Pinzón Emplumado [Prob: 40%]
+  + 1x Mandoble Salvaje de Sprites
+  + 1x Cristal Radiante
+  + 6x Alma Celeste de Safael
+
+* Alas Inmaculadas del Fénix [Prob: 40%]
+  + 1x Señor de Fénix Ala de Fuego
+  + 1x Alas Férreas del Pinzón Emplumado
+  + 44x Colmillo de Bestia Estelar
+
+* Artillería Pesada Lignificada [Prob: 40%]
+  + 15x Mineral de Bronce
+  + 10x Rama Seca
+
+* Artillería Pesada Lignificada de Sprites [Prob: 40%]
+  + 1x Artillería Pesada Lignificada
+  + 5x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Artillería Primitiva [Prob: 40%]
+  + 30x Mineral de Bronce
+  + 20x Rama Seca
+
+* Artillería Primitiva de Sprites [Prob: 40%]
+  + 1x Artillería Primitiva
+  + 30x Mineral de Bronce
+  + 3x Piedra Lunar
+
+* Arma Airada del Lobo Polvoriento [Prob: 40%]
+  + 1x Cañón Pesado del Cazador de Sprites
+  + 2x Cristal Espiritual
+  + 4x Gema Centelleante
+
+* Artillería Bruma Negra [Prob: 40%]
+  + 70x Mineral Acero de Aleación
+  + 50x Rama Hoja de Plata
+
+* Artillería Bruma Negra de Sprites [Prob: 40%]
+  + 1x Artillería Bruma Negra
+  + 2x Coral Verde de Humedal
+  + 2x Gema Prismática
+
+* Acechador Sombrío [Prob: 40%]
+  + 1x Artillería Bruma Negra de Sprites
+  + 3x Cristal Mágico
+  + 6x Oro Antiguo
+
+* Artillería Pesada Purificadora [Prob: 40%]
+  + 80x Mineral de Medianoche
+  + 60x Rama Ámbar
+
+* Artillería Pesada Purificadora de Sprites [Prob: 40%]
+  + 1x Artillería Pesada Purificadora
+  + 1x Piedra Cubierta de Líquenes
+  + 3x Cristal Sangriento
+
+* Artillería Golpe de Frío [Prob: 40%]
+  + 15x Mineral de Platino
+
+* Aparición Exterminadora [Prob: 40%]
+  + 1x Teppo Sombrío de Sprites
+  + 5x Cristal Radiante
+  + 8x Carapacho Tortuga
+
+* Artillería Oración de Sprites [Prob: 40%]
+  + 120x Mineral Cristal Ilusorio
+  + 60x Rama Cristalizada
+  + 8x Semilla Estrella
+
+* Artillería Hechizo Arcano de Sprites [Prob: 40%]
+  + 90x Gema Extraña
+  + 120x Corteza Dorada
+  + 5x Diente del Conejo de Una Oreja
+
+* Artillería Milagrosa de Ginny [Prob: 40%]
+  + 1x Artillería Hechizo Arcano de Sprites
+  + 1x Cuerno de Unicornio
+  + 9x Poder del Cielo Profundo
+
+* Artillería Pesada y Cruel de Sprites [Prob: 40%]
+  + 60x Gema Brillante
+  + 180x Raíz de Árbol Antigua
+  + 7x Hueso de Bestia Mágica
+
+* Ascensión al Trono [Prob: 40%]
+  + 1x Soldado Pionero Tirano
+  + 1x Cañón Pesado Mágico de Bombardeo
+  + 44x Electrodo Líquido
+
+* Artillería Marea de Sprites [Prob: 40%]
+  + 110x Raíces Fantasmales Arácnidas
+  + 120x Cristal Fantasmal
+  + 9x Corazón de Muñeca
+
+* Artillería Pesada Relámpago de Sprites [Prob: 40%]
+  + 115x Hierba Helada
+  + 125x Mineral de Lágrimas Soñadas
+  + 11x Colmillos de Jabalí Mágico
+
+* Águila Destructor [Prob: 40%]
+  + 1x Báculo Cruz de Sprite
+  + 4x Alma Terrestre de Safael
+  + 8x Arena Piedraluna
+
+* Ágata del Caos [Prob: 40%]
+  + 1x Halo de Viento Jade Brillante
+  + 1x Melodía Gloriosa
+  + 44x Hierba Eco de Fantasía
+
+* Árbol de la Vida Luz de Estrella [Prob: 40%]
+  + 1x Arcoíris Saltar
+  + 1x Alma Divina - Cicatriz de Espíritu
+  + 44x Nido de Flores de Imo
+
+* Bala de Acero [Prob: 40%]
+  + 10x Mineral Férreo
+
+* Bala Supersónica [Prob: 40%]
+  + 10x Mineral Acero de Aleación
+
+* Báculo Madera [Prob: 40%]
+  + 5x Mineral de Bronce
+  + 20x Rama Seca
+
+* Báculo Madera de Sprite [Prob: 40%]
+  + 1x Báculo Madera
+  + 5x Rama Seca
+  + 3x Fósil Raíz Árbol
+
+* Báculo Férreo de Sprite [Prob: 40%]
+  + 1x Báculo Madera
+  + 5x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Báculo del Aprendiz [Prob: 40%]
+  + 30x Mineral de Bronce
+  + 20x Rama Seca
+
+* Báculo de Práctica [Prob: 40%]
+  + 20x Mineral de Bronce
+  + 30x Rama Seca
+
+* Báculo Aprendiz de Sprite [Prob: 40%]
+  + 1x Báculo del Aprendiz
+  + 30x Mineral de Bronce
+  + 3x Piedra Lunar
+
+* Báculo de Práctica de Sprite [Prob: 40%]
+  + 1x Báculo de Práctica
+  + 30x Rama Seca
+  + 3x Bulbo de Azucena
+
+* Báculo de Profecía [Prob: 40%]
+  + 35x Mineral Férreo
+  + 35x Rama Barba Férrea
+
+* Báculo del Adivino [Prob: 40%]
+  + 25x Mineral Férreo
+  + 45x Rama Barba Férrea
+
+* Báculo de Profecía de Sprite [Prob: 40%]
+  + 1x Báculo de Profecía
+  + 30x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Báculo del Adivino de Sprite [Prob: 40%]
+  + 1x Báculo del Adivino
+  + 30x Rama Barba Férrea
+  + 4x Musgo Marchito de Hueso
+
+* Báculo Apóstol de Luz [Prob: 40%]
+  + 1x Báculo de Profecía de Sprite
+  + 2x Cristal Espiritual
+  + 4x Cuerno de Bestia
+
+* Báculo Enjoyado Arcano [Prob: 40%]
+  + 60x Mineral Acero de Aleación
+  + 60x Rama Hoja de Plata
+
+* Báculo Nocturno [Prob: 40%]
+  + 45x Mineral Acero de Aleación
+  + 75x Rama Hoja de Plata
+
+* Báculo Enjoyado Arcano de Sprite [Prob: 40%]
+  + 1x Báculo Enjoyado Arcano
+  + 1x Astas de Cristal
+  + 3x Coral Verde de Humedal
+
+* Báculo Luminoso Nocturno de Sprite [Prob: 40%]
+  + 1x Báculo Nocturno
+  + 3x Pétalo Cien Capas
+  + 1x Oro Antiguo
+
+* Báculo Férreo del Exorcista [Prob: 40%]
+  + 58x Mineral de Medianoche
+  + 82x Rama Ámbar
+
+* Báculo Férreo del Exorcista de Sprite [Prob: 40%]
+  + 1x Báculo Férreo del Exorcista
+  + 2x Saco Llamas del Monstruo
+  + 2x Cristal Viviente
+
+* Báculo Ojo Maligno [Prob: 40%]
+  + 1x Varita Onda de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Cielo de Safael
+
+* Báculo del Sabio [Prob: 40%]
+  + 80x Mineral de Platino
+  + 80x Rama Anciana
+  + 2x Cardos Luminosos
+
+* Báculo del Sabio de Sprite [Prob: 40%]
+  + 1x Báculo del Sabio
+  + 3x Vid Sangre de Dragón
+  + 1x Hueso de Oro
+
+* Báculo Desventurado [Prob: 40%]
+  + 1x Báculo del Sabio de Sprite
+  + 5x Cristal Radiante
+  + 8x Piedra Preciosa Vacua
+
+* Báculo Jormundgander [Prob: 40%]
+  + 1x Vara de Revelación de Sprite
+  + 5x Cristal Radiante
+  + 8x Fruta de Perla
+
+* Broquel del Luchador [Prob: 40%]
+  + 60x Mineral Acero de Aleación
+  + 60x Rama Hoja de Plata
+
+* Broquel del Luchador de Sprite [Prob: 40%]
+  + 1x Broquel del Luchador
+  + 2x Oro Antiguo
+  + 2x Escama Lagartija Gigante
+
+* Báculo Paño Mortuorio de Mosunk [Prob: 40%]
+  + 1x Varita Onda de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Báculo Garra de Mosunk [Prob: 40%]
+  + 1x Vara de Revelación de Sprite
+  + 5x Cristal Dimensión Aliento de Vida
+  + 2x Tronco Árbol de Mil Años
+
+* Bala de Platino [Prob: 40%]
+  + 20x Mineral Cristal Ilusorio
+
+* Báculo Mágico Verde de Sprite [Prob: 40%]
+  + 60x Mineral Cristal Ilusorio
+  + 120x Rama Cristalizada
+  + 2x Semilla Estrella
+
+* Báculo Ala de Culebra de Sprite [Prob: 40%]
+  + 80x Mineral Cristal Ilusorio
+  + 100x Rama Cristalizada
+  + 3x Restos Insecto Maligno
+
+* Báculo de Luz Encarcelada [Prob: 40%]
+  + 1x Báculo Mágico Verde de Sprite
+  + 5x Corindón Escarlata
+  + 8x Pétalos Flor Cristal de Hielo
+
+* Báculo Guiador del Sabio [Prob: 40%]
+  + 1x Báculo Mágico Verde de Sprite
+  + 4x Jade Alma de Cristal
+  + 8x Liquen Rayo Azul
+
+* Báculo Naranja Exclusivo Campo Batalla [Prob: 40%]
+  + 1x Báculo Ala de Culebra de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Cristal Brillo de Sol de Montaña Nevada
+
+* Báculo Cruz de Sprite [Prob: 40%]
+  + 60x Gema Aurora
+  + 120x Antigua Corteza Gigante
+  + 4x Hongo del Cielo
+
+* Báculo Pastizal de Sprite [Prob: 40%]
+  + 80x Gema Aurora
+  + 100x Antigua Corteza Gigante
+  + 4x Alas de Vidrio
+
+* Biblia Sagrada de la Salvación de Dios [Prob: 40%]
+  + 2x Jade Alma de Cristal
+  + 150x Gema Aurora
+  + 3x Hongo del Cielo
+
+* Beso Mortal de la Reina Sanguinaria [Prob: 55%]
+  + 1x Corona Mortal de la Reina Sanguinaria
+  + 1x Emblema de Molilada Mutante
+  + 35x Piedra Luz de Safael
+
+* Bala del Caza-Dioses [Prob: 40%]
+  + 20x Gema Aurora
+
+* Bala Astral [Prob: 40%]
+  + 20x Gema Extraña
+
+* Bastón para Deslizar Sprite [Prob: 40%]
+  + 50x Gema Extraña
+  + 130x Corteza Dorada
+  + 6x Hierba de Agua Purificante
+
+* Bastón de Rueda Sprite [Prob: 40%]
+  + 60x Gema Extraña
+  + 180x Corteza Dorada
+  + 6x Diente del Conejo de Una Oreja
+
+* Báculo Eternidad de Sprite [Prob: 40%]
+  + 60x Gema Brillante
+  + 90x Raíz de Árbol Antigua
+  + 8x Vid Tóxico
+
+* Báculo de Meteoro de Sprite [Prob: 40%]
+  + 60x Gema Brillante
+  + 145x Raíz de Árbol Antigua
+  + 8x Hueso de Bestia Mágica
+
+* Báculo de Maná Tenebroso [Prob: 40%]
+  + 1x Ojo Espiritual del Centro de Fuego
+  + 1x Tenazas Brillantes
+  + 44x Hierba Eco de Fantasía
+
+* Barricada Luz de Estrella [Prob: 40%]
+  + 1x Daño Negación
+  + 1x Sanción Absoluta - Atena
+  + 44x Electrodo Líquido
+
+* Barrera Astral del Dios del Combate [Prob: 50%]
+  + 1x Barricada Luz de Estrella
+  + 1x Daño Negación
+  + 44x Gema Ígnea Impura
+
+* Bendición del Equipo Terrestre [Prob: 50%]
+  + 1x Equipo: Barrera de Tranquilidad Dimensional de Jale
+  + 1x Daño Negación
+  + 44x Gema Ígnea Impura
+
+* Beso Relámpago Lunabrillante [Prob: 50%]
+  + 1x Frenesí del Señor de las Heladas
+  + 1x Diosa Rugiente de la Ventisca
+  + 40x Compuesto de Microcristales
+
+* Bombardeo Hirviente con Ondas Abrasadoras [Prob: 50%]
+  + 1x Océano de Nubes Desbocadas
+  + 1x Rencor de los Ahogados
+  + 44x Compuesto de Microcristales
+
+* Bala Arenosa [Prob: 40%]
+  + 20x Cristal Fantasmal
+
+* Bala Agujero Negro [Prob: 40%]
+  + 22x Mineral de Lágrimas Soñadas
+
+* Báculo Fantasmal Sprite [Prob: 40%]
+  + 65x Cristal Fantasmal
+  + 120x Raíces Fantasmales Arácnidas
+  + 10x Cabello Soñado de Sprite
+
+* Báculo Linterna Sprite [Prob: 40%]
+  + 65x Cristal Fantasmal
+  + 175x Raíces Fantasmales Arácnidas
+  + 10x Hueso de Pescado Pesadilla
+
+* Báculo Desgarra Almas [Prob: 40%]
+  + 1x Báculo Fantasmal Sprite
+  + 3x Narciso de Jade
+  + 15x Alma Celeste del Otro Mundo
+
+* Báculo Sepulcral [Prob: 40%]
+  + 1x Báculo Linterna Sprite
+  + 1x Ojo de Dragón Azul
+  + 15x Alma de Tierra del Otro Mundo
+
+* Báculo Maldice Almas [Prob: 55%]
+  + 1x Báculo Desgarra Almas
+  + 1x Emblema de Ukrin Mutante
+  + 35x Jade de Energía de Safael
+
+* Báculo de Mariposa Sprite [Prob: 40%]
+  + 75x Mineral de Lágrimas Soñadas
+  + 130x Hierba Helada
+  + 12x Fruta del Tiempo
+
+* Báculo Ofídico Sprite [Prob: 40%]
+  + 75x Mineral de Lágrimas Soñadas
+  + 180x Hierba Helada
+  + 12x Aguijón de Abeja Colorida
+
+* Báculo Pluma Arcoíris [Prob: 40%]
+  + 1x Báculo de Mariposa Sprite
+  + 3x Rosa Sangrienta Demoníaca
+  + 18x Alma Celeste del Otro Mundo
+
+* Báculo Escama Cobalto [Prob: 40%]
+  + 1x Báculo Ofídico Sprite
+  + 1x Pluma de Ave Dorada Gigante
+  + 18x Alma de Tierra del Otro Mundo
+
+* Brote del Árbol de la Vida [Prob: 55%]
+  + 1x Raíz de Purificación Espectral
+  + 1x Emblema de Libertad
+  + 35x Alma de Honor de Safael
+
+* Broquel de Carga Sprite [Prob: 40%]
+  + 145x Cristal Fantasmal
+  + 135x Raíces Fantasmales Arácnidas
+  + 12x Orbe Solar
+
+* Broquel de Espera Sprite [Prob: 40%]
+  + 140x Mineral de Lágrimas Soñadas
+  + 135x Hierba Helada
+  + 12x Colmillos de Jabalí Mágico
+
+* Báculo del Alma Ardiente [Prob: 40%]
+  + 1x Báculo Maldice Almas
+  + 1x Báculo Desgarra Almas
+  + 44x Narciso de Jade Rojo
+
+* Báculo Alas de Cristal [Prob: 40%]
+  + 1x Ruptura Perpetua
+  + 1x Báculo Sepulcral
+  + 44x Narciso de Jade Rojo
+
+* Báculo de la Gárgola Asesina [Prob: 40%]
+  + 1x Aliento de Dragón
+  + 1x Báculo Escama Cobalto
+  + 44x Algas Marea Ilusoria
+
+* Balada de las Leyes Demoníacas [Prob: 40%]
+  + 1x Mano Mezquina
+  + 1x Roedor de Oleada Demoníaca
+  + 44x Oreja de Búho Mutado
+
+* Buscadores de Dulces Sueños [Prob: 40%]
+  + 1x Artillería Oración de Sprites
+  + 6x Corindón Escarlata
+  + 2x Ojo de Piegrande
+
+* Bomba Inactiva Diabólica [Prob: 40%]
+  + 1x Artillería Oración de Sprites
+  + 2x Alma Terrestre de Safael
+  + 8x Pétalos Flor Cristal de Hielo
+
+* Cuchilla de Metal [Prob: 40%]
+  + 31x Mineral Férreo
+  + 25x Rama Barba Férrea
+
+* Colmillo Llameante [Prob: 40%]
+  + 1x Espada Metal de Sprite
+  + 2x Cristal Espiritual
+  + 4x Musgo Marchito de Hueso
+
+* Cuchilla Plata Antigua [Prob: 40%]
+  + 1x Espada Grabada Relieve
+  + 3x Cristal Mágico
+  + 6x Escama Lagartija Gigante
+
+* Cuchilla de Brigand [Prob: 40%]
+  + 60x Mineral de Medianoche
+  + 52x Rama Ámbar
+
+* Cuchilla Escama de Dragón Verde [Prob: 40%]
+  + 1x Espada Caudillo de Sprite
+  + 4x Cristal Mágico
+  + 8x Saco Llamas del Monstruo
+
+* Crepúsculo de Dioses [Prob: 40%]
+  + 1x Espada de Desperdicios de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Tierra de Safael
+
+* Cuchilla Realidad Infinita [Prob: 40%]
+  + 1x Espada Forjada Batalla de Sprite
+  + 5x Cristal Radiante
+  + 8x Diamante Tenebroso
+
+* Campeón Peso Pesado [Prob: 40%]
+  + 1x Hacha Tridente Acero de Sprite
+  + 2x Cristal Espiritual
+  + 4x Gema Centelleante
+
+* Cuchilla Vacío Desgarrador [Prob: 40%]
+  + 1x Hoz Afeitadora Vida de Sprite
+  + 4x Cristal Mágico
+  + 8x Hongo Transformador Azul
+
+* Colmillo Rey Dragón Apocalíptico [Prob: 40%]
+  + 1x Hacha Dios Guerra de Sprite
+  + 5x Cristal Radiante
+  + 8x Carapacho Tortuga
+
+* Cetro del Arzobispo [Prob: 40%]
+  + 1x Martillo del Sello de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Cielo de Safael
+
+* Cañón Asalto del Caballero [Prob: 40%]
+  + 1x Rifle de Largo Alcance de Sprite
+  + 2x Cristal Espiritual
+  + 2x Ojo Felino
+
+* Centinela Armado [Prob: 40%]
+  + 1x Pistola Pulso de Sprite
+  + 3x Cristal Mágico
+  + 6x Oro Antiguo
+
+* Cola del Ciempiés [Prob: 40%]
+  + 1x Pistola Pulso de Sprite
+  + 1x Esencia Ensueño
+  + 6x Hierro Muerto
+
+* Cartucho Incendiario [Prob: 40%]
+  + 10x Mineral de Medianoche
+
+* Casquillo Rompe-Hechizo [Prob: 40%]
+  + 15x Mineral de Platino
+
+* Caballero Caído [Prob: 40%]
+  + 1x Báculo Enjoyado Arcano de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Cielo de Safael
+
+* Caminante Soñador [Prob: 40%]
+  + 1x Báculo del Sabio de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Cristal de Sueño
+
+* Caballero Brillante [Prob: 40%]
+  + 1x Emblema Ley de Sprite
+  + 1x Esencia Ensueño
+  + 4x Hueso de Plata
+
+* Certificado del Mensajero Fiel [Prob: 40%]
+  + 1x Tabla Mandamientos de Sprite
+  + 1x Esencia Ensueño
+  + 4x Hierro Muerto
+
+* Certificado Vida Eterna [Prob: 40%]
+  + 1x Pizarra Camino al Cielo de Sprite
+  + 6x Corazón Tierra de Safael
+  + 1x Cráneo de Bestia Sacra
+
+* Cuchilla Ola V [Prob: 40%]
+  + 1x Espada Metal de Sprite
+  + 2x Cristal Espiritual
+  + 4x Huesos Rey de Bestias
+
+* Cuchilla del Guardia de Acero de Siropas [Prob: 40%]
+  + 1x Espada de Desperdicios de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Cuchilla Conquistadora de Siropas [Prob: 40%]
+  + 1x Espada Forjada Batalla de Sprite
+  + 6x Cristal Dimensión Aliento de Vida
+  + 1x Mineral de Escama de Dragón
+
+* Cuchilla Asesina de Aleación [Prob: 40%]
+  + 1x Hacha Gladiador de Sprite
+  + 3x Cristal Mágico
+  + 2x Cristal Dimensión Aliento de Recuperación
+
+* Cuchilla Horizonte de Otro Mundo [Prob: 40%]
+  + 1x Hacha Dios Guerra de Sprite
+  + 5x Cristal Radiante
+  + 8x Cola de Gusano Gigante
+
+* Cono de las Escamas Rojas [Prob: 40%]
+  + 1x Martillo Cuernudo de Sprite
+  + 2x Cristal Espiritual
+  + 4x Gema Centelleante
+
+* Cuchilla Sello Gigante de Sprite [Prob: 40%]
+  + 150x Mineral Cristal Ilusorio
+  + 60x Rama Cristalizada
+  + 4x Plata Brillante
+
+* Cuchilla Roja Gigante [Prob: 40%]
+  + 1x Cuchilla Sello Gigante de Sprite
+  + 5x Corindón Escarlata
+  + 8x Ojo de Piegrande
+
+* Cuchilla Ala Liviana [Prob: 40%]
+  + 1x Hacha de Batalla de Sprites de Isla del Sur
+  + 5x Nuez Mágica
+  + 8x Diente de Bestia Helada
+
+* Cañón Fuego Intenso de Sprite [Prob: 40%]
+  + 120x Mineral Cristal Ilusorio
+  + 60x Rama Cristalizada
+  + 8x Semilla Estrella
+
+* Cuchilla de Fuego [Prob: 40%]
+  + 1x Cañón Fuego Intenso de Sprite
+  + 6x Corindón Escarlata
+  + 2x Ojo de Piegrande
+
+* Corona Conquista del León Negro [Prob: 40%]
+  + 1x Escudo Defensor Pesado de Sprite
+  + 5x Corindón Escarlata
+  + 8x Fósil Cristal Bestia Helada
+
+* Cuchilla Legión Carmesí [Prob: 55%]
+  + 1x Cuchilla Roja Gigante
+  + 1x Emblema Basse Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Cuchilla Aurora Alada [Prob: 55%]
+  + 1x Cuchilla Ala Liviana
+  + 1x Emblema Sivalee Mutante
+  + 22x Piedra Luz de Safael
+
+* Cetro Fe del Pontífice [Prob: 65%]
+  + 1x Cetro del Arzobispo
+  + 1x Emblema Krudit Mutante
+  + 7x Núcleo Mutante
+
+* Certificado Maná Infinito [Prob: 60%]
+  + 1x Certificado Vida Eterna
+  + 1x Emblema Señor Carlos Mutante
+  + 15x Polvorín Luz de Safael
+
+* Corona Mortal de la Reina Sanguinaria [Prob: 40%]
+  + 1x Hacha de Batalla de Sprites de Isla del Sur
+  + 3x Jade Alma de Cristal
+  + 2x Alma Terrestre de Safael
+
+* Cuchilla Ala Inmortal del Ángel de Acero [Prob: 40%]
+  + 1x Hacha Caza-Fantasmas de Sprite
+  + 5x Jade Alma de Cristal
+  + 2x Alma Celeste de Safael
+
+* Certificado de Héroe Dios de Guerra [Prob: 40%]
+  + 2x Jade Alma de Cristal
+  + 150x Gema Aurora
+  + 3x Piedra Verde Fluorescente
+
+* Cuchilla Noche Eterna de Hegemon [Prob: 55%]
+  + 1x Espada de Supremacía, Rey de las Tinieblas
+  + 1x Emblema de Toroso Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Colmillo de Luz del Rey del Ártico [Prob: 55%]
+  + 1x Mazo Simbólico del Rey del Ártico
+  + 1x Emblema de Yanna Mutante
+  + 35x Piedra Luz de Safael
+
+* Cuchilla del Ángel-Demonio de Acero [Prob: 55%]
+  + 1x Cuchilla Ala Inmortal del Ángel de Acero
+  + 1x Emblema de Toroso Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Cielo de Génesis del Arrasador [Prob: 55%]
+  + 1x Infierno de Destrucción del Arrasador
+  + 1x Emblema de Kropo Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Corriente de Lagrima Orgullosa [Prob: 55%]
+  + 1x Arrogancia - Colmillo Sangriento
+  + 1x Emblema Coraza Fénix Mutada
+  + 35x Perla de Luz de Safael
+
+* Cólera de la Autoridad [Prob: 40%]
+  + 1x Escudo de Hielo Sprite
+  + 1x Cuerno de Unicornio
+  + 9x Poder del Cielo Profundo
+
+* Contrato de Convocación de Tiempo-Espacio [Prob: 40%]
+  + 2x Cristal de Vida
+  + 180x Corteza Dorada
+  + 4x Piedra del Alma
+
+* Cuchilla de Cólera Fantasmal [Prob: 55%]
+  + 1x Hacha del Cielo dos Espadas
+  + 1x Emblema Mutado de Bartrene
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Cántico de Cosmos Fantásticos [Prob: 40%]
+  + 1x Oda de Lugares Extraños
+  + 1x Esencia de Lagrima de Dragón
+  + 12x Poder de la Tierra Profunda
+
+* Campo Fragmentar [Prob: 55%]
+  + 1x Martillo Mágico Antiguo - Dios Bestia
+  + 1x Emblema de Falconio Mutado
+  + 35x Semilla de Luz de Safael
+
+* Colmillo de Furia del Rey Maligno [Prob: 40%]
+  + 1x Garra de Purgatorio del Señor Tenebroso
+  + 1x Garra Infernal del Rey Infernal
+  + 44x Piel de Lagarto Sanguinario
+
+* Columna de Guardias [Prob: 40%]
+  + 1x Vacío Esparcido - Comemundos
+  + 1x Devorador Indiferente
+  + 44x Colmillo de Bestia Estelar
+
+* Cuernos Partidos [Prob: 40%]
+  + 1x Relámpago del Profeta - Iniciativa
+  + 1x Relámpago de Aviso - Explosión
+  + 44x Cristal Alma Bestial
+
+* Corte Solar Definitivo [Prob: 50%]
+  + 1x Tiranía del Duque de las Arenas
+  + 1x Ira Amarilla
+  + 44x Piña Darr
+
+* Carta de Canto del Manantial Divino [Prob: 50%]
+  + 1x Libro de la Verdad Prohibida
+  + 1x Himno Paradisíaco
+  + 44x Piña Darr
+
+* Código de Amor de la Deidad [Prob: 50%]
+  + 1x Códice del Juicio Apocalíptico
+  + 1x Tomo Prohibido
+  + 44x Escama de Dragón Azul de Poseidón
+
+* Colmillo de Devorador [Prob: 55%]
+  + 1x Arco Vista de Halcón
+  + 1x Emblema de Honor
+  + 35x Alma de Honor de Safael
+
+* Cañón Puerta Este [Prob: 40%]
+  + 1x Pica Tenaz Sprite
+  + 1x Ojo de Dragón Azul
+  + 14x Alma de Tierra del Otro Mundo
+
+* Collar Unicornio Sprite [Prob: 40%]
+  + 2x Cristal de Obsidiana
+  + 230x Cristal Fantasmal
+  + 6x Cabello Soñado de Sprite
+
+* Cráneo Caprino Sprite [Prob: 40%]
+  + 2x Cristal de Obsidiana
+  + 230x Raíces Fantasmales Arácnidas
+  + 6x Orbe Solar
+
+* Código de Honor Sprite [Prob: 40%]
+  + 2x Cristal de Obsidiana
+  + 260x Mineral de Lágrimas Soñadas
+  + 7x Fruta del Tiempo
+
+* Códice Radiante Sprite [Prob: 40%]
+  + 2x Cristal de Obsidiana
+  + 260x Mineral de Lágrimas Soñadas
+  + 7x Colmillos de Jabalí Mágico
+
+* Ciervo de Luz Radiante [Prob: 55%]
+  + 1x Astas Invernales de Renos
+  + 1x Emblema de Honor
+  + 35x Alma de Honor de Safael
+
+* Cristal de Aliento Gélido [Prob: 55%]
+  + 1x Maza Quebrantalobos
+  + 1x Emblema de Sueños
+  + 35x Alma de Honor de Safael
+
+* Cañón del Asteroide en Llamas [Prob: 40%]
+  + 1x Rugido de León
+  + 1x Cañón Puerta Este
+  + 44x Gema de Cristal Fundido
+
+* Códice del Juicio Apocalíptico [Prob: 40%]
+  + 1x Tomo Prohibido
+  + 1x Técnica Consume Fuego
+  + 44x Osamenta de Cristal
+
+* Colmillo Partido de Serpiente de Tinta [Prob: 40%]
+  + 1x Espada Colmillo Vampírico
+  + 1x Espada Colmillo Ofídico
+  + 40x Fragmento de Meteorito Antiguo
+
+* Canción Distante del Lobo de Mar [Prob: 40%]
+  + 1x Cristal de Aliento Gélido
+  + 1x Maza Quebrantalobos
+  + 40x Fragmento de Meteorito Antiguo
+
+* Cuerno de Ciervo Solitario [Prob: 40%]
+  + 1x Ciervo de Luz Radiante
+  + 1x Astas Invernales de Renos
+  + 44x Fragmento de Meteorito Antiguo
+
+* Cuchilla Crudeza Total [Prob: 40%]
+  + 20x Mineral de Bronce
+  + 20x Rama Seca
+
+* Cuchilla Crudeza Total de Sprites [Prob: 40%]
+  + 1x Cuchilla Crudeza Total
+  + 24x Rama Seca
+  + 3x Bulbo de Azucena
+
+* Cuervos Ululantes del Ocaso [Prob: 40%]
+  + 1x Maza Pesada del Artesano Cruel de Sprites
+  + 1x Esencia Misteriosa
+  + 2x Ojo Felino
+
+* Cocodrilo Diente de Hierro [Prob: 40%]
+  + 1x Maza Bestialidad de Sprites
+  + 2x Cristal Espiritual
+  + 4x Musgo Marchito de Hueso
+
+* Cuchillo Brillante [Prob: 40%]
+  + 115x Mineral de Platino
+  + 45x Rama Anciana
+  + 2x Esmeralda Verde
+
+* Cuchillo Brillante de Sprites [Prob: 40%]
+  + 1x Cuchillo Brillante
+  + 1x Orquídea de Cristal
+  + 3x Piedra Preciosa Vacua
+
+* Cantor de Pesadilla [Prob: 40%]
+  + 1x Hacha Fantasía de Sprites
+  + 3x Jade Alma de Cristal
+  + 2x Alma Terrestre de Safael
+
+* Canción de Pesadilla de las Sombras [Prob: 55%]
+  + 1x Cantor de Pesadilla
+  + 1x Emblema de Molilada Mutante
+  + 35x Piedra Luz de Safael
+
+* Canto Amenazante de la Noche [Prob: 40%]
+  + 1x Canción de Pesadilla de las Sombras
+  + 1x Cantor de Pesadilla
+  + 40x Piedra Magnética Fantasma Flotante
+
+* Canino de Bestia Salvaje [Prob: 40%]
+  + 1x Hoja Bárbara de Sprites
+  + 5x Jade Alma de Cristal
+  + 4x Alma Terrestre de Safael
+
+* Canino de Dragón Salvaje [Prob: 55%]
+  + 1x Canino de Bestia Salvaje
+  + 1x Emblema de Kropo Mutante
+  + 35x Perla de Luz de Safael
+
+* Colmillo de Masticahuesos [Prob: 40%]
+  + 1x Canino de Dragón Salvaje
+  + 1x Canino de Bestia Salvaje
+  + 40x Esmeralda Sombra Feroz
+
+* Cuchillo Luz de Sprites [Prob: 40%]
+  + 85x Gema Brillante
+  + 125x Raíz de Árbol Antigua
+  + 8x Hielo Amatista
+
+* Cuchilla Afilada Nebulosa de Sprites [Prob: 40%]
+  + 120x Cristal Fantasmal
+  + 130x Raíces Fantasmales Arácnidas
+  + 10x Hueso de Pescado Pesadilla
+
+* Canto de la Ventisca [Prob: 40%]
+  + 1x Espada de Jade Helado de Sprites
+  + 1x Piedra Volcánica Antigua
+  + 14x Alma de Tierra del Otro Mundo
+
+* Cuerno del Dragón Ardiente [Prob: 40%]
+  + 1x Metralleta Cegadora de Sprites
+  + 1x Cristal Gélido
+  + 17x Alma de Tierra del Otro Mundo
+
+* Colmillo Airado del Dragón Flamígero [Prob: 55%]
+  + 1x Cuerno del Dragón Ardiente
+  + 1x Emblema de Libertad
+  + 35x Alma de Honor de Safael
+
+* Cañón Manejable [Prob: 40%]
+  + 5x Mineral de Bronce
+
+* Cañón de Estaño [Prob: 40%]
+  + 10x Mineral de Bronce
+
+* Cañón Pesado del Cazador [Prob: 40%]
+  + 40x Mineral Férreo
+  + 30x Rama Barba Férrea
+
+* Cañón Pesado del Cazador de Sprites [Prob: 40%]
+  + 1x Cañón Pesado del Cazador
+  + 30x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Cañón Pesado Gárgola de Sprites [Prob: 40%]
+  + 120x Gema Aurora
+  + 60x Antigua Corteza Gigante
+  + 3x Esqueleto Pez de Otro Mundo
+
+* Cañón Pesado Mágico de Bombardeo [Prob: 40%]
+  + 1x Artillería Pesada y Cruel de Sprites
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Colmillos del Leopardo del Trueno [Prob: 40%]
+  + 1x Rugidos del Tigre del Trueno Sombrío
+  + 1x Rugidos del Lobo de la Aurora
+  + 44x Fragmento de Meteorito Antiguo
+
+* Cosechador [Prob: 40%]
+  + 1x Katana Especial Pesada de Sprite
+  + 1x Cristal Espiritual
+  + 2x Fósil Cascarón de Huevo
+
+* Corte del Ángel Despiadado [Prob: 55%]
+  + 1x Hachuela Angélica
+  + 1x Emblema Sivalee Mutante
+  + 22x Piedra Luz de Safael
+
+* Corte de Muro de Hierro - Grieta en el Suelo [Prob: 40%]
+  + 1x Katana Sol del Conquistador del Reino
+  + 1x Katana de Dominio del Conquistador
+  + 44x Piedra Magnética Fantasma Flotante
+
+* Corte - Diente Cuerno [Prob: 40%]
+  + 1x Trueno del Profeta - Corte Rápido
+  + 1x Torpedo Ilimitado - Corte
+  + 44x Cristal Alma Bestial
+
+* Cuchilla Rota de Sprite [Prob: 40%]
+  + 120x Cristal Fantasmal
+  + 180x Cuero Mágico
+  + 10x Gema Sombralunar
+
+* Cielo Orgulloso - Enemigo a las Puertas [Prob: 40%]
+  + 1x Llave de Tiranía
+  + 1x Llave de Explosión Mágica
+  + 44x Electrodo Líquido
+
+* Cuchilla Oscura - Llave Tormenta [Prob: 40%]
+  + 1x Llave de Tigre del Trueno Sombrío
+  + 1x Llave Lobo de Aurora
+  + 44x Fragmento de Meteorito Antiguo
+
+* Daga Destrucción [Prob: 40%]
+  + 50x Mineral Acero de Aleación
+  + 46x Rama Hoja de Plata
+
+* Daga Destrucción de Sprite [Prob: 40%]
+  + 1x Daga Destrucción
+  + 2x Coral Verde de Humedal
+  + 2x Gema Prismática
+
+* Defensor del Fuerte [Prob: 40%]
+  + 1x Daga Destrucción de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Cielo de Safael
+
+* Dedo del Asesino [Prob: 40%]
+  + 1x Pistola del Cazador de Sprite
+  + 2x Cristal Espiritual
+  + 4x Gema Centelleante
+
+* Defensor Castillo [Prob: 40%]
+  + 1x Escudo Noble de Sprite
+  + 3x Cristal Mágico
+  + 6x Hueso de Plata
+
+* Disciplina del Dragón V [Prob: 40%]
+  + 1x Martillo del Sello de Sprite
+  + 4x Cristal Mágico
+  + 8x Piedra Cubierta de Líquenes
+
+* Desgarre Rugido Sangriento [Prob: 40%]
+  + 1x Hacha Luna Azul de Sprite
+  + 5x Jade Alma de Cristal
+  + 4x Alma Terrestre de Safael
+
+* Dientes de Tierra del Caudillo [Prob: 40%]
+  + 1x Hacha Doble Filo de Sprite
+  + 3x Esencia de Poder Mágico
+  + 4x Alma Celeste de Safael
+
+* Devorador Indiferente [Prob: 40%]
+  + 1x Espada Corta-Dragón de Sprite
+  + 1x Cristal Radiante
+  + 6x Alma Celeste de Safael
+
+* Dimensión - Halo de Trascendencia [Prob: 40%]
+  + 1x Báculo Pastizal de Sprite
+  + 1x Hoja de Laurel Dorada
+  + 6x Alma Celeste de Safael
+
+* Diente del Rey Cruel [Prob: 40%]
+  + 1x Hacha de Batalla Divina de Sprite
+  + 1x Cuerno de Unicornio
+  + 9x Poder de la Tierra Profunda
+
+* Destrucción Emblema de la Bestia [Prob: 40%]
+  + 1x Martillo de la Divina Estrella de Sprite
+  + 1x Cuerno de Unicornio
+  + 9x Poder del Cielo Profundo
+
+* Destructor Urvogel [Prob: 40%]
+  + 1x Arco del Espíritu Sprite
+  + 1x Rosa de Aurora Caos
+  + 9x Poder del Cielo Profundo
+
+* Divina Inspiración [Prob: 40%]
+  + 1x Bastón para Deslizar Sprite
+  + 3x Rosa de Aurora Caos
+  + 9x Poder de la Tierra Profunda
+
+* Dios de Fénix Sanguinario [Prob: 55%]
+  + 1x Destructor Urvogel
+  + 1x Emblema de Walgo Mutado
+  + 35x Jade de Luz de Safael
+
+* Divine Blade - Ala Dorada [Prob: 40%]
+  + 1x Espada Escarcha de Sprite
+  + 1x Esencia de Lagrima de Dragón
+  + 12x Poder de la Tierra Profunda
+
+* Dominio Absoluto - Linne [Prob: 40%]
+  + 1x Escudo Luna de Sprite
+  + 3x Esencia de Lagrima de Dragón
+  + 12x Poder de la Tierra Profunda
+
+* Daño Negación [Prob: 55%]
+  + 1x Sanción Absoluta - Atena
+  + 1x Emblema de Roshiel Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Demonio Salvaje Caótico [Prob: 40%]
+  + 1x Cielo de Génesis del Arrasador
+  + 1x Infierno de Destrucción del Arrasador
+  + 44x Raíz de Flor Demoníaca Sanguinaria
+
+* Diamante Cristal Luz de Estrella [Prob: 40%]
+  + 1x Quemador: Extinguir
+  + 1x Señor Mecano - Súper Corte de Acero
+  + 44x Médula de Bestia Antigua
+
+* Devorador de Almas [Prob: 55%]
+  + 1x Espadón Matadragones
+  + 1x Emblema de Slaydie Mutado
+  + 35x Núcleo Ardiente Mutado
+
+* Desastre de Desilusión [Prob: 40%]
+  + 1x Hacha Pesada Promesa de Sprites
+  + 5x Jade Alma de Cristal
+  + 2x Alma Celeste de Safael
+
+* Devorador de Ensueños [Prob: 55%]
+  + 1x Desastre de Desilusión
+  + 1x Emblema de Toroso Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Daga de Guerra del Espectador [Prob: 40%]
+  + 1x Cuchillo Luz de Sprites
+  + 1x Esencia de Lagrima de Dragón
+  + 12x Poder de la Tierra Profunda
+
+* Divulgador de la Voz de Dios [Prob: 55%]
+  + 1x Filo Pesado del Guardián
+  + 1x Emblema de Dídelo Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Diosa Rugiente de la Ventisca [Prob: 55%]
+  + 1x Canto de la Ventisca
+  + 1x Emblema de Estruendo Flamígero Mutado
+  + 35x Jade de Energía de Safael
+
+* Diente Gigante del Oso Polar Septentrional [Prob: 40%]
+  + 1x Maza Pesada de Cristal de Sprites
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma Celeste del Otro Mundo
+
+* Diente Congelado del León Solitario [Prob: 40%]
+  + 1x Garras de Caza del Tigre Helado
+  + 1x Diente Gigante del Oso Polar Septentrional
+  + 44x Algas Marea Ilusoria
+
+* Dragón Ardiente Gigante Deforestador [Prob: 65%]
+  + 1x Serpiente de Fuego Histérica
+  + 1x Emblema Antoraya Mutante
+  + 7x Polvo Luz de Safael
+
+* Diablo de los Cielos [Prob: 40%]
+  + 1x Cañón Pesado Gárgola de Sprites
+  + 2x Esencia de Poder Mágico
+  + 8x Barrera de Piedra
+
+* Diente del Rey Dragón [Prob: 40%]
+  + 1x Cañón Pesado Gárgola de Sprites
+  + 1x Diente de Leche del Sabueso Infernal
+  + 6x Alma Celeste de Safael
+
+* Destrucción de Batalla - Katana Colapso [Prob: 55%]
+  + 1x Katana Dientenegro Rota
+  + 1x Emblema de Estruendo Flamígero Mutado
+  + 35x Jade de Energía de Safael
+
+* Espada Férrea [Prob: 40%]
+  + 10x Mineral de Bronce
+  + 10x Rama Seca
+
+* Espada Férrea de Sprite [Prob: 40%]
+  + 1x Espada Férrea
+  + 4x Rama Seca
+  + 3x Fósil Raíz Árbol
+
+* Espada de Aurora [Prob: 40%]
+  + 1x Gran Espada Férrea de Sprite
+  + 2x Cristal Espiritual
+  + 2x Cáscara Fruta Mithril
+
+* Espada Alma [Prob: 40%]
+  + 45x Mineral Férreo
+  + 25x Rama Barba Férrea
+
+* Espada Metal de Sprite [Prob: 40%]
+  + 1x Cuchilla de Metal
+  + 24x Rama Barba Férrea
+  + 4x Raíces Luz de Luna
+
+* Espada Alma de Sprite [Prob: 40%]
+  + 1x Espada Alma
+  + 30x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Espada Grabada Relieve [Prob: 40%]
+  + 1x Hacha Grabada en Relieve
+  + 1x Pétalo Cien Capas
+  + 3x Oro Antiguo
+
+* Espada de Desperdicios [Prob: 40%]
+  + 95x Mineral de Medianoche
+  + 45x Rama Ámbar
+
+* Espada Caudillo de Sprite [Prob: 40%]
+  + 1x Cuchilla de Brigand
+  + 2x Piedra Cubierta de Líquenes
+  + 2x Cristal Sangriento
+
+* Espada de Desperdicios de Sprite [Prob: 40%]
+  + 1x Espada de Desperdicios
+  + 1x Hongo Transformador Azul
+  + 3x Cristal Viviente
+
+* Espada Destructora Dios de Guerra [Prob: 40%]
+  + 1x Espada de Desperdicios de Sprite
+  + 4x Cristal Mágico
+  + 8x Membrana Ala Dragoncito
+
+* Espada de Tronos [Prob: 40%]
+  + 72x Mineral de Platino
+  + 56x Rama Anciana
+  + 2x Cardos Luminosos
+
+* Espada Forjada de Batalla [Prob: 40%]
+  + 115x Mineral de Platino
+  + 45x Rama Anciana
+  + 2x Esmeralda Verde
+
+* Espada de Tronos de Sprite [Prob: 40%]
+  + 1x Espada de Tronos
+  + 2x Vid Sangre de Dragón
+  + 2x Plata Blanca Mágica
+
+* Espada Forjada Batalla de Sprite [Prob: 40%]
+  + 1x Espada Forjada de Batalla
+  + 1x Orquídea de Cristal
+  + 3x Piedra Preciosa Vacua
+
+* Espada Corazón de León [Prob: 40%]
+  + 1x Espada de Tronos de Sprite
+  + 5x Cristal Radiante
+  + 8x Fruta de Perla
+
+* Espada de Promesas de Bodor [Prob: 40%]
+  + 1x Espada de Tronos de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Madera Perenne
+
+* Emperador Invicto [Prob: 40%]
+  + 1x Hacha Escama de Dragón de Sprite
+  + 5x Cristal Radiante
+  + 8x Cola de Gusano Gigante
+
+* Emblema del Dragón Negro [Prob: 40%]
+  + 1x ArcoLargo ColmilloVentoso de Sprite
+  + 1x Esencia Ensueño
+  + 8x Raíz Ginseng Inmortal
+
+* Especial del Domingo [Prob: 40%]
+  + 90x Mineral de Platino
+  + 70x Rama Anciana
+  + 2x Cardos Luminosos
+
+* Especial del Domingo de Sprite [Prob: 40%]
+  + 1x Especial del Domingo
+  + 2x Hueso de Oro
+  + 2x Plata Blanca Mágica
+
+* Escudo de Madera [Prob: 40%]
+  + 15x Mineral de Bronce
+  + 10x Rama Seca
+
+* Escudo Madera de Sprite [Prob: 40%]
+  + 1x Escudo de Madera
+  + 5x Rama Seca
+  + 3x Fósil Raíz Árbol
+
+* Escudo de Latón [Prob: 40%]
+  + 30x Mineral de Bronce
+  + 20x Rama Seca
+
+* Escudo de Latón de Sprite [Prob: 40%]
+  + 1x Escudo de Latón
+  + 30x Mineral de Bronce
+  + 3x Bulbo de Azucena
+
+* Escudo Férreo [Prob: 40%]
+  + 45x Mineral Férreo
+  + 25x Rama Barba Férrea
+
+* Escudo de Fe [Prob: 40%]
+  + 35x Mineral Férreo
+  + 35x Rama Barba Férrea
+
+* Escudo Férreo de Sprite [Prob: 40%]
+  + 1x Escudo Férreo
+  + 30x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Escudo de Fe de Sprite [Prob: 40%]
+  + 1x Escudo de Fe
+  + 30x Rama Barba Férrea
+  + 4x Raíces Luz de Luna
+
+* Escudo Dragón Pantano Negro [Prob: 40%]
+  + 1x Escudo de Fe de Sprite
+  + 1x Esencia Misteriosa
+  + 4x Gema Centelleante
+
+* Escudo Noble [Prob: 40%]
+  + 75x Mineral Acero de Aleación
+  + 55x Rama Hoja de Plata
+
+* Escudo Noble de Sprite [Prob: 40%]
+  + 1x Escudo Noble
+  + 1x Coral Verde de Humedal
+  + 3x Gema Prismática
+
+* Escudo Valiente [Prob: 40%]
+  + 90x Mineral de Medianoche
+  + 50x Rama Ámbar
+
+* Escudo Unicornio [Prob: 40%]
+  + 70x Mineral de Medianoche
+  + 70x Rama Ámbar
+
+* Escudo Valiente de Sprite [Prob: 40%]
+  + 1x Escudo Valiente
+  + 2x Saco Llamas del Monstruo
+  + 2x Cristal Sangriento
+
+* Escudo Unicornio de Sprite [Prob: 40%]
+  + 1x Escudo Unicornio
+  + 3x Membrana Ala Dragoncito
+  + 1x Cristal Viviente
+
+* Escudo Hueso de Bestia [Prob: 40%]
+  + 1x Escudo Valiente de Sprite
+  + 4x Cristal Mágico
+  + 8x Raíz Ginseng Inmortal
+
+* Escudo Vórtice [Prob: 40%]
+  + 100x Mineral de Platino
+  + 60x Rama Anciana
+  + 2x Esmeralda Verde
+
+* Escudo Sigiloso Celeste [Prob: 40%]
+  + 80x Mineral de Platino
+  + 80x Rama Anciana
+  + 2x Vid Sangre de Dragón
+
+* Escudo Vórtice de Sprite [Prob: 40%]
+  + 1x Escudo Vórtice
+  + 2x Hueso de Oro
+  + 2x Plata Blanca Mágica
+
+* Escudo Sigiloso Celeste de Sprite [Prob: 40%]
+  + 1x Escudo Sigiloso Celeste
+  + 3x Carapacho Tortuga
+  + 1x Piedra Preciosa Vacua
+
+* Escudo Palabra de Dios [Prob: 40%]
+  + 1x Escudo Vórtice de Sprite
+  + 5x Cristal Radiante
+  + 8x Diamante Tenebroso
+
+* Escudo DefensorAntiguo [Prob: 40%]
+  + 1x Escudo Vórtice de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Metal Sacro
+
+* Escudo Perdón de Alicia [Prob: 40%]
+  + 1x Escudo Sigiloso Celeste de Sprite
+  + 6x Corazón Tierra de Safael
+  + 2x Cristal de Sueño
+
+* Emblema de Ley [Prob: 40%]
+  + 1x Cristal Mágico
+  + 60x Mineral Acero de Aleación
+
+* Emblema Ley de Sprite [Prob: 40%]
+  + 1x Emblema de Ley
+  + 1x Esencia Ensueño
+  + 3x Oro Antiguo
+
+* Emblema Reencarnación [Prob: 40%]
+  + 1x Pizarra de Karma de Sprite
+  + 1x Cristal Radiante
+  + 6x Raíz Ginseng Inmortal
+
+* Emblema Ojo de Dios [Prob: 40%]
+  + 1x Insignia del Arbitro de Sprite
+  + 2x Cristal de Sueño
+  + 6x Cola de Gusano Gigante
+
+* Espada Asesina-Maldad [Prob: 40%]
+  + 1x Gran Espada Férrea de Sprite
+  + 2x Cristal Espiritual
+  + 2x Garra de Lobo Roja
+
+* Espada Caballero de Bodor [Prob: 40%]
+  + 1x Espada Caudillo de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Espada Fantasma Llama Dragón Hielo [Prob: 40%]
+  + 1x Espada Caudillo de Sprite
+  + 4x Cristal Mágico
+  + 8x Raíz Ginseng Inmortal
+
+* Espada Legendaria Rey Inmovible [Prob: 40%]
+  + 1x Espada de Tronos de Sprite
+  + 5x Cristal Radiante
+  + 8x Piedra Preciosa Vacua
+
+* Espada Marqués de Bodor [Prob: 40%]
+  + 1x Espada de Tronos de Sprite
+  + 6x Cristal Dimensión Aliento de Vida
+  + 1x Madera Perenne
+
+* Escudo Alado Negro de Alicia [Prob: 40%]
+  + 1x Escudo Valiente de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Escudo Ala Angelical de Alicia [Prob: 40%]
+  + 1x Escudo Sigiloso Celeste de Sprite
+  + 5x Cristal Dimensión Aliento de Vida
+  + 2x Cristal de Sueño
+
+* Espada Cristal Sangriento de Sprite [Prob: 40%]
+  + 75x Mineral Cristal Ilusorio
+  + 75x Rama Cristalizada
+  + 3x Semilla Estrella
+
+* Espada Verdad del Emperador [Prob: 40%]
+  + 1x Espada Cristal Sangriento de Sprite
+  + 5x Nuez Mágica
+  + 8x Fósil Cristal Bestia Helada
+
+* Espada Cruzada del Caballero Negro [Prob: 40%]
+  + 1x Espada Cristal Sangriento de Sprite
+  + 6x Cristal Dimensión Aliento de Vida
+  + 2x Diente de Bestia Helada
+
+* Escudo Defensor Pesado de Sprite [Prob: 40%]
+  + 100x Mineral Cristal Ilusorio
+  + 80x Rama Cristalizada
+  + 3x Plata Brillante
+
+* Escudo Supernatural de Sprite [Prob: 40%]
+  + 125x Mineral Cristal Ilusorio
+  + 55x Rama Cristalizada
+  + 2x Restos Insecto Maligno
+
+* Escudo de Dioses Indestructible [Prob: 40%]
+  + 1x Escudo Supernatural de Sprite
+  + 5x Nuez Mágica
+  + 8x Pétalos Flor Cristal de Hielo
+
+* Espada de la Eternidad de Bodor [Prob: 60%]
+  + 1x Espada de Promesas de Bodor
+  + 1x Emblema Randorak Mutante
+  + 15x Polvorín Luz de Safael
+
+* Escudo Perdón Divino de Alicia [Prob: 60%]
+  + 1x Escudo Perdón de Alicia
+  + 1x Emblema Señor Carlos Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Espada de Supremacía, Rey de las Tinieblas [Prob: 40%]
+  + 1x Cuchilla Sello Gigante de Sprite
+  + 5x Jade Alma de Cristal
+  + 2x Alma Celeste de Safael
+
+* Espada Ancha Salvaje de Bodor [Prob: 40%]
+  + 1x Espada Cristal Sangriento de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Cristal Brillo de Sol de Montaña Nevada
+
+* Espada de Oro del Caballero Brillante [Prob: 40%]
+  + 1x Cuchilla Sello Gigante de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Savia de Árbol de Oro
+
+* Espada Filo Púrpura de Sprite [Prob: 40%]
+  + 75x Gema Aurora
+  + 75x Antigua Corteza Gigante
+  + 4x Piedra Verde Fluorescente
+
+* Espada Corta-Dragón de Sprite [Prob: 40%]
+  + 150x Gema Aurora
+  + 60x Antigua Corteza Gigante
+  + 4x Esqueleto Pez de Otro Mundo
+
+* Espada Sancionadora del Emperador [Prob: 40%]
+  + 1x Espada Filo Púrpura de Sprite
+  + 5x Jade Alma de Cristal
+  + 4x Alma Terrestre de Safael
+
+* Espada Sacra Alas del Conquistador [Prob: 40%]
+  + 1x Espada Corta-Dragón de Sprite
+  + 3x Esencia de Poder Mágico
+  + 4x Alma Celeste de Safael
+
+* Escudo Irrompible del Fénix Ala Negra [Prob: 40%]
+  + 1x Escudo Supernatural de Sprite
+  + 6x Jade Alma de Cristal
+  + 8x Plumón de Bestia Fantasma
+
+* Escudo de Promesas de Alicia [Prob: 40%]
+  + 1x Escudo Supernatural de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Savia de Árbol de Oro
+
+* Escudo Defensor del Sprite [Prob: 40%]
+  + 100x Gema Aurora
+  + 80x Antigua Corteza Gigante
+  + 3x Piedra Verde Fluorescente
+
+* Escudo Aracne de Sprite [Prob: 40%]
+  + 125x Gema Aurora
+  + 55x Antigua Corteza Gigante
+  + 3x Alas de Vidrio
+
+* Estatua Deidad Eternal [Prob: 40%]
+  + 1x Sello de Lealtad de Sprite
+  + 3x Alma Celeste de Safael
+  + 6x Vena Cristalizada de Hielo
+
+* Estigma del Guerrero Poderoso [Prob: 40%]
+  + 1x Certificado de Héroe Dios de Guerra
+  + 1x Cristal de Entendimiento
+  + 6x Barrera de Piedra
+
+* Espada Nocturna del Emperador Destronado [Prob: 55%]
+  + 1x Imperdonable, Espada del Heredero Caído
+  + 1x Emblema de Molilada Mutante
+  + 35x Piedra Luz de Safael
+
+* Estrella Fogaz Fénix Ala Negra [Prob: 55%]
+  + 1x Escudo Irrompible del Fénix Ala Negra
+  + 1x Emblema de Toroso Mutante
+  + 35x Piedra Luz de Safael
+
+* Estatua Deidad de Platino [Prob: 55%]
+  + 1x Estatua Deidad Eternal
+  + 1x Emblema de Baha Mutante
+  + 35x Piedra Luz de Safael
+
+* Espada Real Salvación Divina [Prob: 55%]
+  + 1x Espada Sancionadora del Emperador
+  + 1x Emblema de Kropo Mutante
+  + 35x Perla de Luz de Safael
+
+* Espada Sacra Voz de Esperanza [Prob: 55%]
+  + 1x Espada Sacra Alas del Conquistador
+  + 1x Emblema de Kesbel Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Epílogo de la Oscuridad sin Fin [Prob: 55%]
+  + 1x Prólogo de la Sombra Estéril
+  + 1x Emblema de Priesley Mutante
+  + 35x Perla de Luz de Safael
+
+* Estigmas del Hombre Divino [Prob: 55%]
+  + 1x Estigma del Guerrero Poderoso
+  + 1x Emblema de Kesbel Mutante
+  + 35x Perla de Luz de Safael
+
+* El Escondido - Serenidad [Prob: 55%]
+  + 1x Verdugo de Criaturas de Sueños - Matar
+  + 1x Emblema Coraza Fénix Mutada
+  + 35x Perla de Luz de Safael
+
+* Escudo de Acero Santo - Resplandor Solar [Prob: 55%]
+  + 1x Armadura Sacra Luna Plateada
+  + 1x Emblema Mutante Kushan
+  + 35x Núcleo Transformado de Maldad
+
+* Espada de Hielo Llameante Sprite [Prob: 40%]
+  + 80x Gema Extraña
+  + 100x Corteza Dorada
+  + 6x Piedra del Alma
+
+* Espada Oscura de Sprite [Prob: 40%]
+  + 170x Gema Extraña
+  + 70x Corteza Dorada
+  + 6x Diente del Conejo de Una Oreja
+
+* Espíritu del Rey Asesino [Prob: 40%]
+  + 1x Espada Oscura de Sprite
+  + 1x Cuerno de Unicornio
+  + 9x Poder del Cielo Profundo
+
+* Escudo de Hielo Sprite [Prob: 40%]
+  + 110x Gema Extraña
+  + 70x Corteza Dorada
+  + 10x Diente del Conejo de Una Oreja
+
+* Escudo Sol de Plata Sprite [Prob: 40%]
+  + 125x Gema Extraña
+  + 115x Corteza Dorada
+  + 10x Piedra del Alma
+
+* Escudo Ojo de Gato [Prob: 40%]
+  + 1x Escudo Sol de Plata Sprite
+  + 3x Lagrima de Sangre
+  + 9x Poder de la Tierra Profunda
+
+* Espada Escarcha de Sprite [Prob: 40%]
+  + 85x Gema Brillante
+  + 125x Raíz de Árbol Antigua
+  + 8x Hielo Amatista
+
+* Espada Herética de Sprite [Prob: 40%]
+  + 160x Gema Brillante
+  + 80x Raíz de Árbol Antigua
+  + 8x Hueso de Bestia Mágica
+
+* Esculturas de Dragón - Golpe Divino [Prob: 40%]
+  + 1x Martillo Regicidio de Sprite
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Escudo Plateado de Sprite [Prob: 40%]
+  + 120x Gema Brillante
+  + 150x Raíz de Árbol Antigua
+  + 10x Hueso de Bestia Mágica
+
+* Escudo Luna de Sprite [Prob: 40%]
+  + 95x Gema Brillante
+  + 180x Raíz de Árbol Antigua
+  + 10x Hielo Amatista
+
+* Espacio Separar [Prob: 55%]
+  + 1x Esculturas de Dragón - Golpe Divino
+  + 1x Emblema de Dídelo Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Espada de Destrucción Galáctica [Prob: 40%]
+  + 1x Espada Nocturna del Emperador Destronado
+  + 1x Imperdonable, Espada del Heredero Caído
+  + 40x Piedra Magnética Fantasma Flotante
+
+* Estatua de Ébano de Deidad Rojo [Prob: 40%]
+  + 1x Estatua Deidad de Platino
+  + 1x Estatua Deidad Eternal
+  + 44x Piedra Magnética Fantasma Flotante
+
+* Espada Luz del Norte del Emperador [Prob: 40%]
+  + 1x Espada Real Salvación Divina
+  + 1x Espada Sancionadora del Emperador
+  + 40x Esmeralda Sombra Feroz
+
+* Espada Galáctica Sagrada [Prob: 40%]
+  + 1x Espada Sacra Voz de Esperanza
+  + 1x Espada Sacra Alas del Conquistador
+  + 44x Piel de Lagarto Sanguinario
+
+* Emblema Poderío Astral Decadente [Prob: 40%]
+  + 1x Estigmas del Hombre Divino
+  + 1x Estigma del Guerrero Poderoso
+  + 44x Esmeralda Sombra Feroz
+
+* Empuñadura Aura Maléfica [Prob: 40%]
+  + 1x Poder de Sol Imperial
+  + 1x Espíritu del Rey Asesino
+  + 44x Oreja de Búho Mutado
+
+* Equipo: Destripador [Prob: 40%]
+  + 1x Sangre: Pulso
+  + 1x Veneno Martirizante - Condenación
+  + 40x Médula de Bestia Antigua
+
+* Equipo: Vibración del Apocalipsis [Prob: 40%]
+  + 1x Espacio Separar
+  + 1x Esculturas de Dragón - Golpe Divino
+  + 44x Electrodo Líquido
+
+* Equipo: Cañón Infalible [Prob: 40%]
+  + 1x Radiación: Guía
+  + 1x Fantasía - Destructor
+  + 44x Electrodo Líquido
+
+* Equipo: Barrera de Tranquilidad Dimensional de Jale [Prob: 40%]
+  + 1x Daño Negación
+  + 1x Sanción Absoluta - Atena
+  + 44x Electrodo Líquido
+
+* Equipo: Fusil Temible [Prob: 40%]
+  + 1x Magia: Ondulación
+  + 1x Cántico de Cosmos Fantásticos
+  + 44x Médula de Bestia Antigua
+
+* Espejo de Gorrión Torrente [Prob: 50%]
+  + 1x Diamante Cristal Luz de Estrella
+  + 1x Quemador: Extinguir
+  + 44x Huesos Negros de Bestia Divina
+
+* Estampida de Toro [Prob: 55%]
+  + 1x Hacha Toro Gigante
+  + 1x Emblema de Justicia
+  + 35x Alma de Honor de Safael
+
+* Estatua Enjoyada Sprite [Prob: 40%]
+  + 2x Cristal de Obsidiana
+  + 230x Cristal Fantasmal
+  + 6x Corazón de Muñeca
+
+* Escudo Gigante Sprite [Prob: 40%]
+  + 130x Cristal Fantasmal
+  + 120x Raíces Fantasmales Arácnidas
+  + 12x Corazón de Muñeca
+
+* Escudo de los Siglos [Prob: 40%]
+  + 1x Escudo Gigante Sprite
+  + 1x Ojo de Dragón Azul
+  + 14x Alma Celeste del Otro Mundo
+
+* Escudo Clamor Marino [Prob: 40%]
+  + 1x Broquel de Carga Sprite
+  + 3x Piedra Volcánica Antigua
+  + 14x Alma de Tierra del Otro Mundo
+
+* Engullidor Avaro [Prob: 55%]
+  + 1x Escudo Clamor Marino
+  + 1x Emblema de Tespin Mutante
+  + 35x Núcleo Ardiente Mutado
+
+* Escudo Muro de Hierro Sprite [Prob: 40%]
+  + 160x Mineral de Lágrimas Soñadas
+  + 145x Hierba Helada
+  + 12x Diamante de Sangre
+
+* Escudo Colmillo de Mamut [Prob: 40%]
+  + 1x Broquel de Espera Sprite
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma Celeste del Otro Mundo
+
+* Escudo Torre Kodiak [Prob: 40%]
+  + 1x Escudo Muro de Hierro Sprite
+  + 3x Cristal Gélido
+  + 17x Alma de Tierra del Otro Mundo
+
+* Espada Ardiente Sprite [Prob: 40%]
+  + 140x Cristal Fantasmal
+  + 100x Raíces Fantasmales Arácnidas
+  + 10x Gema Sombralunar
+
+* Espadón Bárbaro Sprite [Prob: 40%]
+  + 120x Cristal Fantasmal
+  + 130x Raíces Fantasmales Arácnidas
+  + 10x Hueso de Pescado Pesadilla
+
+* Espada Ígnea Mística [Prob: 40%]
+  + 1x Espada Ardiente Sprite
+  + 1x Piedra Volcánica Antigua
+  + 14x Alma de Tierra del Otro Mundo
+
+* Espadón Matadragones [Prob: 40%]
+  + 1x Espadón Bárbaro Sprite
+  + 1x Ojo de Dragón Azul
+  + 14x Alma Celeste del Otro Mundo
+
+* Espada Envenenada Sprite [Prob: 40%]
+  + 150x Mineral de Lágrimas Soñadas
+  + 120x Hierba Helada
+  + 12x Cristal Arena Helada
+
+* Espadón Dentado Sprite [Prob: 40%]
+  + 130x Mineral de Lágrimas Soñadas
+  + 150x Hierba Helada
+  + 12x Aguijón de Abeja Colorida
+
+* Espada Colmillo Ofídico [Prob: 40%]
+  + 1x Espada Envenenada Sprite
+  + 1x Cristal Gélido
+  + 17x Alma de Tierra del Otro Mundo
+
+* Espadón Garras de Grifo [Prob: 40%]
+  + 1x Espadón Dentado Sprite
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma Celeste del Otro Mundo
+
+* Espada Colmillo Vampírico [Prob: 55%]
+  + 1x Espada Colmillo Ofídico
+  + 1x Emblema de Libertad
+  + 35x Alma de Honor de Safael
+
+* Espada del Juicio Final [Prob: 40%]
+  + 1x Vengador Divino
+  + 1x Espada Ígnea Mística
+  + 40x Gema de Cristal Fundido
+
+* Espada Dragón Tectónico [Prob: 40%]
+  + 1x Devorador de Almas
+  + 1x Espadón Matadragones
+  + 44x Narciso de Jade Rojo
+
+* Escudo Luz Sagrada [Prob: 40%]
+  + 1x Engullidor Avaro
+  + 1x Escudo Clamor Marino
+  + 44x Gema de Cristal Fundido
+
+* Emblema del Guardián Sacro [Prob: 40%]
+  + 1x Purificador Infernal
+  + 1x Mantra Arcano
+  + 44x Gema de Cristal Fundido
+
+* Escudo Espíritu Resuelto del Oso [Prob: 40%]
+  + 1x Sobreviviente a la Furia de Montaña
+  + 1x Escudo Torre Kodiak
+  + 44x Fragmento de Meteorito Antiguo
+
+* Espada Láser [Prob: 40%]
+  + 72x Mineral de Platino
+  + 56x Rama Anciana
+  + 2x Cardos Luminosos
+
+* Espada Láser de Sprites [Prob: 40%]
+  + 1x Espada Láser
+  + 2x Vid Sangre de Dragón
+  + 2x Plata Blanca Mágica
+
+* Explorador del Caos [Prob: 40%]
+  + 1x Cuchillo Brillante de Sprites
+  + 5x Cristal Radiante
+  + 8x Diamante Tenebroso
+
+* Espada de Trascendencia [Prob: 40%]
+  + 1x Espada Láser de Sprites
+  + 6x Corazón Cielo de Safael
+  + 1x Madera Perenne
+
+* Espada Dimensional de la Destrucción [Prob: 40%]
+  + 1x Cuchillo Brillante de Sprites
+  + 6x Corazón Tierra de Safael
+  + 1x Mineral de Escama de Dragón
+
+* Espada Pesada Fuegonegro de Siropa [Prob: 40%]
+  + 1x Mandoble Salvaje de Sprites
+  + 3x Esencia de Poder Mágico
+  + 4x Alma Celeste de Safael
+
+* Espada de Acero Sagrada de Sprites [Prob: 40%]
+  + 160x Gema Brillante
+  + 80x Raíz de Árbol Antigua
+  + 8x Hueso de Bestia Mágica
+
+* Espada de Jade Helado de Sprites [Prob: 40%]
+  + 140x Cristal Fantasmal
+  + 100x Raíces Fantasmales Arácnidas
+  + 10x Gema Sombralunar
+
+* Esculturas de Dragón - Corte Divino [Prob: 40%]
+  + 1x Katana Regicidio de Sprite
+  + 1x Esencia de Lagrima de Dragón
+  + 12x Poder de la Tierra Profunda
+
+* Espacio - Corte [Prob: 55%]
+  + 1x Esculturas de Dragón - Corte Divino
+  + 1x Emblema de Falconio Mutado
+  + 35x Semilla de Luz de Safael
+
+* Equipo: Cuchilla del Apocalipsis [Prob: 40%]
+  + 1x Espacio - Corte
+  + 1x Esculturas de Dragón - Corte Divino
+  + 44x Electrodo Líquido
+
+* Flecha de Madera [Prob: 40%]
+  + 5x Rama Seca
+
+* Flecha Puntiaguda [Prob: 40%]
+  + 10x Rama Seca
+
+* Flecha Pluma Férrea [Prob: 40%]
+  + 10x Rama Barba Férrea
+
+* Flecha Viajero Espacial [Prob: 40%]
+  + 10x Rama Hoja de Plata
+
+* Flecha Pulso [Prob: 40%]
+  + 10x Rama Ámbar
+
+* Flecha Sellada [Prob: 40%]
+  + 15x Rama Anciana
+
+* Fuerza Distorsionada [Prob: 40%]
+  + 1x Libro de Barreras de Sprite
+  + 1x Cristal Radiante
+  + 6x Piel de Pantera
+
+* Flecha Meteorito [Prob: 40%]
+  + 20x Rama Cristalizada
+
+* Flauta Rey de Titanes [Prob: 55%]
+  + 1x Tubo de Titán
+  + 1x Emblema Draze Mutante
+  + 22x Piedra Luz de Safael
+
+* Flecha Brillante Rúnica [Prob: 40%]
+  + 20x Antigua Corteza Gigante
+
+* Fuerza de Martillo Sacro Transforma-Tierra [Prob: 55%]
+  + 1x Martillo Sacro Sonido de Génesis
+  + 1x Emblema de Kesbel Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Flash, Las Alas de Oro [Prob: 40%]
+  + 1x Hacha Doble Filo de Sprite
+  + 1x Cristal Radiante
+  + 6x Alma Celeste de Safael
+
+* Francotirador Absoluto - Evolución [Prob: 55%]
+  + 1x Alfa, El Francotirador Absoluto
+  + 1x Emblema Mutante Reina Escorpión Azul
+  + 35x Núcleo Transformado de Maldad
+
+* Flecha Violenta [Prob: 40%]
+  + 20x Corteza Dorada
+
+* Fantasía - Destructor [Prob: 40%]
+  + 1x Lanza Inframundo de Sprite
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Furia Dorada del Ángel de Acero [Prob: 40%]
+  + 1x Cuchilla del Ángel-Demonio de Acero
+  + 1x Cuchilla Ala Inmortal del Ángel de Acero
+  + 44x Hierba Eco de Fantasía
+
+* Fénix de Sombra [Prob: 40%]
+  + 1x Estrella Fogaz Fénix Ala Negra
+  + 1x Escudo Irrompible del Fénix Ala Negra
+  + 44x Piedra Magnética Fantasma Flotante
+
+* Fusil Aniquilante [Prob: 40%]
+  + 1x Aniquilador - Cero
+  + 1x Mano del Exterminador
+  + 44x Huesos de Demonio Sombrío
+
+* Francotirador Torbellino Cacique [Prob: 40%]
+  + 1x Ataque Furtivo de Halcón
+  + 1x Tirador Divino Magnifico
+  + 44x Ámbar Alternativo
+
+* Flecha Meteórica [Prob: 40%]
+  + 20x Raíces Fantasmales Arácnidas
+
+* Flecha Dimensional [Prob: 40%]
+  + 22x Hierba Helada
+
+* Fuego de Dragón [Prob: 55%]
+  + 1x Trabuco Salamandra
+  + 1x Emblema de Honor
+  + 35x Alma de Honor de Safael
+
+* Farol del Caminante Soñador [Prob: 55%]
+  + 1x Mano del Atrapasueños
+  + 1x Emblema Sivalee Mutante
+  + 22x Piedra Luz de Safael
+
+* Filo Pesado del Guardián [Prob: 40%]
+  + 1x Espada de Acero Sagrada de Sprites
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Frenesí del Señor de las Heladas [Prob: 40%]
+  + 1x Diosa Rugiente de la Ventisca
+  + 1x Canto de la Ventisca
+  + 40x Gema de Cristal Fundido
+
+* Fuego Desollador del Pecado [Prob: 55%]
+  + 1x Bomba Inactiva Diabólica
+  + 1x Emblema de Baha Mutante
+  + 35x Piedra Luz de Safael
+
+* Furia Abrasadora del Tiranosaurio [Prob: 55%]
+  + 1x Diente del Rey Dragón
+  + 1x Emblema Mutante Reina Escorpión Azul
+  + 35x Núcleo Transformado de Maldad
+
+* Filo Oscuro - Corte Oscuro [Prob: 40%]
+  + 1x Katana Sagrada - Poder Cielos Abiertos
+  + 1x Katana Sagrada - Corte Génesis
+  + 44x Esmeralda Sombra Feroz
+
+* Gran Espada [Prob: 40%]
+  + 20x Mineral de Bronce
+  + 5x Rama Seca
+
+* Gran Espada de Sprite [Prob: 40%]
+  + 1x Gran Espada
+  + 5x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Gran Espada Férrea [Prob: 40%]
+  + 20x Mineral de Bronce
+  + 20x Rama Seca
+
+* Gran Espada Poderosa [Prob: 40%]
+  + 35x Mineral de Bronce
+  + 15x Rama Seca
+
+* Gran Espada Férrea de Sprite [Prob: 40%]
+  + 1x Gran Espada Férrea
+  + 24x Rama Seca
+  + 3x Bulbo de Azucena
+
+* Gran Espada Poderosa de Sprite [Prob: 40%]
+  + 1x Gran Espada Poderosa
+  + 30x Mineral de Bronce
+  + 3x Piedra Lunar
+
+* Gran Espada Ojo de Fe [Prob: 40%]
+  + 1x Gran Espada Poderosa de Sprite
+  + 1x Esencia Misteriosa
+  + 2x Ojo Felino
+
+* Gran Espada Destruye-Maldad [Prob: 40%]
+  + 1x Espada Alma de Sprite
+  + 1x Esencia Misteriosa
+  + 4x Gema Centelleante
+
+* Gran Espada Infinidad de Siropas [Prob: 40%]
+  + 1x Espada Forjada Batalla de Sprite
+  + 6x Corazón Tierra de Safael
+  + 1x Mineral de Escama de Dragón
+
+* Gran Hacha del Leñador [Prob: 40%]
+  + 30x Mineral de Bronce
+  + 10x Rama Seca
+
+* Gran Martillo Madera [Prob: 40%]
+  + 18x Mineral de Bronce
+  + 22x Rama Seca
+
+* Gran Martillo Madera de Sprite [Prob: 40%]
+  + 1x Gran Martillo Madera
+  + 24x Rama Seca
+  + 3x Bulbo de Azucena
+
+* Gran Espada Destrucción de Siropas [Prob: 70%]
+  + 1x Gran Espada Infinidad de Siropas
+  + 1x Emblema Jenome Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Gran León [Prob: 55%]
+  + 1x Espada Verdad del Emperador
+  + 1x Emblema Sivalee Mutante
+  + 22x Piedra Luz de Safael
+
+* Golpeador del Ángel Despiadado [Prob: 55%]
+  + 1x Mazo Angelical
+  + 1x Emblema Shiva Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Gloria del Sol [Prob: 40%]
+  + 1x Escudo Defensor del Sprite
+  + 5x Jade Alma de Cristal
+  + 8x Barrera de Piedra
+
+* Garra Infernal del Rey Infernal [Prob: 40%]
+  + 1x Libro de Maldiciones del Demonio
+  + 1x Cristal de Entendimiento
+  + 6x Garras Filosas de Grifo
+
+* Garra de Purgatorio del Señor Tenebroso [Prob: 55%]
+  + 1x Garra Infernal del Rey Infernal
+  + 1x Emblema de Kropo Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Guardián de Diamante Brillante [Prob: 55%]
+  + 1x Escudo Ojo de Gato
+  + 1x Emblema de Vulcano Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Grillete Espiritual del Ilusionista [Prob: 55%]
+  + 1x Hechizo del Caminante Celeste
+  + 1x Emblema Mutado de Luna
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Gélido Planeta Azul [Prob: 40%]
+  + 1x Luz de la Galaxia
+  + 1x Gloria del Sol
+  + 44x Esmeralda Sombra Feroz
+
+* Golpe de Trueno [Prob: 40%]
+  + 1x Francotirador Absoluto - Evolución
+  + 1x Alfa, El Francotirador Absoluto
+  + 44x Colmillo de Bestia Estelar
+
+* Grilletes de Emblema de Combate [Prob: 50%]
+  + 1x Emblema del Guardián Sacro
+  + 1x Purificador Infernal
+  + 44x Compuesto de Microcristales
+
+* Garra de Tigre [Prob: 55%]
+  + 1x Hacha de Doble Cuerno
+  + 1x Emblema de Libertad
+  + 35x Alma de Honor de Safael
+
+* Garra del Dragón [Prob: 55%]
+  + 1x Espadón Garras de Grifo
+  + 1x Emblema de Libertad
+  + 35x Alma de Honor de Safael
+
+* Garra de Tigre Desalmado [Prob: 40%]
+  + 1x Garra del Dragón
+  + 1x Espadón Garras de Grifo
+  + 44x Algas Marea Ilusoria
+
+* Gran Cuchilla Ígnea [Prob: 40%]
+  + 95x Mineral de Medianoche
+  + 45x Rama Ámbar
+
+* Gran Cuchilla Ígnea de Sprites [Prob: 40%]
+  + 1x Gran Cuchilla Ígnea
+  + 1x Hongo Transformador Azul
+  + 3x Cristal Viviente
+
+* Garras Ígneas de Violencia [Prob: 40%]
+  + 1x Llama Demoníaca Furiosa de Siropa
+  + 1x Espada Pesada Fuegonegro de Siropa
+  + 44x Piel de Lagarto Sanguinario
+
+* Garras Afiladas de Búho Brutal [Prob: 40%]
+  + 1x Hoja Bárbara de Sprites
+  + 1x Hoja de Laurel Dorada
+  + 6x Alma Terrestre de Safael
+
+* Garras Afiladas de Búho Tiránico [Prob: 55%]
+  + 1x Garras Afiladas de Búho Brutal
+  + 1x Emblema Mutante Gueus
+  + 35x Perla de Luz de Safael
+
+* Garras de Caza del Tigre Helado [Prob: 55%]
+  + 1x Diente Gigante del Oso Polar Septentrional
+  + 1x Emblema de Libertad
+  + 35x Alma de Honor de Safael
+
+* Garras de Dragón Fuego Eterno [Prob: 40%]
+  + 1x Colmillo Airado del Dragón Flamígero
+  + 1x Cuerno del Dragón Ardiente
+  + 40x Fragmento de Meteorito Antiguo
+
+* Hacha Grabada en Relieve [Prob: 40%]
+  + 80x Mineral Acero de Aleación
+  + 40x Rama Hoja de Plata
+
+* Hacha del Leñador [Prob: 40%]
+  + 12x Mineral de Bronce
+  + 8x Rama Seca
+
+* Hacha Larga Férrea [Prob: 40%]
+  + 22x Mineral de Bronce
+  + 3x Rama Seca
+
+* Hacha Taladora Árboles de Sprite [Prob: 40%]
+  + 1x Hacha del Leñador
+  + 4x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Hacha Férrea de Sprite [Prob: 40%]
+  + 1x Hacha Larga Férrea
+  + 5x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Hacha Larga del Gladiador [Prob: 40%]
+  + 42x Mineral de Bronce
+  + 8x Rama Seca
+
+* Hacha Taladora de Lujo de Sprite [Prob: 40%]
+  + 1x Gran Hacha del Leñador
+  + 24x Mineral de Bronce
+  + 3x Piedra Lunar
+
+* Hacha Larga Gladiador de Sprite [Prob: 40%]
+  + 1x Hacha Larga del Gladiador
+  + 30x Mineral de Bronce
+  + 3x Ojo Felino
+
+* Hacha Despiadada [Prob: 40%]
+  + 1x Hacha Taladora de Lujo de Sprite
+  + 2x Cristal Espiritual
+  + 2x Piedra Lunar
+
+* Hacha Tridente Acero [Prob: 40%]
+  + 40x Mineral Férreo
+  + 16x Rama Barba Férrea
+
+* Hacha Maravillosa de Guerra [Prob: 40%]
+  + 55x Mineral Férreo
+  + 15x Rama Barba Férrea
+
+* Hacha Tridente Acero de Sprite [Prob: 40%]
+  + 1x Hacha Tridente Acero
+  + 24x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Hacha Maravillosa de Guerra de Sprite [Prob: 40%]
+  + 1x Hacha Maravillosa de Guerra
+  + 30x Mineral Férreo
+  + 4x Gema Centelleante
+
+* Hacha Guerrera Coliseo [Prob: 40%]
+  + 60x Mineral Acero de Aleación
+  + 36x Rama Hoja de Plata
+
+* Hacha Cola Bestia [Prob: 40%]
+  + 95x Mineral Acero de Aleación
+  + 25x Rama Hoja de Plata
+
+* Hacha Gladiador de Sprite [Prob: 40%]
+  + 1x Hacha Guerrera Coliseo
+  + 1x Coral Verde de Humedal
+  + 3x Gema Prismática
+
+* Hacha Cola Bestia de Sprite [Prob: 40%]
+  + 1x Hacha Cola Bestia
+  + 1x Pétalo Cien Capas
+  + 3x Oro Antiguo
+
+* Hacha Bestia de Jungla [Prob: 40%]
+  + 1x Hacha Gladiador de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Cielo de Safael
+
+* Hacha Campeón del Rey Maligno [Prob: 40%]
+  + 1x Hacha Cola Bestia de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Tierra de Safael
+
+* Hacha Marca Sacra [Prob: 40%]
+  + 75x Mineral de Medianoche
+  + 37x Rama Ámbar
+
+* Hoz Afeitadora de Vida [Prob: 40%]
+  + 100x Mineral de Medianoche
+  + 40x Rama Ámbar
+
+* Hacha Sigilosa Sacra de Sprite [Prob: 40%]
+  + 1x Hacha Marca Sacra
+  + 2x Saco Llamas del Monstruo
+  + 2x Cristal Sangriento
+
+* Hoz Afeitadora Vida de Sprite [Prob: 40%]
+  + 1x Hoz Afeitadora de Vida
+  + 2x Membrana Ala Dragoncito
+  + 2x Cristal Viviente
+
+* Hierro Marcador del Golpeador [Prob: 40%]
+  + 1x Hacha Sigilosa Sacra de Sprite
+  + 4x Cristal Mágico
+  + 8x Cristal Viviente
+
+* Hacha Reencarnación [Prob: 40%]
+  + 1x Hacha Sigilosa Sacra de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Cielo de Safael
+
+* Hacha Purgatorio [Prob: 40%]
+  + 1x Hoz Afeitadora Vida de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Tierra de Safael
+
+* Hacha Dios Guerra [Prob: 40%]
+  + 90x Mineral de Platino
+  + 38x Rama Anciana
+  + 2x Restos de Demonio
+
+* Hacha Escama de Dragón [Prob: 40%]
+  + 125x Mineral de Platino
+  + 35x Rama Anciana
+  + 2x Esmeralda Verde
+
+* Hacha Dios Guerra de Sprite [Prob: 40%]
+  + 1x Hacha Dios Guerra
+  + 2x Cardos Luminosos
+  + 2x Plata Blanca Mágica
+
+* Hacha Escama de Dragón de Sprite [Prob: 40%]
+  + 1x Hacha Escama de Dragón
+  + 2x Piedra Preciosa Vacua
+  + 2x Hueso de Oro
+
+* Hacha Justicia de Smulca [Prob: 40%]
+  + 1x Hacha Dios Guerra de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Cristal Fondo del Mar
+
+* Hacha Maligna de Ewan [Prob: 40%]
+  + 1x Hacha Escama de Dragón de Sprite
+  + 6x Corazón Tierra de Safael
+  + 1x Centro Derretido
+
+* Huracán [Prob: 40%]
+  + 1x Martillo Piedra Arcana de Sprite
+  + 3x Cristal Mágico
+  + 6x Escama Lagartija Gigante
+
+* Hacha Acero Cristal Rj [Prob: 40%]
+  + 1x Hacha Taladora de Lujo de Sprite
+  + 2x Cristal Espiritual
+  + 2x Garra de Lobo Roja
+
+* Hacha Guardián de Smulca [Prob: 40%]
+  + 1x Hacha Sigilosa Sacra de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Hacha León Verde de Ewan [Prob: 40%]
+  + 1x Hoz Afeitadora Vida de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Hacha Guerrero de Smulca [Prob: 40%]
+  + 1x Hacha Dios Guerra de Sprite
+  + 6x Cristal Dimensión Aliento de Vida
+  + 1x Cristal Fondo del Mar
+
+* Hacha León Blanco de Ewan [Prob: 40%]
+  + 1x Hacha Escama de Dragón de Sprite
+  + 6x Cristal Dimensión Aliento de Vida
+  + 1x Centro Derretido
+
+* Hacha de Batalla de Sprites de Isla del Sur [Prob: 40%]
+  + 110x Mineral Cristal Ilusorio
+  + 40x Rama Cristalizada
+  + 3x Plata Brillante
+
+* Hacha Caza-Fantasmas de Sprite [Prob: 40%]
+  + 180x Mineral Cristal Ilusorio
+  + 30x Rama Cristalizada
+  + 4x Restos Insecto Maligno
+
+* Hacha Rugido del Colmillo Sangriento [Prob: 40%]
+  + 1x Hacha de Batalla de Sprites de Isla del Sur
+  + 6x Cristal Dimensión Aliento de Vida
+  + 2x Diente de Bestia Helada
+
+* Hacha Sello de Transmigración [Prob: 65%]
+  + 1x Hacha Reencarnación
+  + 1x Emblema Krudit Mutante
+  + 7x Núcleo Mutante
+
+* Hacha Sangre de Prisión [Prob: 65%]
+  + 1x Hacha Purgatorio
+  + 1x Emblema Ohmudo Mutante
+  + 7x Núcleo Mutante
+
+* Hacha Guerrera de la Verdad de Smulca [Prob: 60%]
+  + 1x Hacha Justicia de Smulca
+  + 1x Emblema Señor Carlos Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Hacha Inmortal Demoníaca de Ewan [Prob: 60%]
+  + 1x Hacha Maligna de Ewan
+  + 1x Emblema GBX-989 Mutante
+  + 15x Polvorín Luz de Safael
+
+* Hacha del Diablo del Inframundo de Smulca [Prob: 40%]
+  + 1x Hacha de Batalla de Sprites de Isla del Sur
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Plumón de Bestia Fantasma
+
+* Hacha Filo de Cristal del Guerrero Plateado [Prob: 40%]
+  + 1x Hacha Caza-Fantasmas de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Cristal Brillo de Sol de Montaña Nevada
+
+* Hacha Luna Azul de Sprite [Prob: 40%]
+  + 110x Gema Aurora
+  + 40x Antigua Corteza Gigante
+  + 4x Hongo del Cielo
+
+* Hacha Doble Filo de Sprite [Prob: 40%]
+  + 180x Gema Aurora
+  + 30x Antigua Corteza Gigante
+  + 4x Esqueleto Pez de Otro Mundo
+
+* Halo de Viento Jade Brillante [Prob: 55%]
+  + 1x Melodía Gloriosa
+  + 1x Emblema de Yanna Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Huella Explosiva de Guerreros [Prob: 40%]
+  + 1x Certificado de Héroe Dios de Guerra
+  + 1x Cristal Radiante
+  + 6x Alma Celeste de Safael
+
+* Hacha de Batalla Divina de Sprite [Prob: 40%]
+  + 120x Gema Extraña
+  + 60x Corteza Dorada
+  + 6x Diente del Conejo de Una Oreja
+
+* Hacha Doble Luna de Sprite [Prob: 40%]
+  + 140x Gema Extraña
+  + 100x Corteza Dorada
+  + 6x Piedra del Alma
+
+* Hacha del Cielo dos Espadas [Prob: 40%]
+  + 1x Hacha Doble Luna de Sprite
+  + 1x Lagrima de Sangre
+  + 9x Poder del Cielo Profundo
+
+* Hechizo del Caminante Celeste [Prob: 40%]
+  + 1x Tomo Tetragrammaton
+  + 1x Cuerno de Unicornio
+  + 9x Poder de la Tierra Profunda
+
+* Herejía Condenadora [Prob: 55%]
+  + 1x Súper Alados Ojos Malvados
+  + 1x Emblema de Vulcano Mutado
+  + 35x Jade de Luz de Safael
+
+* Hacha de Abismo de Sprite [Prob: 40%]
+  + 130x Gema Brillante
+  + 80x Raíz de Árbol Antigua
+  + 8x Hueso de Bestia Mágica
+
+* Hacha Doble Radiante de Sprite [Prob: 40%]
+  + 100x Gema Brillante
+  + 140x Raíz de Árbol Antigua
+  + 8x Hielo Amatista
+
+* Hacha Plateada - Seis Alas [Prob: 40%]
+  + 1x Hacha Doble Radiante de Sprite
+  + 1x Esencia de Lagrima de Dragón
+  + 12x Poder del Cielo Profundo
+
+* Hacha Dominio Relámpago [Prob: 40%]
+  + 1x Ira de la Reina del Mar
+  + 1x Dientes de Tierra del Caudillo
+  + 44x Raíz de Flor Demoníaca Sanguinaria
+
+* Hacha de Realeza Vencedora [Prob: 40%]
+  + 1x Corriente de Lagrima Orgullosa
+  + 1x Arrogancia - Colmillo Sangriento
+  + 40x Colmillo de Bestia Estelar
+
+* Hacha de Alas Tajantes [Prob: 40%]
+  + 1x Serafín Dorado - Aceleración
+  + 1x Flash, Las Alas de Oro
+  + 44x Vides Antiguas
+
+* Hacha Cristalina de Unicornio [Prob: 40%]
+  + 1x Llama de Furia Congeladora
+  + 1x Diente del Rey Cruel
+  + 40x Oreja de Búho Mutado
+
+* Hacha Mefistofélica [Prob: 40%]
+  + 1x Cuchilla de Cólera Fantasmal
+  + 1x Hacha del Cielo dos Espadas
+  + 44x Alga Parásita
+
+* Hacha Espiritual Rompecielos [Prob: 50%]
+  + 1x Equipo: Destripador
+  + 1x Sangre: Pulso
+  + 40x Huesos Negros de Bestia Divina
+
+* Hacha Poseída Rompevientos [Prob: 50%]
+  + 1x Poder del Rey León
+  + 1x Zodiaco: Disipar
+  + 44x Flor Cadavérica Dimensional
+
+* Hacha Tornado de la Ley [Prob: 50%]
+  + 1x Hacha Filigrana Mágica
+  + 1x Señor de las Estaciones
+  + 40x Escama de Dragón Azul de Poseidón
+
+* Hacha Roja Rugiente [Prob: 50%]
+  + 1x Hacha del Alma Sacra
+  + 1x Luz de Sol Naciente
+  + 44x Escama de Dragón Azul de Poseidón
+
+* Himno de Gracia Gloriosa [Prob: 50%]
+  + 1x Escudo Luz Sagrada
+  + 1x Engullidor Avaro
+  + 44x Compuesto de Microcristales
+
+* Huevo de Ciervo [Prob: 80%]
+  + 1x Criador de Ciervo de Llanura
+  + 1x Venado de Llanura (Prime)
+  + 1x Gama de Llanura (Prime)
+
+* Huevo de Vaca [Prob: 80%]
+  + 1x Criador de Ganado de Montaña
+  + 1x Toro de Montaña (Prime)
+  + 1x Vaca de Montaña (Prime)
+
+* Huevo de Jabalí [Prob: 80%]
+  + 1x Criador de Jabalí de Montaña
+  + 1x Jabalí de Montaña (Prime)
+  + 1x Marrana de Montaña (Prime)
+
+* Huevo de Ciervo de Montaña [Prob: 80%]
+  + 1x Criador de Ciervo de Montaña
+  + 1x Venado de Montaña (Prime)
+  + 1x Gamo de Montaña (Prime)
+
+* Huevo de Ganado Encantador [Prob: 80%]
+  + 1x Criador de Ganado Encantador
+  + 1x Toro Lothario (Prime)
+  + 1x Vaca Encantadora (Prime)
+
+* Huevo de Ganado Encantador [Prob: -1%]
+  + 1x Criador de Ganado de Montaña
+  + 1x Toro de Montaña (Prime)
+  + 1x Vaca de Montaña (Prime)
+
+* Huevo de Jabalí Salvaje [Prob: 80%]
+  + 1x Criador de Jabalí Salvaje
+  + 1x Jabalí Salvaje (Prime)
+  + 1x Marrana Salvaje (Prime)
+
+* Hacha de Madera Sprite [Prob: 40%]
+  + 140x Cristal Fantasmal
+  + 100x Raíces Fantasmales Arácnidas
+  + 10x Corazón de Muñeca
+
+* Hacha de Pionero Sprite [Prob: 40%]
+  + 120x Cristal Fantasmal
+  + 130x Raíces Fantasmales Arácnidas
+  + 10x Orbe Solar
+
+* Hacha de la Desolación [Prob: 40%]
+  + 1x Hacha de Madera Sprite
+  + 1x Ojo de Dragón Azul
+  + 15x Alma de Tierra del Otro Mundo
+
+* Hacha India Disipa Tinieblas [Prob: 40%]
+  + 1x Hacha de Pionero Sprite
+  + 1x Piedra Volcánica Antigua
+  + 15x Alma Celeste del Otro Mundo
+
+* Hacha Afilada Sprite [Prob: 40%]
+  + 150x Mineral de Lágrimas Soñadas
+  + 120x Hierba Helada
+  + 12x Colmillos de Jabalí Mágico
+
+* Hacha de Asalto Sprite [Prob: 40%]
+  + 130x Mineral de Lágrimas Soñadas
+  + 150x Hierba Helada
+  + 12x Diamante de Sangre
+
+* Hacha de Doble Cuerno [Prob: 40%]
+  + 1x Hacha Afilada Sprite
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma de Tierra del Otro Mundo
+
+* Hacha Toro Gigante [Prob: 40%]
+  + 1x Hacha de Asalto Sprite
+  + 1x Cristal Gélido
+  + 17x Alma Celeste del Otro Mundo
+
+* Himno Paradisíaco [Prob: 55%]
+  + 1x Oración Sagrada
+  + 1x Emblema de Slaydie Mutado
+  + 35x Núcleo Ardiente Mutado
+
+* Hacha Filigrana Mágica [Prob: 40%]
+  + 1x Señor de las Estaciones
+  + 1x Hacha de la Desolación
+  + 40x Osamenta de Cristal
+
+* Hacha del Alma Sacra [Prob: 40%]
+  + 1x Luz de Sol Naciente
+  + 1x Hacha India Disipa Tinieblas
+  + 44x Osamenta de Cristal
+
+* Hacha Aullido de Lobo Sanguinario [Prob: 40%]
+  + 1x Garra de Tigre
+  + 1x Hacha de Doble Cuerno
+  + 40x Colmillo de Murciélago Amatista
+
+* Hacha Cuerno de Búfalo Férreo [Prob: 40%]
+  + 1x Estampida de Toro
+  + 1x Hacha Toro Gigante
+  + 44x Colmillo de Murciélago Amatista
+
+* Hacha Pesada Férrea [Prob: 40%]
+  + 20x Mineral de Bronce
+  + 5x Rama Seca
+
+* Hacha Pesada Férrea de Sprites [Prob: 40%]
+  + 1x Hacha Pesada Férrea
+  + 5x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Hacha de Batalla del Orco [Prob: 40%]
+  + 45x Mineral Férreo
+  + 25x Rama Barba Férrea
+
+* Hacha de Batalla del Orco de Sprites [Prob: 40%]
+  + 1x Hacha de Batalla del Orco
+  + 30x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Hoja de la Aparición [Prob: 40%]
+  + 50x Mineral Acero de Aleación
+  + 46x Rama Hoja de Plata
+
+* Hacha Pesada Maldita [Prob: 40%]
+  + 80x Mineral Acero de Aleación
+  + 40x Rama Hoja de Plata
+
+* Hoja de la Aparición de Sprites [Prob: 40%]
+  + 1x Hoja de la Aparición
+  + 2x Coral Verde de Humedal
+  + 2x Gema Prismática
+
+* Hacha Pesada Maldita de Sprites [Prob: 40%]
+  + 1x Hacha Pesada Maldita
+  + 1x Pétalo Cien Capas
+  + 3x Oro Antiguo
+
+* Hacha Fiera de la Codicia [Prob: 40%]
+  + 60x Mineral de Medianoche
+  + 52x Rama Ámbar
+
+* Hacha Fiera de la Codicia de Sprites [Prob: 40%]
+  + 1x Hacha Fiera de la Codicia
+  + 2x Piedra Cubierta de Líquenes
+  + 2x Cristal Sangriento
+
+* Héroe del Ultramundo [Prob: 40%]
+  + 1x Espada Láser de Sprites
+  + 5x Cristal Radiante
+  + 8x Fruta de Perla
+
+* Hacha Fantasía de Sprites [Prob: 40%]
+  + 75x Mineral Cristal Ilusorio
+  + 75x Rama Cristalizada
+  + 3x Semilla Estrella
+
+* Hacha Pesada Promesa de Sprites [Prob: 40%]
+  + 150x Mineral Cristal Ilusorio
+  + 60x Rama Cristalizada
+  + 4x Plata Brillante
+
+* Hoja Bárbara de Sprites [Prob: 40%]
+  + 75x Gema Aurora
+  + 75x Antigua Corteza Gigante
+  + 4x Piedra Verde Fluorescente
+
+* Hoja Maldita de Sprites [Prob: 40%]
+  + 170x Gema Extraña
+  + 70x Corteza Dorada
+  + 6x Diente del Conejo de Una Oreja
+
+* Hegemonía Total [Prob: 40%]
+  + 1x Furia Abrasadora del Tiranosaurio
+  + 1x Diente del Rey Dragón
+  + 44x Colmillo de Bestia Estelar
+
+* Hachuela Angélica [Prob: 40%]
+  + 1x Katana Noble Dorada de Sprite
+  + 5x Ojo de Piegrande
+  + 8x Fósil Cristal Bestia Helada
+
+* Insignia Celeste [Prob: 40%]
+  + 1x Esencia Ensueño
+  + 115x Mineral de Medianoche
+
+* Insignia Celeste de Sprite [Prob: 40%]
+  + 1x Insignia Celeste
+  + 1x Cristal Radiante
+  + 3x Membrana Ala Dragoncito
+
+* Insignia del Arbitro [Prob: 40%]
+  + 1x Cristal Radiante
+  + 135x Mineral de Platino
+
+* Insignia del Arbitro de Sprite [Prob: 40%]
+  + 1x Insignia del Arbitro
+  + 1x Esencia Profunda
+  + 3x Plata Blanca Mágica
+
+* Ira de Pesadilla [Prob: 40%]
+  + 1x Daga Destrucción de Sprite
+  + 3x Cristal Mágico
+  + 2x Cristal Dimensión Aliento de Recuperación
+
+* Ira de la Estrella Caída [Prob: 40%]
+  + 1x Arco Esquelético de Sprite
+  + 6x Fósil Cristal Bestia Helada
+  + 2x Nuez Mágica
+
+* Ira de Estrellas [Prob: 55%]
+  + 1x Ira de la Estrella Caída
+  + 1x Emblema Shiva Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Imperdonable, Espada del Heredero Caído [Prob: 40%]
+  + 1x Espada Cristal Sangriento de Sprite
+  + 3x Jade Alma de Cristal
+  + 2x Alma Terrestre de Safael
+
+* Infierno de Destrucción del Arrasador [Prob: 40%]
+  + 1x Báculo Pastizal de Sprite
+  + 3x Esencia de Poder Mágico
+  + 8x Viñas Copo de Nieve
+
+* Ira de la Reina del Mar [Prob: 55%]
+  + 1x Dientes de Tierra del Caudillo
+  + 1x Emblema de Kropo Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Insignia de Martillo Cristalino Fantasmático [Prob: 55%]
+  + 1x Martillo de Cristal Interespacial
+  + 1x Emblema de Walgo Mutado
+  + 35x Jade de Luz de Safael
+
+* Insignia de Prueba del Caballero Sagrado [Prob: 50%]
+  + 1x Medalla Gloria del Rey
+  + 1x Runa Aislar
+  + 44x Gema Ígnea Impura
+
+* Ira Ardiente del Cocodrilo [Prob: 40%]
+  + 1x Fuego de Dragón
+  + 1x Trabuco Salamandra
+  + 44x Fragmento de Meteorito Antiguo
+
+* Ira Amarilla [Prob: 55%]
+  + 1x Polvo de Odio
+  + 1x Emblema de Slaydie Mutado
+  + 35x Núcleo Ardiente Mutado
+
+* Jaula del Atrapa-Sombras [Prob: 40%]
+  + 1x Escudo Aracne de Sprite
+  + 2x Esencia de Poder Mágico
+  + 8x Garras Filosas de Grifo
+
+* Juez Luz de Estrella [Prob: 40%]
+  + 1x Campo Fragmentar
+  + 1x Martillo Mágico Antiguo - Dios Bestia
+  + 40x Nido de Flores de Imo
+
+* Juramento de Caballero Novel [Prob: 50%]
+  + 1x Rey Corazón de León
+  + 1x Alma: Corte
+  + 40x Gema Ígnea Impura
+
+* Juicio Justo de Nobleza Sacra [Prob: 50%]
+  + 1x Báculo Alas de Cristal
+  + 1x Ruptura Perpetua
+  + 44x Piña Darr
+
+* Juicio de Vulcano [Prob: 65%]
+  + 1x Maldición Abrasadora
+  + 1x Emblema Rubis Mutante
+  + 7x Polvo Luz de Safael
+
+* Katana Seccionadora Danzante [Prob: 50%]
+  + 1x Equipo: Cuchilla del Apocalipsis
+  + 1x Espacio - Corte
+  + 44x Gema Ígnea Impura
+
+* Katana Explosiva Rompecielos [Prob: 50%]
+  + 1x Katana Exótica Castigo Celestial
+  + 1x Destrucción de Batalla - Katana Colapso
+  + 44x Compuesto de Microcristales
+
+* Katana Pesada [Prob: 40%]
+  + 10x Mineral de Bronce
+  + 15x Pelaje de Animal
+
+* Katana Pesada de Sprite [Prob: 40%]
+  + 1x Katana Pesada
+  + 5x Pelaje de Animal
+  + 3x Cuerno Duro
+
+* Katana Especial Pesada [Prob: 40%]
+  + 25x Mineral de Bronce
+  + 25x Pelaje de Animal
+
+* Katana Especial Pesada de Sprite [Prob: 40%]
+  + 1x Katana Especial Pesada
+  + 30x Pelaje de Animal
+  + 3x Garra de Lobo Roja
+
+* Katana Eco [Prob: 40%]
+  + 40x Mineral Férreo
+  + 30x Piel Elástica
+
+* Katana Eco de Sprite [Prob: 40%]
+  + 1x Katana Eco
+  + 30x Piel Elástica
+  + 4x Cuerno de Bestia
+
+* Katana Gigante [Prob: 40%]
+  + 1x Katana Eco de Sprite
+  + 1x Cristal Espiritual
+  + 4x Huesos Rey de Bestias
+
+* Katana Piedra Secreta [Prob: 40%]
+  + 76x Mineral Acero de Aleación
+  + 44x Cuero de Monstruo
+
+* Katana Piedra Secreta de Sprite [Prob: 40%]
+  + 1x Katana Piedra Secreta
+  + 1x Astas de Cristal
+  + 3x Gema Prismática
+
+* Katana Huracán [Prob: 40%]
+  + 1x Katana Piedra Secreta de Sprite
+  + 3x Cristal Mágico
+  + 6x Astas de Cristal
+
+* Katana Ligera - Samurái Sagrado [Prob: 40%]
+  + 1x Katana Piedra Secreta de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Tierra de Safael
+
+* Katana Maestro Mago [Prob: 40%]
+  + 98x Mineral de Medianoche
+  + 52x Escamas Mágicas
+
+* Katana Maestro Mago de Sprite [Prob: 40%]
+  + 1x Katana Maestro Mago
+  + 3x Saco Llamas del Monstruo
+  + 1x Cristal Sangriento
+
+* Katana Nuclear [Prob: 40%]
+  + 1x Katana Maestro Mago de Sprite
+  + 4x Cristal Mágico
+  + 8x Saco Llamas del Monstruo
+
+* Katana Venganza del Jefe [Prob: 40%]
+  + 1x Katana Maestro Mago de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Tierra de Safael
+
+* Katana del Anciano [Prob: 65%]
+  + 1x Katana Venganza del Jefe
+  + 1x Emblema Rubis Mutante
+  + 7x Polvo Luz de Safael
+
+* Katana Quimérica [Prob: 40%]
+  + 125x Mineral de Platino
+  + 35x Cuero sin Curtir
+  + 2x Restos de Demonio
+
+* Katana Quimérica de Sprite [Prob: 40%]
+  + 1x Katana Quimérica
+  + 1x Hueso de Oro
+  + 3x Plata Blanca Mágica
+
+* Katana Dios del Trueno [Prob: 40%]
+  + 1x Katana Quimérica de Sprite
+  + 5x Cristal Radiante
+  + 8x Cola de Gusano Gigante
+
+* Katana Ola de Calor de Bahado [Prob: 40%]
+  + 1x Katana Quimérica de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Pluma Ave del Paraíso
+
+* Katana Ola de Ira de Bahado [Prob: 60%]
+  + 1x Katana Ola de Calor de Bahado
+  + 1x Emblema Randorak Mutante
+  + 15x Polvorín Luz de Safael
+
+* Katana Noble Dorada de Sprite [Prob: 40%]
+  + 160x Mineral Cristal Ilusorio
+  + 50x Piel de Bestia Extraña
+  + 4x Restos Insecto Maligno
+
+* Katana de Dominio del Conquistador [Prob: 40%]
+  + 1x Katana Noble Dorada de Sprite
+  + 5x Jade Alma de Cristal
+  + 2x Alma Terrestre de Safael
+
+* Katana Sagrada Protectora del Ejército Imperio Celeste [Prob: 40%]
+  + 1x Katana Noble Dorada de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Cristal Brillo de Sol de Montaña Nevada
+
+* Katana Sol del Conquistador del Reino [Prob: 55%]
+  + 1x Katana de Dominio del Conquistador
+  + 1x Emblema de Molilada Mutante
+  + 35x Piedra Luz de Safael
+
+* Katana Castigadora de Sprite [Prob: 40%]
+  + 160x Gema Aurora
+  + 50x Caparazón de Insecto Congelado
+  + 4x Piedra Verde Fluorescente
+
+* Katana Sagrada - Corte Génesis [Prob: 40%]
+  + 1x Katana Castigadora de Sprite
+  + 3x Jade Alma de Cristal
+  + 4x Alma Terrestre de Safael
+
+* Katana Sagrada - Poder Cielos Abiertos [Prob: 55%]
+  + 1x Katana Sagrada - Corte Génesis
+  + 1x Emblema de Kropo Mutante
+  + 35x Perla de Luz de Safael
+
+* Katana Divina Estrella de Sprite [Prob: 40%]
+  + 80x Gema Extraña
+  + 160x Lana de Cristal Negro
+  + 6x Piedra del Alma
+
+* Katana Regicidio de Sprite [Prob: 40%]
+  + 100x Gema Brillante
+  + 140x Pluma de Fénix
+  + 8x Hielo Amatista
+
+* Katana Dientenegro Rota [Prob: 40%]
+  + 1x Cuchilla Rota de Sprite
+  + 1x Piedra Volcánica Antigua
+  + 14x Alma de Tierra del Otro Mundo
+
+* Katana Exótica Castigo Celestial [Prob: 40%]
+  + 1x Destrucción de Batalla - Katana Colapso
+  + 1x Katana Dientenegro Rota
+  + 44x Gema de Cristal Fundido
+
+* Katana de Acero Sprite [Prob: 40%]
+  + 130x Mineral de Lágrimas Soñadas
+  + 190x Globo Ocular Luminoso
+  + 12x Cristal Arena Helada
+
+* Katana León de Dos Cabezas [Prob: 40%]
+  + 1x Katana de Acero Sprite
+  + 1x Cristal Gélido
+  + 17x Alma de Tierra del Otro Mundo
+
+* Katana León Negro [Prob: 55%]
+  + 1x Katana León de Dos Cabezas
+  + 1x Emblema de Libertad
+  + 35x Alma de Honor de Safael
+
+* Katana Poder Marcial Rugido de León [Prob: 40%]
+  + 1x Katana León Negro
+  + 1x Katana León de Dos Cabezas
+  + 44x Fragmento de Meteorito Antiguo
+
+* Luna Noche Eterna [Prob: 40%]
+  + 1x Báculo del Adivino de Sprite
+  + 1x Esencia Misteriosa
+  + 4x Gema Centelleante
+
+* Luz Cristalina [Prob: 40%]
+  + 1x Escudo de Latón de Sprite
+  + 2x Cristal Espiritual
+  + 2x Ojo Felino
+
+* Libro de Hechicería [Prob: 40%]
+  + 1x Cristal Mágico
+  + 70x Rama Hoja de Plata
+
+* Libro Brujería de Sprite [Prob: 40%]
+  + 1x Libro de Hechicería
+  + 1x Esencia Ensueño
+  + 3x Pétalo Cien Capas
+
+* Libro de Barreras [Prob: 40%]
+  + 1x Esencia Ensueño
+  + 115x Rama Ámbar
+
+* Libro de Barreras de Sprite [Prob: 40%]
+  + 1x Libro de Barreras
+  + 1x Cristal Radiante
+  + 3x Hongo Transformador Azul
+
+* Libro de Elementos [Prob: 40%]
+  + 1x Cristal Radiante
+  + 135x Rama Anciana
+
+* Libro de Elementos de Sprite [Prob: 40%]
+  + 1x Libro de Elementos
+  + 1x Esencia Profunda
+  + 3x Orquídea de Cristal
+
+* Libro Guarida Caos [Prob: 40%]
+  + 1x Libro de Elementos de Sprite
+  + 2x Cristal de Sueño
+  + 6x Diamante Tenebroso
+
+* Libro de lo Interminable [Prob: 40%]
+  + 1x Libro de Elementos de Sprite
+  + 6x Corazón Tierra de Safael
+  + 1x Hoja de Dragón Azul
+
+* Lanza Tiburón Roja de Bahado [Prob: 40%]
+  + 1x Rifle Clásico de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Lanza Leviatan de Bahado [Prob: 40%]
+  + 1x Especial del Domingo de Sprite
+  + 5x Cristal Dimensión Aliento de Vida
+  + 2x Cráneo de Bestia Sacra
+
+* Libro de Teología de Sprite [Prob: 40%]
+  + 2x Cristal Radiante
+  + 150x Mineral Cristal Ilusorio
+  + 3x Nuez Mágica
+
+* Lágrimas Santas [Prob: 40%]
+  + 1x Libro de Teología de Sprite
+  + 2x Cristal de Sueño
+  + 6x Pétalos Flor Cristal de Hielo
+
+* Llama Eterna [Prob: 55%]
+  + 1x Cuchilla de Fuego
+  + 1x Emblema Draze Mutante
+  + 22x Piedra Luz de Safael
+
+* Libro de Esencia de los Caídos [Prob: 60%]
+  + 1x Libro de lo Interminable
+  + 1x Emblema GBX-989 Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Libro Escudo Brillante [Prob: 55%]
+  + 1x Sello de Luz Defensor
+  + 1x Emblema Sivalee Mutante
+  + 22x Piedra Luz de Safael
+
+* Lágrimas Sangrientas [Prob: 55%]
+  + 1x Lágrimas Santas
+  + 1x Emblema Basse Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Libro de Maldiciones del Demonio [Prob: 40%]
+  + 2x Jade Alma de Cristal
+  + 150x Antigua Corteza Gigante
+  + 3x Esqueleto Pez de Otro Mundo
+
+* Libro Infinito-Oráculo [Prob: 55%]
+  + 1x Tomo de Comprensión Infinita
+  + 1x Emblema de Baha Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Luz de la Galaxia [Prob: 55%]
+  + 1x Gloria del Sol
+  + 1x Emblema de Yatta Mutante
+  + 35x Perla de Luz de Safael
+
+* Libro Dedicado con Aprecio [Prob: 40%]
+  + 1x Biblia Sagrada de la Salvación de Dios
+  + 1x Diente de Leche del Sabueso Infernal
+  + 6x Alma Terrestre de Safael
+
+* Libro Prohibido de Historia Tenebrosa [Prob: 40%]
+  + 1x Libro de Maldiciones del Demonio
+  + 1x Hoja de Laurel Dorada
+  + 6x Alma Terrestre de Safael
+
+* Libro de las Ofrendas de Sacrificio [Prob: 55%]
+  + 1x Libro Dedicado con Aprecio
+  + 1x Emblema Mutante Reina Escorpión Azul
+  + 35x Núcleo Transformado de Maldad
+
+* Lava Espada del Dragón [Prob: 40%]
+  + 1x Espada de Hielo Llameante Sprite
+  + 1x Lagrima de Sangre
+  + 9x Poder de la Tierra Profunda
+
+* Libro Prohibido Bosque Azul del Sacerdote [Prob: 40%]
+  + 1x Prueba de Luz del rey
+  + 1x Rosa de Aurora Caos
+  + 9x Poder del Cielo Profundo
+
+* Libro Luminoso del Santo Ilusionista [Prob: 40%]
+  + 1x Contrato de Convocación de Tiempo-Espacio
+  + 1x Lagrima de Sangre
+  + 9x Poder de la Tierra Profunda
+
+* Llama de Furia Congeladora [Prob: 55%]
+  + 1x Diente del Rey Cruel
+  + 1x Emblema Mutado de Luna
+  + 35x Jade de Luz de Safael
+
+* Libro Prohibido del Sacerdote [Prob: 55%]
+  + 1x Libro Prohibido Bosque Azul del Sacerdote
+  + 1x Emblema Mutado de Bartrene
+  + 35x Jade de Luz de Safael
+
+* Lanza Inframundo de Sprite [Prob: 40%]
+  + 60x Gema Brillante
+  + 180x Raíz de Árbol Antigua
+  + 7x Hueso de Bestia Mágica
+
+* Libro de Sigilo Tradicional [Prob: 40%]
+  + 2x Cristal de Vida
+  + 210x Gema Brillante
+  + 5x Hueso de Bestia Mágica
+
+* Libro Final de Revelación [Prob: 40%]
+  + 1x Libro Infinito-Oráculo
+  + 1x Tomo de Comprensión Infinita
+  + 44x Hierba Eco de Fantasía
+
+* Lanzamiento Giratorio [Prob: 40%]
+  + 1x El Escondido - Serenidad
+  + 1x Verdugo de Criaturas de Sueños - Matar
+  + 44x Vides Antiguas
+
+* Libro Bendición de la Vida [Prob: 40%]
+  + 1x Sello del Barón Buster
+  + 1x Huella Explosiva de Guerreros
+  + 44x Cristal Alma Bestial
+
+* Llama Marca del Dragón [Prob: 40%]
+  + 1x Roca Infernal de Dragonbane
+  + 1x Lava Espada del Dragón
+  + 40x Ámbar Alternativo
+
+* Lágrima Gélida de Dios de la Muerte [Prob: 40%]
+  + 1x Tomo Sacro Incrustado con Joyas
+  + 1x Libro Luminoso del Santo Ilusionista
+  + 44x Oreja de Búho Mutado
+
+* Llamarada del Loto Rojo [Prob: 50%]
+  + 1x Oráculo Salvador Definitivo
+  + 1x Divulgador de la Voz de Dios
+  + 44x Huesos Negros de Bestia Divina
+
+* Ley Divina Meteórica [Prob: 50%]
+  + 1x Alma de Maestro Mago Luz de Estrella
+  + 1x Aura Parpadeo
+  + 44x Flor Cadavérica Dimensional
+
+* Luz de Sol Naciente [Prob: 55%]
+  + 1x Hacha India Disipa Tinieblas
+  + 1x Emblema de Slaydie Mutado
+  + 35x Núcleo Ardiente Mutado
+
+* Libro de la Verdad Prohibida [Prob: 40%]
+  + 1x Himno Paradisíaco
+  + 1x Oración Sagrada
+  + 44x Narciso de Jade Rojo
+
+* Lámpara del Transbordador [Prob: 40%]
+  + 1x Hacha Pesada Maldita de Sprites
+  + 3x Cristal Mágico
+  + 6x Escama Lagartija Gigante
+
+* Llamas Endemoniadas Corruptas [Prob: 65%]
+  + 1x Martillo de Demonios Abrasador
+  + 1x Emblema Krudit Mutante
+  + 7x Núcleo Mutante
+
+* Llama Demoníaca Furiosa de Siropa [Prob: 55%]
+  + 1x Espada Pesada Fuegonegro de Siropa
+  + 1x Emblema de Kesbel Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Luz de las Tierras Vírgenes [Prob: 40%]
+  + 1x Pátina de Recuerdos de Mosunk
+  + 1x Maza de la Sabiduría de Mosunk
+  + 40x Ámbar Alternativo
+
+* Lamento del Sueño Abandonado [Prob: 40%]
+  + 1x Fuego Desollador del Pecado
+  + 1x Bomba Inactiva Diabólica
+  + 44x Piedra Magnética Fantasma Flotante
+
+* Llave de Madera [Prob: 40%]
+  + 15x Mineral de Bronce
+  + 10x Rama Seca
+
+* Llave de Madera de Sprite [Prob: 40%]
+  + 1x Llave de Madera
+  + 5x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Llave Primitiva [Prob: 40%]
+  + 30x Mineral de Bronce
+  + 20x Rama Seca
+
+* Llave Primitiva de Sprite [Prob: 40%]
+  + 1x Llave Primitiva
+  + 30x Mineral de Bronce
+  + 3x Piedra Lunar
+
+* Llave de Caballero Oscuro [Prob: 40%]
+  + 1x Llave Primitiva de Sprite
+  + 2x Cristal Espiritual
+  + 2x Ojo Felino
+
+* Llave Cazadora [Prob: 40%]
+  + 40x Mineral Férreo
+  + 30x Rama Barba Férrea
+
+* Llave Cazadora de Sprite [Prob: 40%]
+  + 1x Llave Cazadora
+  + 30x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Llave de Polvo [Prob: 40%]
+  + 1x Llave Cazadora de Sprite
+  + 2x Cristal Espiritual
+  + 4x Gema Centelleante
+
+* Llave de Neblina Negra [Prob: 40%]
+  + 70x Mineral Acero de Aleación
+  + 50x Rama Hoja de Plata
+
+* Llave de Neblina Negra de Sprite [Prob: 40%]
+  + 1x Llave de Neblina Negra
+  + 2x Coral Verde de Humedal
+  + 2x Gema Prismática
+
+* Llave de Sombra [Prob: 40%]
+  + 1x Llave de Neblina Negra de Sprite
+  + 3x Cristal Mágico
+  + 6x Oro Antiguo
+
+* Llave Fuego Cruel [Prob: 40%]
+  + 80x Mineral de Medianoche
+  + 60x Rama Ámbar
+
+* Llave Cruel de Sprites [Prob: 40%]
+  + 1x Llave Fuego Cruel
+  + 1x Piedra Cubierta de Líquenes
+  + 3x Cristal Sangriento
+
+* Llave de Brasas [Prob: 40%]
+  + 1x Llave Cruel de Sprites
+  + 4x Cristal Mágico
+  + 8x Cristal Viviente
+
+* Llave de Serpiente de Fuego [Prob: 40%]
+  + 1x Llave Cruel de Sprites
+  + 1x Esencia Ensueño
+  + 8x Piedra Preciosa Luz Bailarina
+
+* Llave de Dragón de Fuego [Prob: 65%]
+  + 1x Llave de Serpiente de Fuego
+  + 1x Emblema Antoraya Mutante
+  + 7x Polvo Luz de Safael
+
+* Llave Hierro Sombrío [Prob: 40%]
+  + 90x Mineral de Platino
+  + 70x Rama Anciana
+  + 2x Cardos Luminosos
+
+* Llave Hierro Sombrío de Sprite [Prob: 40%]
+  + 1x Llave Hierro Sombrío
+  + 2x Vid Sangre de Dragón
+  + 2x Plata Blanca Mágica
+
+* Llave Regresada [Prob: 40%]
+  + 1x Llave Hierro Sombrío de Sprite
+  + 5x Cristal Radiante
+  + 8x Orquídea de Cristal
+
+* Llave de Aparición [Prob: 60%]
+  + 1x Llave Regresada
+  + 1x Emblema Jenome Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Llave Oración de Sprites [Prob: 40%]
+  + 120x Mineral Cristal Ilusorio
+  + 60x Rama Cristalizada
+  + 8x Semilla Estrella
+
+* Llave de Sueño Marvilloso [Prob: 40%]
+  + 1x Llave Oración de Sprites
+  + 6x Corindón Escarlata
+  + 2x Nuez Mágica
+
+* Llave Onírica [Prob: 55%]
+  + 1x Llave de Sueño Marvilloso
+  + 1x Emblema Draze Mutante
+  + 22x Piedra Luz de Safael
+
+* Llave Perezosa [Prob: 40%]
+  + 1x Llave Oración de Sprites
+  + 2x Alma Terrestre de Safael
+  + 8x Pétalos Flor Cristal de Hielo
+
+* Llave de Roedor de Fuerza de Voluntad [Prob: 55%]
+  + 1x Llave Perezosa
+  + 1x Emblema de Baha Mutante
+  + 35x Piedra Luz de Safael
+
+* Llave Gárgola de Sprite [Prob: 40%]
+  + 120x Gema Aurora
+  + 60x Antigua Corteza Gigante
+  + 3x Hongo del Cielo
+
+* Llave de Pico [Prob: 40%]
+  + 1x Llave Gárgola de Sprite
+  + 4x Alma Terrestre de Safael
+  + 8x Vainilla Aurora
+
+* Llave del Vacío [Prob: 40%]
+  + 1x Llave Gárgola de Sprite
+  + 2x Esencia de Poder Mágico
+  + 8x Barrera de Piedra
+
+* Llave de Demonio Tenebroso [Prob: 55%]
+  + 1x Llave del Vacío
+  + 1x Emblema de Priesley Mutante
+  + 35x Perla de Luz de Safael
+
+* Llave del Rey Dragón [Prob: 40%]
+  + 1x Llave Gárgola de Sprite
+  + 1x Hoja de Laurel Dorada
+  + 6x Alma Celeste de Safael
+
+* Llave de Tiranosaurio [Prob: 55%]
+  + 1x Llave del Rey Dragón
+  + 1x Emblema Mutante Reina Escorpión Azul
+  + 35x Núcleo Transformado de Maldad
+
+* Llave Hechizo Arcano de Sprites [Prob: 40%]
+  + 90x Gema Extraña
+  + 120x Corteza Dorada
+  + 5x Hierba de Agua Purificante
+
+* Llave Milagrosa de Ginny [Prob: 40%]
+  + 1x Llave Hechizo Arcano de Sprites
+  + 1x Rosa de Aurora Caos
+  + 9x Poder del Cielo Profundo
+
+* Llave Susurradora de Ginny [Prob: 55%]
+  + 1x Llave Milagrosa de Ginny
+  + 1x Emblema de Mogma Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Llave Cruel de Sprite [Prob: 40%]
+  + 60x Gema Brillante
+  + 180x Raíz de Árbol Antigua
+  + 7x Hielo Amatista
+
+* Llave de Explosión Mágica [Prob: 40%]
+  + 1x Llave Cruel de Sprite
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Llave de Tiranía [Prob: 55%]
+  + 1x Llave de Explosión Mágica
+  + 1x Emblema de Magnita Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Llave Marea de Sprite [Prob: 40%]
+  + 110x Raíces Fantasmales Arácnidas
+  + 120x Cristal Fantasmal
+  + 9x Gema Sombralunar
+
+* Llave de Marea de la Muerte [Prob: 40%]
+  + 1x Llave Marea de Sprite
+  + 1x Piedra Volcánica Antigua
+  + 14x Alma de Tierra del Otro Mundo
+
+* Llave de Rencor [Prob: 55%]
+  + 1x Llave de Marea de la Muerte
+  + 1x Emblema de Tespin Mutante
+  + 35x Núcleo Ardiente Mutado
+
+* Llave Luminosa de Sprite [Prob: 40%]
+  + 115x Hierba Helada
+  + 125x Mineral de Lágrimas Soñadas
+  + 11x Fruta del Tiempo
+
+* Llave Lobo de Aurora [Prob: 40%]
+  + 1x Llave Luminosa de Sprite
+  + 1x Rosa Sangrienta Demoníaca
+  + 17x Alma de Tierra del Otro Mundo
+
+* Llave de Tigre del Trueno Sombrío [Prob: 55%]
+  + 1x Llave Lobo de Aurora
+  + 1x Emblema de Honor
+  + 35x Alma de Honor de Safael
+
+* Martillo Madera [Prob: 40%]
+  + 5x Mineral de Bronce
+  + 15x Rama Seca
+
+* Mazo Pesado [Prob: 40%]
+  + 10x Mineral de Bronce
+  + 15x Rama Seca
+
+* Mazo Madera de Sprite [Prob: 40%]
+  + 1x Martillo Madera
+  + 4x Rama Seca
+  + 3x Fósil Raíz Árbol
+
+* Mazo Pesado de Sprite [Prob: 40%]
+  + 1x Mazo Pesado
+  + 5x Rama Seca
+  + 3x Piedra Preciosa sin Tallar
+
+* Mazo Especial Pesado [Prob: 40%]
+  + 25x Mineral de Bronce
+  + 25x Rama Seca
+
+* Mazo Especial Pesado de Sprite [Prob: 40%]
+  + 1x Mazo Especial Pesado
+  + 30x Rama Seca
+  + 3x Cáscara Fruta Mithril
+
+* Martillo Luz de Luna [Prob: 40%]
+  + 1x Gran Martillo Madera de Sprite
+  + 2x Cristal Espiritual
+  + 2x Bulbo de Azucena
+
+* Martillo Cuernudo [Prob: 40%]
+  + 22x Mineral Férreo
+  + 34x Rama Barba Férrea
+
+* Martillo Eco [Prob: 40%]
+  + 40x Mineral Férreo
+  + 30x Rama Barba Férrea
+
+* Martillo Cuernudo de Sprite [Prob: 40%]
+  + 1x Martillo Cuernudo
+  + 24x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Martillo Eco de Sprite [Prob: 40%]
+  + 1x Martillo Eco
+  + 30x Mineral Férreo
+  + 4x Raíces Luz de Luna
+
+* Martillo Coronación [Prob: 40%]
+  + 40x Mineral Acero de Aleación
+  + 56x Rama Hoja de Plata
+
+* Martillo Piedra Arcana [Prob: 40%]
+  + 76x Mineral Acero de Aleación
+  + 44x Rama Hoja de Plata
+
+* Martillo de Coronación de Sprite [Prob: 40%]
+  + 1x Martillo Coronación
+  + 3x Coral Verde de Humedal
+  + 1x Gema Prismática
+
+* Martillo Piedra Arcana de Sprite [Prob: 40%]
+  + 1x Martillo Piedra Arcana
+  + 1x Pétalo Cien Capas
+  + 3x Oro Antiguo
+
+* Martillo Luz del Templario [Prob: 40%]
+  + 1x Martillo Piedra Arcana de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Tierra de Safael
+
+* Martillo del Sello [Prob: 40%]
+  + 50x Mineral de Medianoche
+  + 62x Rama Ámbar
+
+* Mazo Mágico [Prob: 40%]
+  + 98x Mineral de Medianoche
+  + 52x Rama Ámbar
+
+* Martillo del Sello de Sprite [Prob: 40%]
+  + 1x Martillo del Sello
+  + 2x Piedra Cubierta de Líquenes
+  + 2x Cristal Sangriento
+
+* Mazo Mágico de Sprite [Prob: 40%]
+  + 1x Mazo Mágico
+  + 3x Hongo Transformador Azul
+  + 1x Cristal Viviente
+
+* Mazo Megatón [Prob: 40%]
+  + 1x Mazo Mágico de Sprite
+  + 4x Cristal Mágico
+  + 8x Membrana Ala Dragoncito
+
+* Martillo Castigo Celeste [Prob: 40%]
+  + 60x Mineral de Platino
+  + 68x Rama Anciana
+  + 2x Cardos Luminosos
+
+* Mazo Quimérico [Prob: 40%]
+  + 125x Mineral de Platino
+  + 35x Rama Anciana
+  + 2x Restos de Demonio
+
+* Martillo Castigo Celeste de Sprite [Prob: 40%]
+  + 1x Martillo Castigo Celeste
+  + 2x Vid Sangre de Dragón
+  + 2x Hueso de Oro
+
+* Mazo Quimérico de Sprite [Prob: 40%]
+  + 1x Mazo Quimérico
+  + 1x Orquídea de Cristal
+  + 3x Piedra Preciosa Vacua
+
+* Martillo Puño Aplastante [Prob: 40%]
+  + 1x Martillo Castigo Celeste de Sprite
+  + 5x Cristal Radiante
+  + 8x Fruta de Perla
+
+* Martillo Dios Relámpago [Prob: 40%]
+  + 1x Mazo Quimérico de Sprite
+  + 5x Cristal Radiante
+  + 8x Diamante Tenebroso
+
+* Martillo Eterno de Jundo [Prob: 40%]
+  + 1x Martillo Castigo Celeste de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Metal Sacro
+
+* Martillo Ira de Ronto [Prob: 40%]
+  + 1x Mazo Quimérico de Sprite
+  + 6x Corazón Tierra de Safael
+  + 1x Garra Fuego Ng
+
+* Mirada de Loki [Prob: 40%]
+  + 1x Arco de UsoDiario de Sprite
+  + 5x Cristal Radiante
+  + 8x Orquídea de Cristal
+
+* Mensajero de Maná [Prob: 40%]
+  + 1x Báculo Aprendiz de Sprite
+  + 2x Cristal Espiritual
+  + 2x Ojo Felino
+
+* Muro de Suspiros [Prob: 40%]
+  + 1x Broquel del Luchador de Sprite
+  + 1x Esencia Ensueño
+  + 6x Hierro Muerto
+
+* Mano del Templario [Prob: 40%]
+  + 1x Insignia del Arbitro de Sprite
+  + 6x Corazón Cielo de Safael
+  + 1x Mineral de Escama de Dragón
+
+* Martillo Pulsante de Fuego [Prob: 40%]
+  + 1x Gran Martillo Madera de Sprite
+  + 2x Cristal Espiritual
+  + 2x Ojo Felino
+
+* Martillo Reliquia-Revelación del Ascetic [Prob: 40%]
+  + 1x Martillo de Coronación de Sprite
+  + 3x Cristal Mágico
+  + 2x Cristal Dimensión Aliento de Recuperación
+
+* Martillo Ojo de Bestia de Jundo [Prob: 40%]
+  + 1x Martillo del Sello de Sprite
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Martillo Antiguo-Sinfonía de Mariposas [Prob: 40%]
+  + 1x Martillo Castigo Celeste de Sprite
+  + 5x Cristal Radiante
+  + 8x Orquídea de Cristal
+
+* Martillo Ojo de Dragón de Jundo [Prob: 40%]
+  + 1x Martillo Castigo Celeste de Sprite
+  + 5x Cristal Dimensión Aliento de Vida
+  + 2x Metal Sacro
+
+* Martillo Esmeralda de Sprite [Prob: 40%]
+  + 90x Mineral Cristal Ilusorio
+  + 60x Rama Cristalizada
+  + 3x Semilla Estrella
+
+* Martillo Noble Dorado de Sprite [Prob: 40%]
+  + 160x Mineral Cristal Ilusorio
+  + 50x Rama Cristalizada
+  + 4x Nuez Mágica
+
+* Mazo Angelical [Prob: 40%]
+  + 1x Martillo Noble Dorado de Sprite
+  + 5x Pétalos Flor Cristal de Hielo
+  + 8x Ojo de Piegrande
+
+* Maza Despertadora del Mensajero [Prob: 40%]
+  + 1x Martillo Esmeralda de Sprite
+  + 6x Cristal Dimensión Aliento de Vida
+  + 2x Pétalos Flor Cristal de Hielo
+
+* Martillo del Anciano [Prob: 65%]
+  + 1x Venganza del Jefe
+  + 1x Emblema Rubis Mutante
+  + 7x Polvo Luz de Safael
+
+* Martillo Creación Sacra de Jundo [Prob: 60%]
+  + 1x Martillo Eterno de Jundo
+  + 1x Emblema Jenome Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Martillo Rugido Feroz de Ronto [Prob: 60%]
+  + 1x Martillo Ira de Ronto
+  + 1x Emblema Randorak Mutante
+  + 15x Polvorín Luz de Safael
+
+* Mundo Eterno [Prob: 55%]
+  + 1x Escudo de Dioses Indestructible
+  + 1x Emblema Sivalee Mutante
+  + 22x Piedra Luz de Safael
+
+* Mano del Templario [Prob: 60%]
+  + 1x Mano del Templario
+  + 1x Emblema Jenome Mutante
+  + 15x Polvorín Luz de Safael
+
+* Mazo Simbólico del Rey del Ártico [Prob: 40%]
+  + 1x Martillo Esmeralda de Sprite
+  + 3x Jade Alma de Cristal
+  + 2x Alma Terrestre de Safael
+
+* Martillo de Dominio del Conquistador [Prob: 40%]
+  + 1x Martillo Noble Dorado de Sprite
+  + 5x Jade Alma de Cristal
+  + 2x Alma Celeste de Safael
+
+* Martillo Penalidad de Expulsión de Jundo [Prob: 40%]
+  + 1x Martillo Esmeralda de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Savia de Árbol de Oro
+
+* Martillo Sagrado Protector del Ejército Imperio Celeste [Prob: 40%]
+  + 1x Martillo Noble Dorado de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Cristal Brillo de Sol de Montaña Nevada
+
+* Martillo del Juicio de Sprite [Prob: 40%]
+  + 90x Gema Aurora
+  + 60x Antigua Corteza Gigante
+  + 3x Esqueleto Pez de Otro Mundo
+
+* Martillo Castigador de Sprite [Prob: 40%]
+  + 160x Gema Aurora
+  + 50x Antigua Corteza Gigante
+  + 4x Hongo del Cielo
+
+* Martillo Mágico Sombra Nívea [Prob: 40%]
+  + 1x Martillo del Juicio de Sprite
+  + 5x Jade Alma de Cristal
+  + 4x Alma Terrestre de Safael
+
+* Martillo Sacro Sonido de Génesis [Prob: 40%]
+  + 1x Martillo Castigador de Sprite
+  + 3x Esencia de Poder Mágico
+  + 4x Alma Celeste de Safael
+
+* Melodía Gloriosa [Prob: 40%]
+  + 1x Arco Esquelético de Sprite
+  + 2x Alma Celeste de Safael
+  + 8x Fósil Cristal Bestia Helada
+
+* Mano del Exterminador [Prob: 40%]
+  + 1x Piedra Energía Cristalina de Sprite
+  + 3x Alma Terrestre de Safael
+  + 6x Fragmento Criatura de la Ruina
+
+* Martillo Sol del Conquistador del Reino [Prob: 55%]
+  + 1x Martillo de Dominio del Conquistador
+  + 1x Emblema de Baha Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Martillo Mágico Invisible [Prob: 55%]
+  + 1x Martillo Mágico Sombra Nívea
+  + 1x Emblema de Yatta Mutante
+  + 35x Perla de Luz de Safael
+
+* Martillo Fantasma Rodeado - Reformado [Prob: 40%]
+  + 1x Martillo del Juicio de Sprite
+  + 1x Diente de Leche del Sabueso Infernal
+  + 6x Alma Terrestre de Safael
+
+* Martillo de ocho Piezas - Reincidente [Prob: 55%]
+  + 1x Martillo Fantasma Rodeado - Reformado
+  + 1x Emblema Mutante Gueus
+  + 35x Perla de Luz de Safael
+
+* Martillo Malvado de Sprite [Prob: 40%]
+  + 90x Gema Extraña
+  + 90x Corteza Dorada
+  + 6x Piedra del Alma
+
+* Martillo de la Divina Estrella de Sprite [Prob: 40%]
+  + 80x Gema Extraña
+  + 160x Corteza Dorada
+  + 6x Diente del Conejo de Una Oreja
+
+* Martillo de Cristal Interespacial [Prob: 40%]
+  + 1x Martillo Malvado de Sprite
+  + 1x Lagrima de Sangre
+  + 9x Poder de la Tierra Profunda
+
+* Martillo Provincial de Sprite [Prob: 40%]
+  + 90x Gema Brillante
+  + 120x Raíz de Árbol Antigua
+  + 8x Hielo Amatista
+
+* Martillo Regicidio de Sprite [Prob: 40%]
+  + 100x Gema Brillante
+  + 140x Raíz de Árbol Antigua
+  + 8x Hueso de Bestia Mágica
+
+* Martillo Mágico Antiguo - Dios Bestia [Prob: 40%]
+  + 1x Martillo Provincial de Sprite
+  + 1x Esencia de Lagrima de Dragón
+  + 12x Poder de la Tierra Profunda
+
+* Magia: Ondulación [Prob: 55%]
+  + 1x Cántico de Cosmos Fantásticos
+  + 1x Emblema de Roshiel Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Mazo Divino Conquista Nubes [Prob: 40%]
+  + 1x Martillo Sol del Conquistador del Reino
+  + 1x Martillo de Dominio del Conquistador
+  + 44x Piedra Magnética Fantasma Flotante
+
+* Martillo Roca Celestial [Prob: 40%]
+  + 1x Martillo Mágico Invisible
+  + 1x Martillo Mágico Sombra Nívea
+  + 40x Raíz de Flor Demoníaca Sanguinaria
+
+* Mazo Alado del Inframundo [Prob: 40%]
+  + 1x Fuerza de Martillo Sacro Transforma-Tierra
+  + 1x Martillo Sacro Sonido de Génesis
+  + 44x Esmeralda Sombra Feroz
+
+* Máscara de Comodín de Evasión [Prob: 40%]
+  + 1x Martillo de ocho Piezas - Reincidente
+  + 1x Martillo Fantasma Rodeado - Reformado
+  + 40x Vides Antiguas
+
+* Medalla Gloria del Rey [Prob: 40%]
+  + 1x Runa Aislar
+  + 1x Piedra Sacra Explosiva
+  + 44x Electrodo Líquido
+
+* Martillo de Guerra del Proverbio Legendario [Prob: 50%]
+  + 1x Juez Luz de Estrella
+  + 1x Campo Fragmentar
+  + 40x Flor Cadavérica Dimensional
+
+* Martillo de Furia Rompesuelos [Prob: 50%]
+  + 1x Equipo: Vibración del Apocalipsis
+  + 1x Espacio Separar
+  + 44x Gema Ígnea Impura
+
+* Marca de Estallido de Ley Secreta [Prob: 50%]
+  + 1x Equipo: Fusil Temible
+  + 1x Magia: Ondulación
+  + 44x Huesos Negros de Bestia Divina
+
+* Muro Leonino del Dios de la Guerra [Prob: 50%]
+  + 1x Terraplén Gloria del Rey
+  + 1x Avalancha: Defensa
+  + 44x Gema Ígnea Impura
+
+* Martillo de Guerra de Baño de Sangre Triunfante [Prob: 50%]
+  + 1x Martillo de Guerra Castigo Prohibido
+  + 1x Masticahuesos
+  + 40x Compuesto de Microcristales
+
+* Martillo de Juicio Bendito [Prob: 50%]
+  + 1x Martillo de Guerra Frontera Feroz
+  + 1x Aplasta Colinas
+  + 44x Piña Darr
+
+* Mirada Aterradora Abismal [Prob: 50%]
+  + 1x Sombra del Horror Rojo
+  + 1x Rayo Perforador de Cielos
+  + 44x Piña Darr
+
+* Manantial Eterno de la Doncella Divina [Prob: 50%]
+  + 1x Báculo del Alma Ardiente
+  + 1x Báculo Maldice Almas
+  + 44x Piña Darr
+
+* Mantra Arcano [Prob: 40%]
+  + 1x Collar Unicornio Sprite
+  + 1x Narciso de Jade
+  + 14x Alma Celeste del Otro Mundo
+
+* Mazo Demoledor Sprite [Prob: 40%]
+  + 120x Cristal Fantasmal
+  + 180x Raíces Fantasmales Arácnidas
+  + 10x Hueso de Pescado Pesadilla
+
+* Maza de Ogro [Prob: 40%]
+  + 1x Púa Crucificante Sprite
+  + 1x Piedra Volcánica Antigua
+  + 14x Alma de Tierra del Otro Mundo
+
+* Maza Quebrantahuesos [Prob: 40%]
+  + 1x Mazo Demoledor Sprite
+  + 1x Ojo de Dragón Azul
+  + 14x Alma Celeste del Otro Mundo
+
+* Masticahuesos [Prob: 55%]
+  + 1x Maza de Ogro
+  + 1x Emblema de Ukrin Mutante
+  + 35x Jade de Energía de Safael
+
+* Mazo de Acero Sprite [Prob: 40%]
+  + 130x Mineral de Lágrimas Soñadas
+  + 190x Hierba Helada
+  + 12x Aguijón de Abeja Colorida
+
+* Maza Quebrantalobos [Prob: 40%]
+  + 1x Palillo de Sprite
+  + 1x Cristal Gélido
+  + 17x Alma de Tierra del Otro Mundo
+
+* Maza León de Dos Cabezas [Prob: 40%]
+  + 1x Mazo de Acero Sprite
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma Celeste del Otro Mundo
+
+* Martillo de Guerra Castigo Prohibido [Prob: 40%]
+  + 1x Masticahuesos
+  + 1x Maza de Ogro
+  + 40x Gema de Cristal Fundido
+
+* Martillo de Guerra Frontera Feroz [Prob: 40%]
+  + 1x Aplasta Colinas
+  + 1x Maza Quebrantahuesos
+  + 44x Narciso de Jade Rojo
+
+* Maza Mirada del León Imperial [Prob: 40%]
+  + 1x Venganza del León Negro
+  + 1x Maza León de Dos Cabezas
+  + 44x Algas Marea Ilusoria
+
+* Maza Pesada del Artesano Cruel [Prob: 40%]
+  + 35x Mineral de Bronce
+  + 15x Rama Seca
+
+* Maza Pesada del Artesano Cruel de Sprites [Prob: 40%]
+  + 1x Maza Pesada del Artesano Cruel
+  + 30x Mineral de Bronce
+  + 3x Piedra Lunar
+
+* Maza Bestialidad [Prob: 40%]
+  + 31x Mineral Férreo
+  + 25x Rama Barba Férrea
+
+* Maza Bestialidad de Sprites [Prob: 40%]
+  + 1x Maza Bestialidad
+  + 24x Rama Barba Férrea
+  + 4x Raíces Luz de Luna
+
+* Mandíbula de Tiburón Férreo [Prob: 40%]
+  + 1x Hacha de Batalla del Orco de Sprites
+  + 1x Esencia Misteriosa
+  + 4x Gema Centelleante
+
+* Maldición Abrasadora [Prob: 40%]
+  + 1x Hacha Fiera de la Codicia de Sprites
+  + 4x Cristal Mágico
+  + 8x Saco Llamas del Monstruo
+
+* Martillo de Demonios Abrasador [Prob: 40%]
+  + 1x Gran Cuchilla Ígnea de Sprites
+  + 4x Cristal Mágico
+  + 8x Membrana Ala Dragoncito
+
+* Mano del Atrapasueños [Prob: 40%]
+  + 1x Hacha Fantasía de Sprites
+  + 5x Nuez Mágica
+  + 8x Fósil Cristal Bestia Helada
+
+* Milagros Antinaturales [Prob: 40%]
+  + 1x Hacha Pesada Promesa de Sprites
+  + 5x Corindón Escarlata
+  + 8x Ojo de Piegrande
+
+* Mandoble Salvaje de Sprites [Prob: 40%]
+  + 150x Gema Aurora
+  + 60x Antigua Corteza Gigante
+  + 4x Esqueleto Pez de Otro Mundo
+
+* Maza Mágica Conjuro de Sprites [Prob: 40%]
+  + 80x Gema Extraña
+  + 100x Corteza Dorada
+  + 6x Piedra del Alma
+
+* Maza de la Sabiduría de Mosunk [Prob: 40%]
+  + 1x Maza Mágica Conjuro de Sprites
+  + 1x Lagrima de Sangre
+  + 9x Poder de la Tierra Profunda
+
+* Mano Mezquina [Prob: 55%]
+  + 1x Roedor de Oleada Demoníaca
+  + 1x Emblema de Mogma Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Metralleta Cegadora de Sprites [Prob: 40%]
+  + 150x Mineral de Lágrimas Soñadas
+  + 120x Hierba Helada
+  + 12x Cristal Arena Helada
+
+* Maza Pesada de Cristal de Sprites [Prob: 40%]
+  + 130x Mineral de Lágrimas Soñadas
+  + 150x Hierba Helada
+  + 12x Aguijón de Abeja Colorida
+
+* Marea Furiosa de los Difuntos [Prob: 40%]
+  + 1x Artillería Marea de Sprites
+  + 1x Ojo de Dragón Azul
+  + 14x Alma de Tierra del Otro Mundo
+
+* Marca de Garra de Monstruo - Extinción [Prob: 40%]
+  + 1x Katana Divina Estrella de Sprite
+  + 1x Lagrima de Sangre
+  + 9x Poder de la Tierra Profunda
+
+* Megatrón - Hegemonía [Prob: 40%]
+  + 1x Llave de Tiranosaurio
+  + 1x Llave del Rey Dragón
+  + 44x Cristal Alma Bestial
+
+* Marea - Vasto Océano [Prob: 40%]
+  + 1x Llave de Rencor
+  + 1x Llave de Marea de la Muerte
+  + 44x Gema de Cristal Fundido
+
+* Nebulosa Encendida [Prob: 40%]
+  + 1x Espada Grabada Relieve
+  + 1x Esencia Ensueño
+  + 2x Espíritu Tierra de Safael
+
+* Noble Celeste [Prob: 40%]
+  + 1x ArcoLargo de Guerra de Sprite
+  + 2x Cristal Espiritual
+  + 2x Cáscara Fruta Mithril
+
+* Nobleza Divina [Prob: 40%]
+  + 1x Rifle Clásico de Sprite
+  + 1x Esencia Ensueño
+  + 8x Piedra Preciosa Luz Bailarina
+
+* Nuevo Capítulo de Rapsodia [Prob: 40%]
+  + 1x Epílogo de la Oscuridad sin Fin
+  + 1x Prólogo de la Sombra Estéril
+  + 44x Esmeralda Sombra Feroz
+
+* Nubes Rosadas del Anochecer [Prob: 40%]
+  + 1x Cuchilla Crudeza Total de Sprites
+  + 2x Cristal Espiritual
+  + 2x Cáscara Fruta Mithril
+
+* Ojo del Rey Pirata [Prob: 40%]
+  + 1x Rifle Clásico de Sprite
+  + 4x Cristal Mágico
+  + 8x Cristal Viviente
+
+* Ojo Prohibido [Prob: 40%]
+  + 1x Libro Brujería de Sprite
+  + 1x Esencia Ensueño
+  + 4x Grama Lengua de Dragón
+
+* Origen-Hacha Antigua [Prob: 40%]
+  + 1x Hacha Sigilosa Sacra de Sprite
+  + 4x Cristal Mágico
+  + 8x Raíz Ginseng Inmortal
+
+* Ojo de Iluminación [Prob: 40%]
+  + 1x Báculo Ala de Culebra de Sprite
+  + 5x Ojo de Piegrande
+  + 8x Fósil Cristal Bestia Helada
+
+* Ojos de Tiamat [Prob: 40%]
+  + 1x Piedra Energía Cristalina de Sprite
+  + 2x Cristal de Sueño
+  + 6x Diente de Bestia Helada
+
+* Ojo Anulador del Cielo [Prob: 65%]
+  + 1x Báculo Ojo Maligno
+  + 1x Emblema Ohmudo Mutante
+  + 7x Núcleo Mutante
+
+* Ojo de la Verdad [Prob: 55%]
+  + 1x Ojo de Iluminación
+  + 1x Emblema Basse Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Ojo Vidrioso de Dragón [Prob: 55%]
+  + 1x Ojos de Tiamat
+  + 1x Emblema Shiva Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Ojo Espiritual del Centro de Fuego [Prob: 55%]
+  + 1x Tenazas Brillantes
+  + 1x Emblema de Molilada Mutante
+  + 35x Núcleo Rey Demonio Mutante
+
+* Otromundo - Adelanto [Prob: 55%]
+  + 1x Dimensión - Halo de Trascendencia
+  + 1x Emblema Mutante Gueus
+  + 35x Perla de Luz de Safael
+
+* Oda de Lugares Extraños [Prob: 40%]
+  + 2x Cristal de Vida
+  + 210x Raíz de Árbol Antigua
+  + 5x Hielo Amatista
+
+* Oración Sagrada [Prob: 40%]
+  + 1x Estatua Enjoyada Sprite
+  + 1x Ojo de Dragón Azul
+  + 14x Alma de Tierra del Otro Mundo
+
+* Oyente del Susurro del Viento [Prob: 55%]
+  + 1x Daga de Guerra del Espectador
+  + 1x Emblema de Falconio Mutado
+  + 35x Semilla de Luz de Safael
+
+* Oráculo Salvador Definitivo [Prob: 40%]
+  + 1x Divulgador de la Voz de Dios
+  + 1x Filo Pesado del Guardián
+  + 44x Médula de Bestia Antigua
+
+* Océano de Nubes Desbocadas [Prob: 40%]
+  + 1x Rencor de los Ahogados
+  + 1x Marea Furiosa de los Difuntos
+  + 44x Gema de Cristal Fundido
+
+* PerseguidorPesado [Prob: 40%]
+  + 1x Martillo Cuernudo de Sprite
+  + 2x Cristal Espiritual
+  + 4x Cuerno de Bestia
+
+* Proyectil Simple [Prob: 40%]
+  + 5x Mineral de Bronce
+
+* Proyectil de Metal [Prob: 40%]
+  + 10x Mineral de Bronce
+
+* Pistola del Cazador [Prob: 40%]
+  + 40x Mineral Férreo
+  + 30x Rama Barba Férrea
+
+* Pistola del Cazador de Sprite [Prob: 40%]
+  + 1x Pistola del Cazador
+  + 30x Mineral Férreo
+  + 4x Cuarzo Psíquico
+
+* Pistola Dragón Lanza-Llamas [Prob: 40%]
+  + 1x Pistola del Cazador de Sprite
+  + 1x Esencia Misteriosa
+  + 4x Musgo Marchito de Hueso
+
+* Pistola Pulso [Prob: 40%]
+  + 70x Mineral Acero de Aleación
+  + 50x Rama Hoja de Plata
+
+* Pistola Pulso de Sprite [Prob: 40%]
+  + 1x Pistola Pulso
+  + 2x Coral Verde de Humedal
+  + 2x Gema Prismática
+
+* Pistola Dragón Furioso [Prob: 40%]
+  + 1x Especial del Domingo de Sprite
+  + 5x Cristal Radiante
+  + 8x Carapacho Tortuga
+
+* Pistola de Bahado [Prob: 40%]
+  + 1x Especial del Domingo de Sprite
+  + 6x Corazón Tierra de Safael
+  + 1x Cráneo de Bestia Sacra
+
+* Puerta Dimensión [Prob: 40%]
+  + 1x Varita Onda de Sprite
+  + 4x Cristal Mágico
+  + 8x Hongo Transformador Azul
+
+* Pizarra de Karma [Prob: 40%]
+  + 1x Esencia Ensueño
+  + 115x Mineral de Medianoche
+
+* Pizarra de Karma de Sprite [Prob: 40%]
+  + 1x Pizarra de Karma
+  + 1x Cristal Radiante
+  + 3x Cristal Viviente
+
+* Pizarra Camino al Cielo [Prob: 40%]
+  + 1x Cristal Radiante
+  + 135x Mineral de Platino
+
+* Pizarra Camino al Cielo de Sprite [Prob: 40%]
+  + 1x Pizarra Camino al Cielo
+  + 1x Esencia Profunda
+  + 3x Carapacho Tortuga
+
+* Piedra Energía Cristalina de Sprite [Prob: 40%]
+  + 2x Cristal Radiante
+  + 150x Rama Cristalizada
+  + 3x Ojo de Piegrande
+
+* Pistola Héroe de Bahado [Prob: 60%]
+  + 1x Pistola de Bahado
+  + 1x Emblema Jenome Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Pistola Explosiva de Sprite [Prob: 40%]
+  + 120x Gema Aurora
+  + 60x Antigua Corteza Gigante
+  + 3x Esqueleto Pez de Otro Mundo
+
+* Prólogo de la Sombra Estéril [Prob: 40%]
+  + 1x Pistola Explosiva de Sprite
+  + 2x Esencia de Poder Mágico
+  + 8x Barrera de Piedra
+
+* Pluma de Cobertura del Fénix [Prob: 40%]
+  + 1x Escudo Defensor Pesado de Sprite
+  + 4x Alma Celeste de Safael
+  + 8x Vena Cristalizada de Hielo
+
+* Pistola Diablo Volador de Bahado [Prob: 40%]
+  + 1x Cañón Fuego Intenso de Sprite
+  + 6x Cristal de Dimensión Aliento Puro
+  + 2x Pétalos Flor Cristal de Hielo
+
+* Perdición, El Defensor Ala Fría [Prob: 40%]
+  + 1x Escudo Defensor del Sprite
+  + 1x Cristal Radiante
+  + 6x Alma Celeste de Safael
+
+* Pistola de Corazón Sprite [Prob: 40%]
+  + 90x Gema Extraña
+  + 120x Corteza Dorada
+  + 5x Diente del Conejo de Una Oreja
+
+* Prueba de Luz del rey [Prob: 40%]
+  + 2x Cristal de Vida
+  + 180x Gema Extraña
+  + 4x Hierba de Agua Purificante
+
+* Poder de Sol Imperial [Prob: 55%]
+  + 1x Espíritu del Rey Asesino
+  + 1x Emblema de Mogma Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Piedra Runa de Frenético Espeluznante [Prob: 40%]
+  + 2x Cristal de Vida
+  + 210x Gema Brillante
+  + 5x Vid Tóxico
+
+* Piedra Sacra Explosiva [Prob: 40%]
+  + 1x Piedra Runa de Frenético Espeluznante
+  + 1x Beso de Opio Amapola
+  + 12x Poder del Cielo Profundo
+
+* Pluma de Fénix Inmortal [Prob: 40%]
+  + 1x Tomo Prohibido - Recuerdos Sellados
+  + 1x Libro Prohibido de Historia Tenebrosa
+  + 44x Colmillo de Bestia Estelar
+
+* Poderoso Arco Doble [Prob: 40%]
+  + 1x Dios de Fénix Sanguinario
+  + 1x Destructor Urvogel
+  + 44x Alga Parásita
+
+* Páginas del Diario de Titán [Prob: 40%]
+  + 1x Libro Prohibido del Sacerdote
+  + 1x Libro Prohibido Bosque Azul del Sacerdote
+  + 44x Ámbar Alternativo
+
+* Piedra Inscripción de Estigma [Prob: 40%]
+  + 1x Grillete Espiritual del Ilusionista
+  + 1x Hechizo del Caminante Celeste
+  + 44x Alga Parásita
+
+* Poder del Rey León [Prob: 40%]
+  + 1x Zodiaco: Disipar
+  + 1x Hacha Plateada - Seis Alas
+  + 44x Nido de Flores de Imo
+
+* Pica Tenaz Sprite [Prob: 40%]
+  + 110x Raíces Fantasmales Arácnidas
+  + 120x Cristal Fantasmal
+  + 9x Corazón de Muñeca
+
+* Pica Cocodrilo Sprite [Prob: 40%]
+  + 115x Hierba Helada
+  + 125x Mineral de Lágrimas Soñadas
+  + 11x Colmillos de Jabalí Mágico
+
+* Purificador Infernal [Prob: 55%]
+  + 1x Mantra Arcano
+  + 1x Emblema de Estruendo Flamígero Mutado
+  + 35x Jade de Energía de Safael
+
+* Pezuñas de Capricornio [Prob: 40%]
+  + 1x Amuleto Nocturno Sprite
+  + 1x Cristal Gélido
+  + 17x Alma de Tierra del Otro Mundo
+
+* Pezuñas de Capricornio [Prob: 55%]
+  + 1x Pezuñas de Capricornio
+  + 1x Emblema de Justicia
+  + 35x Alma de Honor de Safael
+
+* Púa Crucificante Sprite [Prob: 40%]
+  + 110x Cristal Fantasmal
+  + 110x Raíces Fantasmales Arácnidas
+  + 10x Gema Sombralunar
+
+* Palillo de Sprite [Prob: 40%]
+  + 125x Mineral de Lágrimas Soñadas
+  + 125x Hierba Helada
+  + 12x Cristal Arena Helada
+
+* Primeros Huevos de Ave del Páramo [Prob: 80%]
+  + 1x Máquina de Emparejamiento de Aves del Páramo
+  + 1x Ave del Páramo Adulta (M)
+  + 1x Ave del Páramo Adulta (F)
+
+* Primeros Huevos de Ave Rocosa [Prob: 80%]
+  + 1x Máquina de Emparejamiento de Aves Rocosas
+  + 1x Ave Rocosa Adulta (M)
+  + 1x Ave Rocosa Adulta (F) 
+
+* Pata de Cabra Infame [Prob: 40%]
+  + 1x Pezuñas de Capricornio
+  + 1x Pezuñas de Capricornio
+  + 44x Colmillo de Murciélago Amatista
+
+* Punzón de Hierro [Prob: 40%]
+  + 10x Mineral de Bronce
+  + 10x Rama Seca
+
+* Punzón de Hierro de Sprites [Prob: 40%]
+  + 1x Punzón de Hierro
+  + 4x Rama Seca
+  + 3x Fósil Raíz Árbol
+
+* Polímeros Dimensionales de Energía [Prob: 70%]
+  + 1x Espada Dimensional de la Destrucción
+  + 1x Emblema Jenome Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Prueba del Arquitecto del Mundo [Prob: 55%]
+  + 1x Milagros Antinaturales
+  + 1x Emblema Basse Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Pico Desgarrador de Búho Tiránico  [Prob: 40%]
+  + 1x Garras Afiladas de Búho Tiránico
+  + 1x Garras Afiladas de Búho Brutal
+  + 40x Cristal Alma Bestial
+
+* Pátina de Recuerdos de Mosunk [Prob: 55%]
+  + 1x Maza de la Sabiduría de Mosunk
+  + 1x Emblema de Walgo Mutado
+  + 35x Jade de Luz de Safael
+
+* Polvo de Odio [Prob: 40%]
+  + 1x Cuchilla Afilada Nebulosa de Sprites
+  + 1x Ojo de Dragón Azul
+  + 14x Alma Celeste del Otro Mundo
+
+* Proyectil Rapidez Total [Prob: 40%]
+  + 10x Mineral Férreo
+
+* Proyectiles Enloquecidos [Prob: 40%]
+  + 10x Mineral Acero de Aleación
+
+* Proyectiles Equilibrados [Prob: 40%]
+  + 10x Mineral de Medianoche
+
+* Pistola Fuego y Cenizas [Prob: 40%]
+  + 1x Artillería Pesada Purificadora de Sprites
+  + 4x Cristal Mágico
+  + 8x Cristal Viviente
+
+* Pánico Mortal [Prob: 60%]
+  + 1x Aparición Exterminadora
+  + 1x Emblema Jenome Mutante
+  + 15x Núcleo Maligno Mutante
+
+* Proyectil Sónico [Prob: 40%]
+  + 20x Mineral Cristal Ilusorio
+
+* Palabras de Tejedores de Sueños [Prob: 55%]
+  + 1x Buscadores de Dulces Sueños
+  + 1x Emblema Draze Mutante
+  + 22x Piedra Luz de Safael
+
+* Proyectil Ráfaga Explosiva [Prob: 40%]
+  + 20x Gema Aurora
+
+* Pico del Grifo Gigantesco [Prob: 40%]
+  + 1x Cañón Pesado Gárgola de Sprites
+  + 4x Alma Terrestre de Safael
+  + 8x Vainilla Aurora
+
+* Proyectil Alma Fracturada [Prob: 40%]
+  + 20x Gema Extraña
+
+* Proyectiles Mente Clara [Prob: 40%]
+  + 20x Cristal Fantasmal
+
+* Proyectil de Estrellas [Prob: 40%]
+  + 22x Mineral de Lágrimas Soñadas
+
+* Pena Solitaria - Llanto Fantasmal [Prob: 40%]
+  + 1x Llave de Roedor de Fuerza de Voluntad
+  + 1x Llave Perezosa
+  + 44x Piedra Magnética Fantasma Flotante
+
+* Quemazón del Reino del Norte [Prob: 55%]
+  + 1x Rifle Ftirador-Sión del Norte
+  + 1x Emblema de Baha Mutante
+  + 35x Piedra Luz de Safael
+
+* Quemador: Extinguir [Prob: 55%]
+  + 1x Señor Mecano - Súper Corte de Acero
+  + 1x Emblema de Dídelo Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Rosa Sangrienta [Prob: 40%]
+  + 1x Daga Destrucción de Sprite
+  + 3x Cristal Mágico
+  + 6x Astas de Cristal
+
+* Relámpago Dorado [Prob: 40%]
+  + 1x Espada Caudillo de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Cielo de Safael
+
+* Rey del Campo de Batalla [Prob: 40%]
+  + 1x Hacha Gladiador de Sprite
+  + 3x Cristal Mágico
+  + 6x Astas de Cristal
+
+* Resurrección Fénix [Prob: 40%]
+  + 1x Hacha Cola Bestia de Sprite
+  + 3x Cristal Mágico
+  + 6x Escama Lagartija Gigante
+
+* Rueda Engranaje Gigante [Prob: 40%]
+  + 1x Martillo Eco de Sprite
+  + 1x Esencia Misteriosa
+  + 4x Gema Centelleante
+
+* Rugido de Tierra [Prob: 40%]
+  + 1x Martillo de Coronación de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Cielo de Safael
+
+* Reliquia del Ángel [Prob: 40%]
+  + 1x Martillo del Sello de Sprite
+  + 4x Cristal Mágico
+  + 8x Cristal Viviente
+
+* Rifle [Prob: 40%]
+  + 15x Mineral de Bronce
+  + 10x Rama Seca
+
+* Rifle de Sprite [Prob: 40%]
+  + 1x Rifle
+  + 5x Mineral de Bronce
+  + 3x Piedra Preciosa sin Tallar
+
+* Rifle de Largo Alcance [Prob: 40%]
+  + 30x Mineral de Bronce
+  + 20x Rama Seca
+
+* Rifle de Largo Alcance de Sprite [Prob: 40%]
+  + 1x Rifle de Largo Alcance
+  + 30x Mineral de Bronce
+  + 3x Piedra Lunar
+
+* Rifle Clásico [Prob: 40%]
+  + 80x Mineral de Medianoche
+  + 60x Rama Ámbar
+
+* Rifle Clásico de Sprite [Prob: 40%]
+  + 1x Rifle Clásico
+  + 1x Piedra Cubierta de Líquenes
+  + 3x Cristal Sangriento
+
+* Raíz de Oscuridad [Prob: 40%]
+  + 1x Báculo de Práctica de Sprite
+  + 1x Esencia Misteriosa
+  + 2x Cáscara Fruta Mithril
+
+* Rostro de Muerte [Prob: 40%]
+  + 1x Báculo Férreo del Exorcista de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Tierra de Safael
+
+* Rostro Dios de Guerra [Prob: 40%]
+  + 1x Escudo Férreo de Sprite
+  + 2x Cristal Espiritual
+  + 4x Huesos Rey de Bestias
+
+* Raum Indestructible [Prob: 40%]
+  + 1x Hacha Caza-Fantasmas de Sprite
+  + 5x Corindón Escarlata
+  + 8x Pétalos Flor Cristal de Hielo
+
+* Relámpago Supremo [Prob: 65%]
+  + 1x Relámpago Dorado
+  + 1x Emblema Rubis Mutante
+  + 7x Polvo Luz de Safael
+
+* Raum Infinito [Prob: 55%]
+  + 1x Raum Indestructible
+  + 1x Emblema Basse Mutante
+  + 22x Núcleo Rey Demonio Mutante
+
+* Rifle Ftirador-Sión del Norte [Prob: 40%]
+  + 1x Cañón Fuego Intenso de Sprite
+  + 2x Alma Terrestre de Safael
+  + 8x Pétalos Flor Cristal de Hielo
+
+* Runa Sacra del Rey [Prob: 40%]
+  + 1x Biblia Sagrada de la Salvación de Dios
+  + 1x Cristal de Entendimiento
+  + 6x Viñas Copo de Nieve
+
+* Rugido Desgarrador de Odio [Prob: 55%]
+  + 1x Desgarre Rugido Sangriento
+  + 1x Emblema de Priesley Mutante
+  + 35x Perla de Luz de Safael
+
+* Runa Bendita del Dios-Rey [Prob: 55%]
+  + 1x Runa Sacra del Rey
+  + 1x Emblema de Priesley Mutante
+  + 35x Núcleo Transformado de Maldad
+
+* Relámpago de Aviso - Explosión [Prob: 40%]
+  + 1x Martillo Castigador de Sprite
+  + 1x Cristal Radiante
+  + 6x Alma Celeste de Safael
+
+* Relámpago del Profeta - Iniciativa [Prob: 55%]
+  + 1x Relámpago de Aviso - Explosión
+  + 1x Emblema Mutante Kushan
+  + 35x Núcleo Transformado de Maldad
+
+* Roca Infernal de Dragonbane [Prob: 55%]
+  + 1x Lava Espada del Dragón
+  + 1x Emblema de Walgo Mutado
+  + 35x Jade de Luz de Safael
+
+* Relámpago Canal [Prob: 55%]
+  + 1x Ala Sacra - Perforadora
+  + 1x Emblema de Roshiel Mutado
+  + 35x Semilla de Luz de Safael
+
+* Radiación: Guía [Prob: 55%]
+  + 1x Fantasía - Destructor
+  + 1x Emblema de Magnita Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Runa Aislar [Prob: 55%]
+  + 1x Piedra Sacra Explosiva
+  + 1x Emblema de Falconio Mutado
+  + 35x Semilla de Luz de Safael
+
+* Reina Sanguinaria de las Sombras [Prob: 40%]
+  + 1x Beso Mortal de la Reina Sanguinaria
+  + 1x Corona Mortal de la Reina Sanguinaria
+  + 40x Huesos de Demonio Sombrío
+
+* Reliquia Mortal del Rey Divino [Prob: 40%]
+  + 1x Runa Bendita del Dios-Rey
+  + 1x Runa Sacra del Rey
+  + 44x Raíz de Flor Demoníaca Sanguinaria
+
+* Reverberación Estática [Prob: 40%]
+  + 1x Tirano Absoluto - Señor del Hielo
+  + 1x Atado en Hielo, El Tirano Invencible
+  + 40x Cristal Alma Bestial
+
+* Rey Corazón de León [Prob: 40%]
+  + 1x Alma: Corte
+  + 1x Divine Blade - Ala Dorada
+  + 40x Electrodo Líquido
+
+* Rugido del Rey León [Prob: 40%]
+  + 1x Relámpago Canal
+  + 1x Ala Sacra - Perforadora
+  + 44x Nido de Flores de Imo
+
+* Reposo Ceniciento [Prob: 50%]
+  + 1x Cielo Orgulloso - Enemigo a las Puertas
+  + 1x Llave de Tiranía
+  + 44x Gema Ígnea Impura
+
+* Relámpago Láser Turquesa [Prob: 50%]
+  + 1x Susurros Premonitorios de Sprite
+  + 1x Oyente del Susurro del Viento
+  + 40x Gema Ígnea Impura
+
+* Ráfaga Espiritual Apocalíptica [Prob: 50%]
+  + 1x Árbol de la Vida Luz de Estrella
+  + 1x Arcoíris Saltar
+  + 44x Flor Cadavérica Dimensional
+
+* Regreso del Juramento Honorable [Prob: 50%]
+  + 1x Espada del Juicio Final
+  + 1x Vengador Divino
+  + 40x Compuesto de Microcristales
+
+* Rugido Leonino de Maestro Bestia [Prob: 50%]
+  + 1x Espada Dragón Tectónico
+  + 1x Devorador de Almas
+  + 44x Piña Darr
+
+* Rayo Perforador de Cielos [Prob: 55%]
+  + 1x Arco Hada Etérea
+  + 1x Emblema de Ukrin Mutante
+  + 35x Jade de Energía de Safael
+
+* Rugido de León [Prob: 55%]
+  + 1x Cañón Puerta Este
+  + 1x Emblema de Tespin Mutante
+  + 35x Núcleo Ardiente Mutado
+
+* Ruptura Perpetua [Prob: 55%]
+  + 1x Báculo Sepulcral
+  + 1x Emblema de Tespin Mutante
+  + 35x Núcleo Ardiente Mutado
+
+* Raíz de Purificación Espectral [Prob: 40%]
+  + 1x Códice Radiante Sprite
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma de Tierra del Otro Mundo
+
+* Ramita Sagrada Corazón Puro [Prob: 40%]
+  + 1x Brote del Árbol de la Vida
+  + 1x Raíz de Purificación Espectral
+  + 44x Algas Marea Ilusoria
+
+* Rosa Espinosa [Prob: 40%]
+  + 1x Hacha Fiera de la Codicia de Sprites
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Revelación de la Maldición Abrasadora [Prob: 40%]
+  + 1x Gran Cuchilla Ígnea de Sprites
+  + 4x Cristal Mágico
+  + 5x Cristal Dimensión Aliento de Rejuvenecimiento
+
+* Roedor de Oleada Demoníaca [Prob: 40%]
+  + 1x Hoja Maldita de Sprites
+  + 1x Cuerno de Unicornio
+  + 9x Poder del Cielo Profundo
+
+* Réquiem de Demonio Sombrío [Prob: 55%]
+  + 1x Diablo de los Cielos
+  + 1x Emblema de Priesley Mutante
+  + 35x Perla de Luz de Safael
+
+* Rezos Susurrados de Ginny [Prob: 55%]
+  + 1x Artillería Milagrosa de Ginny
+  + 1x Emblema de Mogma Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Rencor de los Ahogados [Prob: 55%]
+  + 1x Marea Furiosa de los Difuntos
+  + 1x Emblema de Tespin Mutante
+  + 35x Núcleo Ardiente Mutado
+
+* Rugidos del Lobo de la Aurora [Prob: 40%]
+  + 1x Artillería Pesada Relámpago de Sprites
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma de Tierra del Otro Mundo
+
+* Rugidos del Tigre del Trueno Sombrío [Prob: 55%]
+  + 1x Rugidos del Lobo de la Aurora
+  + 1x Emblema de Honor
+  + 35x Alma de Honor de Safael
+
+* Serpiente Negra [Prob: 40%]
+  + 1x Arco del Cazador de Sprite
+  + 2x Cristal Espiritual
+  + 4x Musgo Marchito de Hueso
+
+* Serpiente Páramo [Prob: 40%]
+  + 1x Báculo Férreo del Exorcista de Sprite
+  + 4x Cristal Mágico
+  + 8x Membrana Ala Dragoncito
+
+* Señor de Crueldad [Prob: 40%]
+  + 1x Escudo Unicornio de Sprite
+  + 1x Esencia Ensueño
+  + 8x Piedra Preciosa Luz Bailarina
+
+* Sello Guardián de la Orden [Prob: 40%]
+  + 1x Insignia Celeste de Sprite
+  + 1x Cristal Radiante
+  + 6x Piedra Preciosa Luz Bailarina
+
+* Santuario de Luz [Prob: 40%]
+  + 1x Pizarra Camino al Cielo de Sprite
+  + 2x Cristal de Sueño
+  + 6x Fruta de Perla
+
+* Sello de Lealtad de Sprite [Prob: 40%]
+  + 2x Cristal Radiante
+  + 150x Mineral Cristal Ilusorio
+  + 3x Corindón Escarlata
+
+* Sello de Luz Defensor [Prob: 40%]
+  + 1x Sello de Lealtad de Sprite
+  + 2x Cristal de Sueño
+  + 6x Fósil Cristal Bestia Helada
+
+* Señor de la Crueldad [Prob: 65%]
+  + 1x Señor de Crueldad
+  + 1x Emblema Antoraya Mutante
+  + 7x Polvo Luz de Safael
+
+* Sello Orden del Santuario [Prob: 65%]
+  + 1x Sello Guardián de la Orden
+  + 1x Emblema Ohmudo Mutante
+  + 7x Polvo Luz de Safael
+
+* Sello de Reencarnación No Recordada [Prob: 65%]
+  + 1x Emblema Reencarnación
+  + 1x Emblema Rubis Mutante
+  + 7x Núcleo Mutante
+
+* Singularidad Soberana [Prob: 65%]
+  + 1x Fuerza Distorsionada
+  + 1x Emblema Krudit Mutante
+  + 7x Núcleo Mutante
+
+* Serafín Dorado - Aceleración [Prob: 55%]
+  + 1x Flash, Las Alas de Oro
+  + 1x Emblema Mutante Reina Escorpión Azul
+  + 35x Núcleo Transformado de Maldad
+
+* Sello del Barón Buster [Prob: 55%]
+  + 1x Huella Explosiva de Guerreros
+  + 1x Emblema Coraza Fénix Mutada
+  + 35x Perla de Luz de Safael
+
+* Súper Alados Ojos Malvados [Prob: 40%]
+  + 1x Bastón de Rueda Sprite
+  + 1x Cuerno de Unicornio
+  + 9x Poder del Cielo Profundo
+
+* Sonido de la Muerte [Prob: 55%]
+  + 1x Destrucción Emblema de la Bestia
+  + 1x Emblema de Mogma Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Señor Mecano - Súper Corte de Acero [Prob: 40%]
+  + 1x Espada Herética de Sprite
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Sanción Absoluta - Atena [Prob: 40%]
+  + 1x Escudo Plateado de Sprite
+  + 1x Sangre de Fénix
+  + 12x Poder del Cielo Profundo
+
+* Sangre: Pulso [Prob: 55%]
+  + 1x Veneno Martirizante - Condenación
+  + 1x Emblema de Roshiel Mutado
+  + 35x Semilla de Luz de Safael
+
+* Señor del Eco Divino del Mar del Norte [Prob: 40%]
+  + 1x Colmillo de Luz del Rey del Ártico
+  + 1x Mazo Simbólico del Rey del Ártico
+  + 40x Hierba Eco de Fantasía
+
+* Señor de la Espada Llameante [Prob: 40%]
+  + 1x Cuchilla Noche Eterna de Hegemon
+  + 1x Espada de Supremacía, Rey de las Tinieblas
+  + 44x Huesos de Demonio Sombrío
+
+* Susurro Azul del Rey del Inframundo [Prob: 40%]
+  + 1x Rugido Desgarrador de Odio
+  + 1x Desgarre Rugido Sangriento
+  + 40x Piel de Lagarto Sanguinario
+
+* Sonido de Muerte [Prob: 40%]
+  + 1x Sonido de la Muerte
+  + 1x Destrucción Emblema de la Bestia
+  + 44x Ámbar Alternativo
+
+* Señor de las Estaciones [Prob: 55%]
+  + 1x Hacha de la Desolación
+  + 1x Emblema de Estruendo Flamígero Mutado
+  + 35x Jade de Energía de Safael
+
+* Sobreviviente a la Furia de Montaña [Prob: 55%]
+  + 1x Escudo Torre Kodiak
+  + 1x Emblema de la Luz
+  + 35x Alma de Honor de Safael
+
+* Sombra del Horror Rojo [Prob: 40%]
+  + 1x Rayo Perforador de Cielos
+  + 1x Arco Hada Etérea
+  + 44x Narciso de Jade Rojo
+
+* Susurros del Maestro Transgresor [Prob: 40%]
+  + 1x Hoja de la Aparición de Sprites
+  + 3x Cristal Mágico
+  + 6x Astas de Cristal
+
+* Soledad de Medianoche [Prob: 40%]
+  + 1x Devorador de Ensueños
+  + 1x Desastre de Desilusión
+  + 44x Huesos de Demonio Sombrío
+
+* Señor de Fénix Ala de Fuego [Prob: 55%]
+  + 1x Alas Férreas del Pinzón Emplumado
+  + 1x Emblema Mutante Kushan
+  + 35x Núcleo Transformado de Maldad
+
+* Susurros Premonitorios de Sprite [Prob: 40%]
+  + 1x Oyente del Susurro del Viento
+  + 1x Daga de Guerra del Espectador
+  + 40x Electrodo Líquido
+
+* Sombra Lunar en la Noche [Prob: 40%]
+  + 1x Artillería Primitiva de Sprites
+  + 2x Cristal Espiritual
+  + 2x Ojo Felino
+
+* Serpiente de Fuego Histérica [Prob: 40%]
+  + 1x Artillería Pesada Purificadora de Sprites
+  + 1x Esencia Ensueño
+  + 8x Piedra Preciosa Luz Bailarina
+
+* Soldado Pionero Tirano [Prob: 55%]
+  + 1x Cañón Pesado Mágico de Bombardeo
+  + 1x Emblema de Magnita Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+
+* Sueño - Voz de Demonio Mágico [Prob: 40%]
+  + 1x Llave de Demonio Tenebroso
+  + 1x Llave del Vacío
+  + 44x Esmeralda Sombra Feroz
+
+* Sueño - Camino a la Salvación [Prob: 40%]
+  + 1x Llave Susurradora de Ginny
+  + 1x Llave Milagrosa de Ginny
+  + 44x Ámbar Alternativo
+
+* Tormenta Púrpura [Prob: 40%]
+  + 1x Hacha Larga Gladiador de Sprite
+  + 1x Esencia Misteriosa
+  + 2x Ojo Felino
+
+* Testamento Brujo Hechicero [Prob: 40%]
+  + 1x Báculo Enjoyado Arcano de Sprite
+  + 3x Cristal Mágico
+  + 6x Escama Lagartija Gigante
+
+* Tabla de Mandamientos [Prob: 40%]
+  + 1x Cristal Mágico
+  + 60x Mineral Acero de Aleación
+
+* Tabla Mandamientos de Sprite [Prob: 40%]
+  + 1x Tabla de Mandamientos
+  + 1x Esencia Ensueño
+  + 3x Escama Lagartija Gigante
+
+* Tigre Púrpura [Prob: 40%]
+  + 1x Hacha Tridente Acero de Sprite
+  + 2x Cristal Espiritual
+  + 4x Fósil Cascarón de Huevo
+
+* Tubo de Titán [Prob: 40%]
+  + 1x Martillo Esmeralda de Sprite
+  + 5x Restos Insecto Maligno
+  + 8x Corindón Escarlata
+
+* Tenazas Brillantes [Prob: 40%]
+  + 1x Báculo Ala de Culebra de Sprite
+  + 6x Jade Alma de Cristal
+  + 8x Plumón de Bestia Fantasma
+
+* Tomo de Comprensión Infinita [Prob: 40%]
+  + 1x Libro de Teología de Sprite
+  + 3x Alma Terrestre de Safael
+  + 6x Liquen Rayo Azul
+
+* Tirano Absoluto - Señor del Hielo [Prob: 55%]
+  + 1x Atado en Hielo, El Tirano Invencible
+  + 1x Emblema Mutante Gueus
+  + 35x Perla de Luz de Safael
+
+* Tomo Prohibido - Recuerdos Sellados [Prob: 55%]
+  + 1x Libro Prohibido de Historia Tenebrosa
+  + 1x Emblema Mutante Reina Escorpión Azul
+  + 35x Núcleo Transformado de Maldad
+
+* Tirador Divino Magnifico [Prob: 40%]
+  + 1x Pistola de Corazón Sprite
+  + 1x Cuerno de Unicornio
+  + 9x Poder del Cielo Profundo
+
+* Tomo Tetragrammaton [Prob: 40%]
+  + 2x Cristal de Vida
+  + 180x Gema Extraña
+  + 4x Diente del Conejo de Una Oreja
+
+* Tomo Sacro Incrustado con Joyas [Prob: 55%]
+  + 1x Libro Luminoso del Santo Ilusionista
+  + 1x Emblema de Vulcano Mutado
+  + 35x Núcleo Mutado de Espíritu Tenebroso
+
+* Tabla Sacra Dañada [Prob: 40%]
+  + 1x Libro de Sigilo Tradicional
+  + 1x Sangre de Fénix
+  + 12x Poder de la Tierra Profunda
+
+* Talismán Arcángel Decadente [Prob: 40%]
+  + 1x Quemazón del Reino del Norte
+  + 1x Rifle Ftirador-Sión del Norte
+  + 44x Piedra Magnética Fantasma Flotante
+
+* Tajo de Diamante [Prob: 40%]
+  + 1x Guardián de Diamante Brillante
+  + 1x Escudo Ojo de Gato
+  + 44x Ámbar Alternativo
+
+* Terraplén Gloria del Rey [Prob: 40%]
+  + 1x Avalancha: Defensa
+  + 1x Dominio Absoluto - Linne
+  + 44x Electrodo Líquido
+
+* Trabuco Salamandra [Prob: 40%]
+  + 1x Pica Cocodrilo Sprite
+  + 1x Pluma de Ave Dorada Gigante
+  + 17x Alma de Tierra del Otro Mundo
+
+* Técnica Consume Fuego [Prob: 40%]
+  + 1x Cráneo Caprino Sprite
+  + 1x Piedra Volcánica Antigua
+  + 14x Alma de Tierra del Otro Mundo
+
+* Tomo Prohibido [Prob: 55%]
+  + 1x Técnica Consume Fuego
+  + 1x Emblema de Ukrin Mutante
+  + 35x Jade de Energía de Safael
+
+* Tiranía del Duque de las Arenas [Prob: 40%]
+  + 1x Ira Amarilla
+  + 1x Polvo de Odio
+  + 44x Narciso de Jade Rojo
+
+* Teppo Sombrío [Prob: 40%]
+  + 90x Mineral de Platino
+  + 70x Rama Anciana
+  + 2x Cardos Luminosos
+
+* Teppo Sombrío de Sprites [Prob: 40%]
+  + 1x Teppo Sombrío
+  + 2x Hueso de Oro
+  + 2x Plata Blanca Mágica
+
+* Torpedo Ilimitado - Corte [Prob: 40%]
+  + 1x Katana Castigadora de Sprite
+  + 1x Diente de Leche del Sabueso Infernal
+  + 6x Alma Terrestre de Safael
+
+* Trueno del Profeta - Corte Rápido [Prob: 55%]
+  + 1x Torpedo Ilimitado - Corte
+  + 1x Emblema Mutante Gueus
+  + 35x Perla de Luz de Safael
+
+* Veredicto del Juez [Prob: 40%]
+  + 1x Martillo de Coronación de Sprite
+  + 3x Cristal Mágico
+  + 6x Oro Antiguo
+
+* Venganza del Jefe [Prob: 40%]
+  + 1x Mazo Mágico de Sprite
+  + 1x Esencia Ensueño
+  + 4x Sangre Tierra de Safael
+
+* Vara Olvido Eterno [Prob: 40%]
+  + 1x Báculo Luminoso Nocturno de Sprite
+  + 3x Cristal Mágico
+  + 6x Pétalo Cien Capas
+
+* Viento Negro [Prob: 40%]
+  + 1x Báculo Luminoso Nocturno de Sprite
+  + 1x Esencia Ensueño
+  + 2x Espíritu Tierra de Safael
+
+* Varita Onda [Prob: 40%]
+  + 70x Mineral de Medianoche
+  + 70x Rama Ámbar
+
+* Varita Onda de Sprite [Prob: 40%]
+  + 1x Varita Onda
+  + 3x Piedra Cubierta de Líquenes
+  + 1x Cristal Sangriento
+
+* Vara Revelación [Prob: 40%]
+  + 61x Mineral de Platino
+  + 99x Rama Anciana
+  + 2x Restos de Demonio
+
+* Vara de Revelación de Sprite [Prob: 40%]
+  + 1x Vara Revelación
+  + 2x Carapacho Tortuga
+  + 2x Plata Blanca Mágica
+
+* Vara Infinidad de Mosunk [Prob: 40%]
+  + 1x Vara de Revelación de Sprite
+  + 6x Corazón Tierra de Safael
+  + 1x Tronco Árbol de Mil Años
+
+* Vara Misterios de Mosunk [Prob: 60%]
+  + 1x Vara Infinidad de Mosunk
+  + 1x Emblema GBX-989 Mutante
+  + 15x Polvorín Luz de Safael
+
+* Verdugo de Criaturas de Sueños - Matar [Prob: 40%]
+  + 1x Arco Largo Furioso de Sprite
+  + 1x Diente de Leche del Sabueso Infernal
+  + 6x Alma Celeste de Safael
+
+* Vacío Esparcido - Comemundos [Prob: 55%]
+  + 1x Devorador Indiferente
+  + 1x Emblema Mutante Kushan
+  + 35x Núcleo Transformado de Maldad
+
+* Veneno Martirizante - Condenación [Prob: 40%]
+  + 1x Hacha de Abismo de Sprite
+  + 1x Sangre de Fénix
+  + 12x Poder de la Tierra Profunda
+
+* Venganza Nefasta [Prob: 40%]
+  + 1x Escudo de Acero Santo - Resplandor Solar
+  + 1x Armadura Sacra Luna Plateada
+  + 44x Cristal Alma Bestial
+
+* Vendaval Violento Aniquilador [Prob: 50%]
+  + 1x Marea - Vasto Océano
+  + 1x Llave de Rencor
+  + 44x Compuesto de Microcristales
+
+* Vendaval Sombrío [Prob: 50%]
+  + 1x Cañón del Asteroide en Llamas
+  + 1x Rugido de León
+  + 44x Compuesto de Microcristales
+
+* Vengador Divino [Prob: 55%]
+  + 1x Espada Ígnea Mística
+  + 1x Emblema de Estruendo Flamígero Mutado
+  + 35x Jade de Energía de Safael
+
+* Venganza del León Negro [Prob: 55%]
+  + 1x Maza León de Dos Cabezas
+  + 1x Emblema de Sueños
+  + 35x Alma de Honor de Safael
+
+* Voz Surrealista Demoníaca [Prob: 40%]
+  + 1x Réquiem de Demonio Sombrío
+  + 1x Diablo de los Cielos
+  + 44x Esmeralda Sombra Feroz
+
+* Voluntad Fantástica de Salvación [Prob: 40%]
+  + 1x Rezos Susurrados de Ginny
+  + 1x Artillería Milagrosa de Ginny
+  + 44x Ámbar Alternativo
+
+* Voz Mundial - Juicio Final [Prob: 55%]
+  + 1x Marca de Garra de Monstruo - Extinción
+  + 1x Emblema de Walgo Mutado
+  + 35x Jade de Luz de Safael
+
+* Voz Terminal - Corte Temporal [Prob: 40%]
+  + 1x Voz Mundial - Juicio Final
+  + 1x Marca de Garra de Monstruo - Extinción
+  + 44x Ámbar Alternativo
+
+* Zodiaco: Disipar [Prob: 55%]
+  + 1x Hacha Plateada - Seis Alas
+  + 1x Emblema de Magnita Mutado
+  + 35x Núcleo Mutante del Espíritu de Gaia
+

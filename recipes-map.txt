@@ -1,0 +1,90 @@
+* Encierro de crecimiento - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque suave
+  + 50x Pigmento Hoja Otoñal del Bosque
+  + 240x Pigmento Descolorido
+
+* Encierro para avanzados - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque refinado
+  + 50x Pigmento Brisa Cálida del Bosque
+  + 240x Pigmento Descolorido
+
+* Encierro de exploración - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque fuerte
+  + 50x Pigmento Aroma Naranja del Bosque
+  + 240x Pigmento Descolorido
+
+* Encubrimiento de crecimiento - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque tornasolado
+  + 30x Pigmento Rojo Matinal del Bosque
+  + 180x Pigmento Sobreexpuesto
+
+* Encubrimiento para avanzados - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque perlado
+  + 30x Pigmento Mágico del Bosque
+  + 180x Pigmento Sobreexpuesto
+
+* Encubrimiento de exploración - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque de diamantes
+  + 30x Pigmento Rayo de Sol del Bosque
+  + 180x Pigmento Sobreexpuesto
+
+* Encierro de crecimiento - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque suave
+  + 50x Pigmento Hoja Otoñal del Desierto
+  + 240x Pigmento Descolorido
+
+* Encierro para avanzados - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque refinado
+  + 50x Pigmento Brisa Cálida del Desierto
+  + 240x Pigmento Descolorido
+
+* Encierro de exploración - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque fuerte
+  + 50x Pigmento Aroma Naranja del Desierto
+  + 240x Pigmento Descolorido
+
+* Encubrimiento de crecimiento - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque tornasolado
+  + 30x Pigmento Rojo Matinal del Desierto
+  + 180x Pigmento Sobreexpuesto
+
+* Encubrimiento para avanzados - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque perlado
+  + 30x Pigmento Mágico del Desierto
+  + 180x Pigmento Sobreexpuesto
+
+* Encubrimiento de exploración - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque de diamantes
+  + 30x Pigmento Rayo de Sol del Desierto
+  + 180x Pigmento Sobreexpuesto
+
+* Laberinto de crecimiento - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque rugoso
+  + 75x Pigmento Carmesí del Bosque
+  + 300x Pigmento Oxidado
+
+* Laberinto para avanzados - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque liso
+  + 75x Pigmento Amatista del Bosque
+  + 300x Pigmento Oxidado
+
+* Laberinto de exploración - Mapa del bosque [Prob: 40%]
+  + 10x Mapa del bosque solido
+  + 75x Pigmento Dorado del Bosque
+  + 300x Pigmento Oxidado
+
+* Laberinto de crecimiento - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque rugoso
+  + 75x Pigmento Carmesí del Desierto
+  + 300x Pigmento Oxidado
+
+* Laberinto para avanzados - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque liso
+  + 75x Pigmento Amatista del Desierto
+  + 300x Pigmento Oxidado
+
+* Laberinto de exploración - Mapa del Desierto [Prob: 40%]
+  + 10x Mapa del bosque solido
+  + 75x Pigmento Dorado del Desierto
+  + 300x Pigmento Oxidado
+

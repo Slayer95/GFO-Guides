@@ -1,0 +1,47 @@
+* Muñeco de Conejo Gomita [Prob: 35%]
+  + 1x Guisado de Papas
+
+* Muñeco de Cangrejo Concha [Prob: 35%]
+  + 1x Pollo Ahumado con Puré
+
+* Muñeco de Ciervo de la Arboleda [Prob: 35%]
+  + 1x Pollo Ahumado con Puré
+  + 1x Muñeco de Cangrejo Concha
+
+* Muñeco de Oso de Miel [Prob: 35%]
+  + 1x Pollo Ahumado con Puré
+  + 1x Muñeco de Ciervo de la Arboleda
+
+* Muñeco de Gusano Picarón [Prob: 35%]
+  + 1x Omelet Omu
+
+* Muñeco de Araña de Sangre [Prob: 35%]
+  + 1x Omelet Omu
+  + 1x Muñeco de Gusano Picarón
+
+* Muñeco de Murciélago Vampiro Gordo [Prob: 35%]
+  + 1x Omelet Omu
+  + 1x Muñeco de Araña de Sangre
+
+* Muñeco de Cabra de Cuernos Torcidos [Prob: 35%]
+  + 1x Guisado de Salmón Cremoso
+
+* Muñeco de Duende Enmascarado [Prob: 35%]
+  + 1x Guisado de Salmón Cremoso
+  + 1x Muñeco de Cabra de Cuernos Torcidos
+
+* Muñeco de Ojo Maléfico [Prob: 35%]
+  + 1x Guisado de Salmón Cremoso
+  + 1x Muñeco de Duende Enmascarado
+
+* Muñeco de Hada de Nieve [Prob: 35%]
+  + 1x Cheesecake con Chocolate
+
+* Muñeco de Hombre-Simio de Metal Pesado [Prob: 35%]
+  + 1x Cheesecake con Chocolate
+  + 1x Muñeco de Hada de Nieve
+
+* Muñeco de Lagarto Zarpasfrías [Prob: 35%]
+  + 1x Cheesecake con Chocolate
+  + 1x Muñeco de Hombre-Simio de Metal Pesado
+
