@@ -1,47 +1,60 @@
 * Muñeco de Conejo Gomita [Prob: 35%]
   + 1x Guisado de Papas
+  # Event: 1x Guisado de Papas
 
 * Muñeco de Cangrejo Concha [Prob: 35%]
   + 1x Pollo Ahumado con Puré
+  # Event: 1x Pollo Ahumado con Puré
 
 * Muñeco de Ciervo de la Arboleda [Prob: 35%]
   + 1x Pollo Ahumado con Puré
   + 1x Muñeco de Cangrejo Concha
+  # Event: 1x Pollo Ahumado con Puré
 
 * Muñeco de Oso de Miel [Prob: 35%]
   + 1x Pollo Ahumado con Puré
   + 1x Muñeco de Ciervo de la Arboleda
+  # Event: 1x Pollo Ahumado con Puré
 
 * Muñeco de Gusano Picarón [Prob: 35%]
   + 1x Omelet Omu
+  # Event: 1x Omelet Omu
 
 * Muñeco de Araña de Sangre [Prob: 35%]
   + 1x Omelet Omu
   + 1x Muñeco de Gusano Picarón
+  # Event: 1x Omelet Omu
 
 * Muñeco de Murciélago Vampiro Gordo [Prob: 35%]
   + 1x Omelet Omu
   + 1x Muñeco de Araña de Sangre
+  # Event: 1x Omelet Omu
 
 * Muñeco de Cabra de Cuernos Torcidos [Prob: 35%]
   + 1x Guisado de Salmón Cremoso
+  # Event: 1x Guisado de Salmón Cremoso
 
 * Muñeco de Duende Enmascarado [Prob: 35%]
   + 1x Guisado de Salmón Cremoso
   + 1x Muñeco de Cabra de Cuernos Torcidos
+  # Event: 1x Guisado de Salmón Cremoso
 
 * Muñeco de Ojo Maléfico [Prob: 35%]
   + 1x Guisado de Salmón Cremoso
   + 1x Muñeco de Duende Enmascarado
+  # Event: 1x Guisado de Salmón Cremoso
 
 * Muñeco de Hada de Nieve [Prob: 35%]
   + 1x Cheesecake con Chocolate
+  # Event: 1x Cheesecake con Chocolate
 
 * Muñeco de Hombre-Simio de Metal Pesado [Prob: 35%]
   + 1x Cheesecake con Chocolate
   + 1x Muñeco de Hada de Nieve
+  # Event: 1x Cheesecake con Chocolate
 
 * Muñeco de Lagarto Zarpasfrías [Prob: 35%]
   + 1x Cheesecake con Chocolate
   + 1x Muñeco de Hombre-Simio de Metal Pesado
+  # Event: 1x Cheesecake con Chocolate
 

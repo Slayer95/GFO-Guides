@@ -2,51 +2,73 @@
   + 1x Leche de Cabra
   + 1x Grano de Cacao
   + 1x Cubitos de Hielo
+  # Event: 1x Batido de Chocolate Estropeado
+  # Event: 1x Súper Batido de Chocolate
 
 * Batido de Chocolate Máximo [Prob: 90%]
   + 1x Súper Batido de Chocolate
   + 1x Especias Divinas
+  # Event: 1x Súper Batido de Chocolate
+  # Event: 1x Batido de Chocolate Divino
 
 * Costillas de Cordero al Hierro [Prob: 80%]
   + 1x Carne de Cabra de Montaña
   + 1x Albahaca
   + 1x Huevas de Salmón
+  # Event: 1x Costillas de Cordero al Hierro Estropeadas
+  # Event: 1x Súper Costillas de Cordero al Hierro
 
 * Cheesecake con Chocolate [Prob: 80%]
   + 1x Grano de Cacao
   + 1x Huevo
   + 1x Queso Curado
+  # Event: 1x Cheesecake con Chocolate Estropeado
+  # Event: 1x Súper Cheesecake con Chocolate
 
 * Costillas de Cordero al Hierro Máximas [Prob: 90%]
   + 1x Súper Costillas de Cordero al Hierro
   + 1x Chile Fresco
+  # Event: 1x Súper Costillas de Cordero al Hierro
+  # Event: 1x Costillas de Cordero al Hierro Divinas
 
 * Cheesecake con Chocolate Máximo [Prob: 90%]
   + 1x Súper Cheesecake con Chocolate
   + 1x Especias Divinas
+  # Event: 1x Súper Cheesecake con Chocolate
+  # Event: 1x Cheesecake con Chocolate Divino
 
 * Ensalada de Trozos de Bife [Prob: 50%]
   + 1x Bife Superior
   + 1x Pepino Superior
   + 1x Carbón Superior
+  # Event: 1x Ensalada de Trozos de Bife Quemada
+  # Event: 1x Deliciosa Ensalada de Trozos de Bife
 
 * Ensalada de Hongos [Prob: 50%]
   + 1x Hongos Pequeños
   + 1x Aceite de Pez
   + 1x Carbón
+  # Event: 1x Ensalada de Hongos Deficiente
+  # Event: 1x Ensalada de Hongos Deliciosa
 
 * Ensalada de Trozos de Bife Máxima [Prob: 90%]
   + 1x Deliciosa Ensalada de Trozos de Bife
   + 1x Chile Fresco
+  # Event: 1x Deliciosa Ensalada de Trozos de Bife
+  # Event: 1x Ensalada de Trozos de Bife Divina
 
 * Ensalada de Hongos Máxima [Prob: 90%]
   + 1x Ensalada de Hongos Deliciosa
   + 1x Especias Divinas
+  # Event: 1x Ensalada de Hongos Deliciosa
+  # Event: 1x Ensalada de Hongos Divina
 
 * Filete de Ciervo [Prob: 50%]
   + 1x Ciervo
   + 1x Pepino
   + 1x Carbón
+  # Event: 1x Filete de Ciervo Quemado
+  # Event: 1x Delicioso Filete de Ciervo
 
 * Filete de Ciervo Premium [Prob: -1%]
   + 1x Filete de Ciervo
@@ -55,29 +77,41 @@
 * Filete de Ciervo Máximo [Prob: 90%]
   + 1x Delicioso Filete de Ciervo
   + 1x Ajo Fragante
+  # Event: 1x Delicioso Filete de Ciervo
+  # Event: 1x Filete de Ciervo Divino
 
 * Guisado de Papas [Prob: 80%]
   + 1x Papas
   + 1x Gambas
   + 1x Carne de Cabra de Montaña
+  # Event: 1x Guisado de Papas Estropeado
+  # Event: 1x Súper Guisado de Papas
 
 * Guisado de Salmón Cremoso [Prob: 80%]
   + 1x Carne de Salmón
   + 1x Arroz
   + 1x Queso Curado
+  # Event: 1x Guisado de Salmón Cremoso Estropeado
+  # Event: 1x Súper Guisado de Salmón Cremoso
 
 * Guisado de Papas Máximo [Prob: 90%]
   + 1x Súper Guisado de Papas
   + 1x Ajo Fragante
+  # Event: 1x Súper Guisado de Papas
+  # Event: 1x Guisado de Papas Divino
 
 * Guisado de Salmón Cremoso Máximo [Prob: 90%]
   + 1x Súper Guisado de Salmón Cremoso
   + 1x Cúrcuma Fresca
+  # Event: 1x Súper Guisado de Salmón Cremoso
+  # Event: 1x Guisado de Salmón Cremoso Divino
 
 * Hamburguesa de Carne [Prob: 50%]
   + 1x Bife
   + 1x Harina
   + 1x Carbón
+  # Event: 1x Hamburguesa de Carne Quemada
+  # Event: 1x Deliciosa Hamburguesa de Carne
 
 * Hamburguesa de Carne [Prob: -1%]
   + 1x Bife
@@ -91,84 +125,120 @@
 * Hamburguesa de Carne Máxima [Prob: 90%]
   + 1x Deliciosa Hamburguesa de Carne
   + 1x Ajo Fragante
+  # Event: 1x Deliciosa Hamburguesa de Carne
+  # Event: 1x Hamburguesa de Carne Divina
 
 * Maíz Tostado [Prob: 50%]
   + 1x Maíz
   + 1x Aceite de Pez
   + 1x Carbón
+  # Event: 1x Maíz Tostado Quemado
+  # Event: 1x Delicioso Maíz Tostado
 
 * Muslo Dorado [Prob: 50%]
   + 1x Carne de Ave Superior
   + 1x Hongos Refinados
   + 1x Carbón Superior
+  # Event: 1x Muslo Dorado Deficiente
+  # Event: 1x Muslo Dorado Delicioso
 
 * Maíz Tostado Máximo [Prob: 90%]
   + 1x Delicioso Maíz Tostado
   + 1x Chile Fresco
+  # Event: 1x Delicioso Maíz Tostado
+  # Event: 1x Maíz Tostado Divino
 
 * Muslo Dorado Máximo [Prob: 90%]
   + 1x Muslo Dorado Delicioso
   + 1x Ajo Fragante
+  # Event: 1x Muslo Dorado Delicioso
+  # Event: 1x Muslo Dorado Divino
 
 * Omelet Omu [Prob: 80%]
   + 1x Huevo
   + 1x Arroz
   + 1x Queso Curado
+  # Event: 1x Omelet Omu Estropeado
+  # Event: 1x Súper Omelet Omu
 
 * Omelet Omu Máximo [Prob: 90%]
   + 1x Súper Omelet Omu
   + 1x Cúrcuma Fresca
+  # Event: 1x Súper Omelet Omu
+  # Event: 1x Omelet Omu Divino
 
 * Pincho de Cerdo [Prob: 50%]
   + 1x Cerdo Superior
   + 1x Zanahoria Superior
   + 1x Carbón Superior
+  # Event: 1x Pincho de Cerdo Quemado
+  # Event: 1x Delicioso Pincho de Cerdo
 
 * Pez Asado [Prob: 50%]
   + 1x Carne de Pez Superior
   + 1x Maíz Superior
   + 1x Carbón Superior
+  # Event: 1x Pez Asado Quemado
+  # Event: 1x Delicioso Pez Asado
 
 * Pan de Pez [Prob: 50%]
   + 1x Harina Superior
   + 1x Aceite de Pescado Superior
   + 1x Carbón Superior
+  # Event: 1x Pan de Pez Quemado
+  # Event: 1x Delicioso Pan de Pez
 
 * Pollo Ahumado con Puré [Prob: 80%]
   + 1x Gallina
   + 1x Papas
   + 1x Gambas
+  # Event: 1x Pollo Ahumado con Puré Estropeado
+  # Event: 1x Súper Pollo Ahumado con Puré
 
 * Pincho de Cerdo Máximo [Prob: 90%]
   + 1x Delicioso Pincho de Cerdo
   + 1x Cúrcuma Fresca
+  # Event: 1x Delicioso Pincho de Cerdo
+  # Event: 1x Pincho de Cerdo Divino
 
 * Pez Asado Máximo [Prob: 90%]
   + 1x Delicioso Pez Asado
   + 1x Cúrcuma Fresca
+  # Event: 1x Delicioso Pez Asado
+  # Event: 1x Pez Asado Divino
 
 * Pan de Pez Máximo [Prob: 90%]
   + 1x Delicioso Pan de Pez
   + 1x Especias Divinas
+  # Event: 1x Delicioso Pan de Pez
+  # Event: 1x Pan de Pez Divino
 
 * Pollo Ahumado con Puré Máximo [Prob: 90%]
   + 1x Súper Pollo Ahumado con Puré
   + 1x Chile Fresco
+  # Event: 1x Súper Pollo Ahumado con Puré
+  # Event: 1x Pollo Ahumado con Puré Divino
 
 * Sopa de Cerdo BBQ [Prob: 50%]
   + 1x Cerdo
   + 1x Alga
   + 1x Carbón
+  # Event: 1x Sopa de Cerdo BBQ Quemada
+  # Event: 1x Deliciosa Sopa de Cerdo BBQ
 
 * Sopa de Pez [Prob: 50%]
   + 1x Carne de Pescado
   + 1x Zanahoria
   + 1x Carbón
+  # Event: 1x Sopa de Pez Quemada
+  # Event: 1x Deliciosa Sopa de Pez
 
 * Sopa de Ciervo [Prob: 50%]
   + 1x Ciervo Superior
   + 1x Alga Superior
   + 1x Carbón Superior
+  # Event: 1x Sopa de Ciervo Quemada
+  # Event: 1x Deliciosa Sopa de Ciervo
 
 * Sopa de Pez Premium [Prob: -1%]
   + 1x Sopa de Pez
@@ -178,56 +248,82 @@
   + 1x Albahaca
   + 1x Carne de Salmón
   + 1x Leche de Cabra
+  # Event: 1x Salmón Frito con Salsa Verde Estropeado
+  # Event: 1x Súper Salmón Frito con Salsa Verde
 
 * Sushi de Hueva de Salmón [Prob: 80%]
   + 1x Huevas de Salmón
   + 1x Arroz
   + 1x Cubitos de Hielo
+  # Event: 1x Sushi de Hueva de Salmón Estropeado
+  # Event: 1x Súper Sushi de Hueva de Salmón
 
 * Sopa de Cerdo BBQ Máxima [Prob: 90%]
   + 1x Deliciosa Sopa de Cerdo BBQ
   + 1x Ajo Fragante
+  # Event: 1x Deliciosa Sopa de Cerdo BBQ
+  # Event: 1x Sopa de Cerdo BBQ Divina
 
 * Sopa de Pez Máxima [Prob: 90%]
   + 1x Deliciosa Sopa de Pez
   + 1x Chile Fresco
+  # Event: 1x Deliciosa Sopa de Pez
+  # Event: 1x Sopa de Pez Divina
 
 * Sopa de Ciervo Máxima [Prob: 90%]
   + 1x Deliciosa Sopa de Ciervo
   + 1x Cúrcuma Fresca
+  # Event: 1x Deliciosa Sopa de Ciervo
+  # Event: 1x Sopa de Ciervo Divina
 
 * Salmón Frito con Salsa Verde Máximo [Prob: 90%]
   + 1x Súper Salmón Frito con Salsa Verde
   + 1x Cúrcuma Fresca
+  # Event: 1x Súper Salmón Frito con Salsa Verde
+  # Event: 1x Salmón Frito con Salsa Verde Divino
 
 * Sushi de Hueva de Salmón Máximo [Prob: 90%]
   + 1x Súper Sushi de Hueva de Salmón
   + 1x Especias Divinas
+  # Event: 1x Súper Sushi de Hueva de Salmón
+  # Event: 1x Sushi de Hueva de Salmón Divino
 
 * Tartera de Pollo Frito [Prob: 50%]
   + 1x Carne de Ave
   + 1x Harina Gruesa
   + 1x Carbón
+  # Event: 1x Tartera de Pollo Frito Deficiente
+  # Event: 1x Tartera de Pollo Frito Deliciosa
 
 * Tortitas de Pescado Fresco [Prob: 50%]
   + 1x Harina Superior
   + 1x Carne de Pez Superior
   + 1x Carbón Superior
+  # Event: 1x Tortitas de Pescado Fresco Deficientes
+  # Event: 1x Tortitas de Pescado Fresco Deliciosas
 
 * Tazón de Arroz con Pollo [Prob: 80%]
   + 1x Arroz
   + 1x Gambas
   + 1x Gallina
+  # Event: 1x Tazón de Arroz con Pollo Estropeado
+  # Event: 1x Súper Tazón de Arroz con Pollo
 
 * Tartera de Pollo Frito Máxima [Prob: 90%]
   + 1x Tartera de Pollo Frito Deliciosa
   + 1x Especias Divinas
+  # Event: 1x Tartera de Pollo Frito Deliciosa
+  # Event: 1x Tartera de Pollo Frito Divina
 
 * Tortitas de Pescado Fresco Máximas [Prob: 90%]
   + 1x Tortitas de Pescado Fresco Deliciosas
   + 1x Ajo Fragante
+  # Event: 1x Tortitas de Pescado Fresco Deliciosas
+  # Event: 1x Tortitas de Pescado Fresco Divinas
 
 * Tazón de Arroz con Pollo Máximo [Prob: 90%]
   + 1x Súper Tazón de Arroz con Pollo
   + 1x Chile Fresco
+  # Event: 1x Súper Tazón de Arroz con Pollo
+  # Event: 1x Tazón de Arroz con Pollo Divino
 
